@@ -1,0 +1,44 @@
+name: Clash-Sammler (Freund)
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"     # alle 30 Minuten
+  workflow_dispatch:            # erlaubt den Knopf "Run workflow" zum Testen
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sammler-freund
+  cancel-in-progress: false
+
+jobs:
+  sammeln:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Daten sammeln
+        env:
+          COC_EMAIL: ${{ secrets.COC_EMAIL }}
+          COC_PASSWORD: ${{ secrets.COC_PASSWORD }}
+          KEY_NAME: sammler-freund
+        run: python -u collect.py
+      - name: Speichern
+        run: |
+          git config user.name "clash-sammler"
+          git config user.email "sammler@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet && exit 0
+          git commit -m "Daten $(date -u +'%Y-%m-%d %H:%M')"
+          # falls inzwischen etwas anderes hochgeladen wurde: erst neuesten Stand holen, dann speichern
+          # Bei Überschneidung mit einem anderen Lauf gewinnen die Daten dieses (neueren) Laufs
+          for i in 1 2 3; do
+            git pull --rebase -X theirs && git push && exit 0
+            git rebase --abort 2>/dev/null
+            sleep 5
+          done
+          exit 1
