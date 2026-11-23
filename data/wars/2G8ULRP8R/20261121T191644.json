@@ -417,11 +417,66 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#G2YYJ9G0C",
+   "ath": 17,
+   "d": "#GG8JRRYV",
+   "dth": 17,
+   "dur": 105,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G2YYJ9G0C",
+   "ath": 17,
+   "d": "#G0RQRVQUU",
+   "dth": 17,
+   "dur": 123,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QUQ0UVV9V",
+   "ath": 17,
+   "d": "#L0LV9UGG0",
+   "dth": 18,
+   "dur": 167,
+   "o": 41,
+   "p": 90,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2LU8UUUVR",
+   "ath": 19,
+   "d": "#YJLV9UU9",
+   "dth": 19,
+   "dur": 117,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LU8UUUVR",
+   "ath": 19,
+   "d": "#G9LU9G9G8",
+   "dth": 18,
+   "dur": 102,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 82.24,
+  "destruction": 83.6,
   "members": [
    {
     "name": "Mega |V",
@@ -580,7 +635,7 @@
  },
  "end": "20261123T181644.000Z",
  "opponent": {
-  "destruction": 50.68,
+  "destruction": 64.12,
   "members": [
    {
     "name": "NaGibAtoR",
@@ -734,7 +789,7 @@
    }
   ],
   "name": "Дике поле",
-  "stars": 35,
+  "stars": 45,
   "tag": "#2L0YCJJ88"
  },
  "start": "20261122T181644.000Z",

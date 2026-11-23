@@ -1099,11 +1099,110 @@
    "p": 85,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#Y80JCC28U",
+   "ath": 19,
+   "d": "#2V2U22R2",
+   "dth": 19,
+   "dur": 7,
+   "o": 101,
+   "p": 9,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y80JCC28U",
+   "ath": 19,
+   "d": "#29QR02VPR",
+   "dth": 19,
+   "dur": 5,
+   "o": 102,
+   "p": 21,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQQLYPYUQ",
+   "ath": 19,
+   "d": "#2V2U22R2",
+   "dth": 19,
+   "dur": 20,
+   "o": 103,
+   "p": 5,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQQLYPYUQ",
+   "ath": 19,
+   "d": "#29QR02VPR",
+   "dth": 19,
+   "dur": 7,
+   "o": 104,
+   "p": 7,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2VP0UUQ00",
+   "ath": 18,
+   "d": "#2V2U22R2",
+   "dth": 19,
+   "dur": 16,
+   "o": 105,
+   "p": 5,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2VP0UUQ00",
+   "ath": 18,
+   "d": "#29QR02VPR",
+   "dth": 19,
+   "dur": 6,
+   "o": 106,
+   "p": 6,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCYCCQR8P",
+   "ath": 18,
+   "d": "#GQVPYQRV9",
+   "dth": 18,
+   "dur": 156,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GCYCCQR8P",
+   "ath": 18,
+   "d": "#PYP8Y09LY",
+   "dth": 19,
+   "dur": 180,
+   "o": 108,
+   "p": 97,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GC0L2VP20",
+   "ath": 19,
+   "d": "#2VP0UUQ00",
+   "dth": 18,
+   "dur": 124,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 86.525,
+  "destruction": 89.25,
   "members": [
    {
     "name": "Sinan |",
@@ -1347,7 +1446,7 @@
    }
   ],
   "name": "#Black Stone# 2",
-  "stars": 100,
+  "stars": 104,
   "tag": "#282PGVRRJ"
  },
  "end": "20261123T181154.000Z",
