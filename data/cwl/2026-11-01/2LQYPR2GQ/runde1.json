@@ -1,0 +1,539 @@
+{
+ "attacks": [
+  {
+   "a": "#LP8R9LJJY",
+   "ath": 18,
+   "d": "#L0YR9C8YQ",
+   "dth": 18,
+   "dur": 151,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#V8VYYQQQ",
+   "ath": 18,
+   "d": "#RR8U80YC",
+   "dth": 18,
+   "dur": 89,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#V9JLRYU",
+   "ath": 18,
+   "d": "#J888LQ8P",
+   "dth": 18,
+   "dur": 160,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YVLURJQJC",
+   "ath": 18,
+   "d": "#2U2QC928U",
+   "dth": 18,
+   "dur": 180,
+   "o": 4,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UVL22GV2",
+   "ath": 18,
+   "d": "#C8QU99UJ",
+   "dth": 18,
+   "dur": 144,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2J8QU8VV",
+   "ath": 18,
+   "d": "#VL020LG0",
+   "dth": 18,
+   "dur": 127,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q088UCCY",
+   "ath": 18,
+   "d": "#PLUUYLU0Q",
+   "dth": 18,
+   "dur": 131,
+   "o": 7,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2U2QC928U",
+   "ath": 18,
+   "d": "#2YRCCV0G",
+   "dth": 18,
+   "dur": 152,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QR9QQPQPG",
+   "ath": 18,
+   "d": "#RGU82RQG",
+   "dth": 18,
+   "dur": 139,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20GV8J0RP",
+   "ath": 18,
+   "d": "#YUCY2QGU",
+   "dth": 18,
+   "dur": 154,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VL020LG0",
+   "ath": 18,
+   "d": "#LLRULJR8Q",
+   "dth": 18,
+   "dur": 132,
+   "o": 11,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#RGU82RQG",
+   "ath": 18,
+   "d": "#QR9QQPQPG",
+   "dth": 18,
+   "dur": 107,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#C8QU99UJ",
+   "ath": 18,
+   "d": "#P2J8QU8VV",
+   "dth": 18,
+   "dur": 96,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YUCY2QGU",
+   "ath": 18,
+   "d": "#2UVL22GV2",
+   "dth": 18,
+   "dur": 136,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LLR9002GR",
+   "ath": 18,
+   "d": "#Y8LLLLURG",
+   "dth": 18,
+   "dur": 97,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0YR9C8YQ",
+   "ath": 18,
+   "d": "#LP8R9LJJY",
+   "dth": 18,
+   "dur": 131,
+   "o": 16,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YRCCV0G",
+   "ath": 18,
+   "d": "#C9PQLUR0",
+   "dth": 18,
+   "dur": 127,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9G9GQ0LQ",
+   "ath": 18,
+   "d": "#LLR9002GR",
+   "dth": 18,
+   "dur": 131,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RR8U80YC",
+   "ath": 18,
+   "d": "#V8VYYQQQ",
+   "dth": 18,
+   "dur": 150,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#C9PQLUR0",
+   "ath": 18,
+   "d": "#L8CJU0QU9",
+   "dth": 18,
+   "dur": 171,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RL8VCQP8",
+   "ath": 18,
+   "d": "#YLLP02U2C",
+   "dth": 18,
+   "dur": 162,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PLUUYLU0Q",
+   "ath": 18,
+   "d": "#Q088UCCY",
+   "dth": 18,
+   "dur": 160,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#J9LCJ8J",
+   "ath": 18,
+   "d": "#20GV8J0RP",
+   "dth": 18,
+   "dur": 141,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LLRULJR8Q",
+   "ath": 18,
+   "d": "#9G9GQ0LQ",
+   "dth": 18,
+   "dur": 139,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J888LQ8P",
+   "ath": 18,
+   "d": "#J9LCJ8J",
+   "dth": 18,
+   "dur": 117,
+   "o": 25,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VV8JYVJP",
+   "ath": 18,
+   "d": "#YVLURJQJC",
+   "dth": 18,
+   "dur": 144,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8CJU0QU9",
+   "ath": 18,
+   "d": "#8VV8JYVJP",
+   "dth": 18,
+   "dur": 143,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YLLP02U2C",
+   "ath": 18,
+   "d": "#V9JLRYU",
+   "dth": 18,
+   "dur": 130,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y8LLLLURG",
+   "ath": 18,
+   "d": "#GLCYLCJ8Q",
+   "dth": 18,
+   "dur": 180,
+   "o": 29,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GLCYLCJ8Q",
+   "ath": 18,
+   "d": "#RL8VCQP8",
+   "dth": 18,
+   "dur": 153,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": null,
+ "clan": {
+  "destruction": 99.26666666666667,
+  "members": [
+   {
+    "name": "Sinan |",
+    "pos": 9,
+    "tag": "#YUCY2QGU",
+    "th": 18
+   },
+   {
+    "name": "Eliwood",
+    "pos": 1,
+    "tag": "#RR8U80YC",
+    "th": 18
+   },
+   {
+    "name": "BeasTboSs",
+    "pos": 7,
+    "tag": "#9G9GQ0LQ",
+    "th": 18
+   },
+   {
+    "name": "#BS# T,",
+    "pos": 17,
+    "tag": "#V9JLRYU",
+    "th": 18
+   },
+   {
+    "name": "HarzDer5te",
+    "pos": 2,
+    "tag": "#C8QU99UJ",
+    "th": 18
+   },
+   {
+    "name": "Robschen",
+    "pos": 14,
+    "tag": "#RL8VCQP8",
+    "th": 18
+   },
+   {
+    "name": "King Alex Y.",
+    "pos": 3,
+    "tag": "#VL020LG0",
+    "th": 18
+   },
+   {
+    "name": "kevin",
+    "pos": 15,
+    "tag": "#LP8R9LJJY",
+    "th": 18
+   },
+   {
+    "name": "Satinique",
+    "pos": 4,
+    "tag": "#2U2QC928U",
+    "th": 18
+   },
+   {
+    "name": "Lord Soth",
+    "pos": 5,
+    "tag": "#RGU82RQG",
+    "th": 18
+   },
+   {
+    "name": "Enixloss RUSHED",
+    "pos": 16,
+    "tag": "#Y8LLLLURG",
+    "th": 18
+   },
+   {
+    "name": "Jordan",
+    "pos": 6,
+    "tag": "#C9PQLUR0",
+    "th": 18
+   },
+   {
+    "name": "GOD⚡KRATOS",
+    "pos": 10,
+    "tag": "#J9LCJ8J",
+    "th": 18
+   },
+   {
+    "name": "O.F.",
+    "pos": 13,
+    "tag": "#8VV8JYVJP",
+    "th": 18
+   },
+   {
+    "name": "#BS# Mega",
+    "pos": 11,
+    "tag": "#PLUUYLU0Q",
+    "th": 18
+   }
+  ],
+  "name": "#Black Stone# 3",
+  "stars": 43,
+  "tag": "#2LQYPR2GQ"
+ },
+ "end": "20261103T200717.000Z",
+ "opponent": {
+  "destruction": 98.13333333333334,
+  "members": [
+   {
+    "name": "ragnar",
+    "pos": 6,
+    "tag": "#YLLP02U2C",
+    "th": 18
+   },
+   {
+    "name": "defender",
+    "pos": 10,
+    "tag": "#Q088UCCY",
+    "th": 18
+   },
+   {
+    "name": "Homie",
+    "pos": 3,
+    "tag": "#V8VYYQQQ",
+    "th": 18
+   },
+   {
+    "name": "Big T",
+    "pos": 16,
+    "tag": "#L0YR9C8YQ",
+    "th": 18
+   },
+   {
+    "name": "crusty",
+    "pos": 4,
+    "tag": "#P2J8QU8VV",
+    "th": 18
+   },
+   {
+    "name": "Baldy T",
+    "pos": 17,
+    "tag": "#LLR9002GR",
+    "th": 18
+   },
+   {
+    "name": "nacho",
+    "pos": 7,
+    "tag": "#2UVL22GV2",
+    "th": 18
+   },
+   {
+    "name": "leonidas",
+    "pos": 1,
+    "tag": "#J888LQ8P",
+    "th": 18
+   },
+   {
+    "name": "Burger",
+    "pos": 11,
+    "tag": "#20GV8J0RP",
+    "th": 18
+   },
+   {
+    "name": "❤️mijo❤️",
+    "pos": 9,
+    "tag": "#YVLURJQJC",
+    "th": 18
+   },
+   {
+    "name": "Cheezit",
+    "pos": 18,
+    "tag": "#GLCYLCJ8Q",
+    "th": 18
+   },
+   {
+    "name": "eKiQue",
+    "pos": 2,
+    "tag": "#2YRCCV0G",
+    "th": 18
+   },
+   {
+    "name": "primochingon",
+    "pos": 8,
+    "tag": "#L8CJU0QU9",
+    "th": 18
+   },
+   {
+    "name": "burgeronplancha",
+    "pos": 12,
+    "tag": "#QR9QQPQPG",
+    "th": 18
+   },
+   {
+    "name": "lil rag",
+    "pos": 5,
+    "tag": "#LLRULJR8Q",
+    "th": 18
+   }
+  ],
+  "name": "Merica Refugeez",
+  "stars": 41,
+  "tag": "#RUVLYU89"
+ },
+ "round": 1,
+ "season": "2026-11-01",
+ "start": "20261102T200717.000Z",
+ "state": "warEnded",
+ "teamSize": 15,
+ "type": "cwl",
+ "warTag": "#8G2YU9GG8"
+}
