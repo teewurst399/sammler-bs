@@ -923,11 +923,154 @@
    "p": 2,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#Y22QYU90P",
+   "ath": 19,
+   "d": "#2LYU0YCQG",
+   "dth": 19,
+   "dur": 98,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y22QYU90P",
+   "ath": 19,
+   "d": "#22PRLGCPC",
+   "dth": 19,
+   "dur": 99,
+   "o": 86,
+   "p": 83,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8VV8JYVJP",
+   "ath": 19,
+   "d": "#GQVUJQ2CY",
+   "dth": 19,
+   "dur": 151,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8VV8JYVJP",
+   "ath": 19,
+   "d": "#Q8JJL0QY",
+   "dth": 17,
+   "dur": 138,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PUPP22QGJ",
+   "ath": 19,
+   "d": "#89JLCV8RR",
+   "dth": 19,
+   "dur": 39,
+   "o": 89,
+   "p": 22,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#PUPP22QGJ",
+   "ath": 19,
+   "d": "#G0GGJ9P",
+   "dth": 19,
+   "dur": 27,
+   "o": 90,
+   "p": 8,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2QRCQ0ULY",
+   "ath": 18,
+   "d": "#89JLCV8RR",
+   "dth": 19,
+   "dur": 32,
+   "o": 91,
+   "p": 16,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2QRCQ0ULY",
+   "ath": 18,
+   "d": "#G0GGJ9P",
+   "dth": 19,
+   "dur": 27,
+   "o": 92,
+   "p": 9,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GGJLJQJ92",
+   "ath": 19,
+   "d": "#89JLCV8RR",
+   "dth": 19,
+   "dur": 44,
+   "o": 93,
+   "p": 24,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GGJLJQJ92",
+   "ath": 19,
+   "d": "#G0GGJ9P",
+   "dth": 19,
+   "dur": 29,
+   "o": 94,
+   "p": 8,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYYPJJV99",
+   "ath": 19,
+   "d": "#22PRLGCPC",
+   "dth": 19,
+   "dur": 158,
+   "o": 95,
+   "p": 88,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#RR8U80YC",
+   "ath": 19,
+   "d": "#GYLJLCV",
+   "dth": 19,
+   "dur": 132,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#29LCQPJCV",
+   "ath": 18,
+   "d": "#2QR2R8VGG",
+   "dth": 17,
+   "dur": 105,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 72.91428,
+  "destruction": 79.97143,
   "members": [
    {
     "name": "JonyNation",
@@ -1141,7 +1284,7 @@
    }
   ],
   "name": "#Black Stone# 5",
-  "stars": 74,
+  "stars": 83,
   "tag": "#2GLY98C9U"
  },
  "end": "20261123T182151.000Z",
