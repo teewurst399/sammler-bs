@@ -2408,7 +2408,7 @@
   "tag": "#PG9QRVUL"
  },
  "start": "20261122T182431.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 45,
  "type": "krieg"
 }
