@@ -373,11 +373,55 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LJ0GPP8GG",
+   "ath": 16,
+   "d": "#200GGYCRV",
+   "dth": 16,
+   "dur": 90,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJ0GPP8GG",
+   "ath": 16,
+   "d": "#GLVP8QU8G",
+   "dth": 16,
+   "dur": 106,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CPJ8GUU",
+   "ath": 16,
+   "d": "#L0LV9UGG0",
+   "dth": 18,
+   "dur": 125,
+   "o": 37,
+   "p": 56,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8CPJ8GUU",
+   "ath": 16,
+   "d": "#QG0UC9LLQ",
+   "dth": 9,
+   "dur": 60,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 76.0,
+  "destruction": 82.24,
   "members": [
    {
     "name": "Mega |V",
@@ -531,12 +575,12 @@
    }
   ],
   "name": "#Black Stone# 6",
-  "stars": 57,
+  "stars": 61,
   "tag": "#2G8ULRP8R"
  },
  "end": "20261123T181644.000Z",
  "opponent": {
-  "destruction": 42.68,
+  "destruction": 50.68,
   "members": [
    {
     "name": "NaGibAtoR",
@@ -690,7 +734,7 @@
    }
   ],
   "name": "Дике поле",
-  "stars": 29,
+  "stars": 35,
   "tag": "#2L0YCJJ88"
  },
  "start": "20261122T181644.000Z",

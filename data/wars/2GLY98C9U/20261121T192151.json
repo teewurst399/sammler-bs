@@ -615,11 +615,66 @@
    "p": 81,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#U882LPR8",
+   "ath": 19,
+   "d": "#Q2Q98YVP",
+   "dth": 19,
+   "dur": 154,
+   "o": 57,
+   "p": 95,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#G2L8JR0LG",
+   "ath": 19,
+   "d": "#Q2Q98YVP",
+   "dth": 19,
+   "dur": 145,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G2L8JR0LG",
+   "ath": 19,
+   "d": "#LJJJ08YGV",
+   "dth": 18,
+   "dur": 139,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GYQJJRPL",
+   "ath": 14,
+   "d": "#8LUUC2YPU",
+   "dth": 11,
+   "dur": 94,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9GYQJJRPL",
+   "ath": 14,
+   "d": "#QYGPLGYLU",
+   "dth": 17,
+   "dur": 180,
+   "o": 61,
+   "p": 84,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 50.057144,
+  "destruction": 55.314285,
   "members": [
    {
     "name": "JonyNation",
@@ -833,12 +888,12 @@
    }
   ],
   "name": "#Black Stone# 5",
-  "stars": 50,
+  "stars": 54,
   "tag": "#2GLY98C9U"
  },
  "end": "20261123T182151.000Z",
  "opponent": {
-  "destruction": 86.11429,
+  "destruction": 91.828575,
   "members": [
    {
     "name": "amaterasu",
@@ -1052,7 +1107,7 @@
    }
   ],
   "name": "КЛАДБИЩЕ",
-  "stars": 87,
+  "stars": 93,
   "tag": "#2GVRGC20G"
  },
  "start": "20261122T182151.000Z",
