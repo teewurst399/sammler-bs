@@ -1055,11 +1055,88 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8RJ9JUJUV",
+   "ath": 19,
+   "d": "#Q2R0JJPVP",
+   "dth": 19,
+   "dur": 134,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9899820C",
+   "ath": 19,
+   "d": "#2RVLPLRJG",
+   "dth": 19,
+   "dur": 180,
+   "o": 98,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9899820C",
+   "ath": 19,
+   "d": "#Y2R00PPU2",
+   "dth": 19,
+   "dur": 150,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20VV2VR2V",
+   "ath": 19,
+   "d": "#PV0V2PG0",
+   "dth": 19,
+   "dur": 154,
+   "o": 100,
+   "p": 77,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#20VV2VR2V",
+   "ath": 19,
+   "d": "#QV2YQGL9J",
+   "dth": 19,
+   "dur": 180,
+   "o": 101,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2QURJVR0Y",
+   "ath": 19,
+   "d": "#LYPLRGLQ",
+   "dth": 19,
+   "dur": 46,
+   "o": 102,
+   "p": 15,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2QURJVR0Y",
+   "ath": 19,
+   "d": "#UJ0PGC9G",
+   "dth": 19,
+   "dur": 34,
+   "o": 103,
+   "p": 8,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 45.822224,
+  "destruction": 53.955555,
   "members": [
    {
     "name": "Fighter",
@@ -1333,7 +1410,7 @@
    }
   ],
   "name": "#Black Stone#",
-  "stars": 56,
+  "stars": 66,
   "tag": "#Y898LCJ0"
  },
  "end": "20261123T182431.000Z",

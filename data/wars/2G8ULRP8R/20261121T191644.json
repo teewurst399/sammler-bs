@@ -274,11 +274,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8L2RLYV0V",
+   "ath": 15,
+   "d": "#LPJ2VC9C9",
+   "dth": 14,
+   "dur": 142,
+   "o": 26,
+   "p": 97,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GLVP8QU8G",
+   "ath": 16,
+   "d": "#Q2P2G20V9",
+   "dth": 18,
+   "dur": 131,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GLVP8QU8G",
+   "ath": 16,
+   "d": "#PR8PYLQRG",
+   "dth": 17,
+   "dur": 122,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YPL298Q02",
+   "ath": 16,
+   "d": "#R2PC9GRPY",
+   "dth": 16,
+   "dur": 137,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QG0UC9LLQ",
+   "ath": 9,
+   "d": "#QP8CU9RP2",
+   "dth": 12,
+   "dur": 56,
+   "o": 30,
+   "p": 38,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#L20Y9QJRP",
+   "ath": 19,
+   "d": "#2PLPQJQ80",
+   "dth": 19,
+   "dur": 148,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YUC08V8J2",
+   "ath": 19,
+   "d": "#8J982QVR8",
+   "dth": 19,
+   "dur": 145,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L20Y9QJRP",
+   "ath": 19,
+   "d": "#GP890LPUJ",
+   "dth": 19,
+   "dur": 144,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YUC08V8J2",
+   "ath": 19,
+   "d": "#GQVRJRYVG",
+   "dth": 19,
+   "dur": 169,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 64.0,
+  "destruction": 76.0,
   "members": [
    {
     "name": "Mega |V",
@@ -432,12 +531,12 @@
    }
   ],
   "name": "#Black Stone# 6",
-  "stars": 48,
+  "stars": 57,
   "tag": "#2G8ULRP8R"
  },
  "end": "20261123T181644.000Z",
  "opponent": {
-  "destruction": 25.16,
+  "destruction": 42.68,
   "members": [
    {
     "name": "NaGibAtoR",
@@ -591,7 +690,7 @@
    }
   ],
   "name": "Дике поле",
-  "stars": 16,
+  "stars": 29,
   "tag": "#2L0YCJJ88"
  },
  "start": "20261122T181644.000Z",
