@@ -85,7 +85,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "WolvesOfGlory",
+     "clantag": "#2LC99JJUQ",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "WolvesOfGlory",
+     "clantag": "#2LC99JJUQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "WolvesOfWar",
+     "clantag": "#2Q02LVCR9",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    }
+   ]
   },
   "#LYPLRGLQ": {
    "name": "Tyy",
@@ -170,7 +199,36 @@
     "angriffe": 6,
     "sterne": 15,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 6,
+     "sterne": 15,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 4,
+     "sterne": 8,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-08",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 2",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 4
+    }
+   ]
   },
   "#UJ0PGC9G": {
    "name": "Kaiser F.J. I.",
@@ -255,7 +313,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 2",
+     "angriffe": 5,
+     "sterne": 13,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    }
+   ]
   },
   "#8GR08QLPL": {
    "name": "NeVeRz",
@@ -330,7 +417,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Eiskalte Engel",
+     "clantag": "#9UCL90RP",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#YCU9JJ0Y2": {
    "name": "LORD D'ANDRE",
@@ -415,7 +531,36 @@
     "angriffe": 7,
     "sterne": 18,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#P00RLV9Q": {
    "name": "LORD ANDRÉ",
@@ -500,7 +645,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    }
+   ]
   },
   "#C9PQLUR0": {
    "name": "Jordan",
@@ -585,7 +759,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Hokus-Pokus",
+     "clantag": "#2Q9QUPVYC",
+     "liga": "Champion 2",
+     "angriffe": 5,
+     "sterne": 13,
+     "dreier": 3
+    }
+   ]
   },
   "#Q0PUJRQ9": {
    "name": "Black Fire",
@@ -660,7 +863,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Get Buttered!",
+     "clantag": "#2R98Y8YUJ",
+     "liga": "Legende",
+     "angriffe": 6,
+     "sterne": 17,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Throne_of_Gods",
+     "clantag": "#2JQQ8QJGP",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#2RL08CP08": {
    "name": "!DAVID!",
@@ -745,7 +977,36 @@
     "angriffe": 5,
     "sterne": 13,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 5,
+     "sterne": 13,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-08",
+     "clan": "\"Der Weltclan\"",
+     "clantag": "#CQVPRJR",
+     "liga": "Champion 2",
+     "angriffe": 5,
+     "sterne": 12,
+     "dreier": 2
+    }
+   ]
   },
   "#2U2QC928U": {
    "name": "Satinique",
@@ -830,7 +1091,36 @@
     "angriffe": 7,
     "sterne": 18,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 2,
+     "sterne": 6,
+     "dreier": 2
+    }
+   ]
   },
   "#C8QU99UJ": {
    "name": "HarzDer5te",
@@ -915,7 +1205,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 1",
+     "angriffe": 6,
+     "sterne": 17,
+     "dreier": 5
+    }
+   ]
   },
   "#GY28YLCVP": {
    "name": "LeoHund",
@@ -1000,7 +1319,36 @@
     "angriffe": 7,
     "sterne": 18,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 16,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 1",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 4
+    }
+   ]
   },
   "#89JLCV8RR": {
    "name": "DerBarbar",
@@ -1085,7 +1433,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#28JRGLLQU": {
    "name": "EXELIAS",
@@ -1170,7 +1547,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Zero Mercy",
+     "clantag": "#2CCCYYPLL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Astralkraft",
+     "clantag": "#22Q9CL0Y8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-02",
+     "clan": "BESTE JÄGER LAI",
+     "clantag": "#89J92R0",
+     "liga": "Champion 2",
+     "angriffe": 6,
+     "sterne": 17,
+     "dreier": 5
+    }
+   ]
   },
   "#82JV0VPL": {
    "name": "Fighter",
@@ -1255,7 +1661,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#LY9GPVU88": {
    "name": "IamPaul",
@@ -1340,7 +1775,36 @@
     "angriffe": 6,
     "sterne": 15,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 6,
+     "sterne": 15,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 1",
+     "angriffe": 6,
+     "sterne": 17,
+     "dreier": 5
+    }
+   ]
   },
   "#2GYJVLCU": {
    "name": "2L4S T,",
@@ -1425,7 +1889,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    }
+   ]
   },
   "#PGPJUCQR8": {
    "name": "Savage",
@@ -1510,7 +2003,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#UPPLV9GV": {
    "name": "DATPotter",
@@ -1595,7 +2117,36 @@
     "angriffe": 5,
     "sterne": 12,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 5,
+     "sterne": 12,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#2VPR20CGP": {
    "name": "Kade",
@@ -1670,7 +2221,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 5
+    }
+   ]
   },
   "#28UGQ09LG": {
    "name": "Portgas",
@@ -1755,7 +2335,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#89CCLQLLG": {
    "name": "Jannic",
@@ -1830,7 +2439,36 @@
     "angriffe": 6,
     "sterne": 14,
     "dreier": 2
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 6,
+     "sterne": 14,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#PLJV8CLRQ": {
    "name": "sava",
@@ -1865,7 +2503,36 @@
       "stars": 82
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-07",
+     "clan": "Germantitans2.1",
+     "clantag": "#9JCUUP90",
+     "liga": "Meister 1",
+     "angriffe": 4,
+     "sterne": 11,
+     "dreier": 3
+    }
+   ]
   },
   "#20VV2VR2V": {
    "name": "DerDani",
@@ -1950,7 +2617,36 @@
     "angriffe": 7,
     "sterne": 18,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#GC0L2VP20": {
    "name": "MiniHarz",
@@ -2035,7 +2731,36 @@
     "angriffe": 6,
     "sterne": 15,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 6,
+     "sterne": 15,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#RQJ2P2LV": {
    "name": "Mailo",
@@ -2120,7 +2845,18 @@
     "angriffe": 7,
     "sterne": 18,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    }
+   ]
   },
   "#PLP0RUJ": {
    "name": "Jo$ha",
@@ -2180,7 +2916,36 @@
       "stars": 87
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-08",
+     "clan": "\"Der Weltclan\"",
+     "clantag": "#CQVPRJR",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-07",
+     "clan": "Germantitans2.1",
+     "clantag": "#9JCUUP90",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#RGU82RQG": {
    "name": "Lord Soth",
@@ -2265,7 +3030,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    }
+   ]
   },
   "#CV9LC02": {
    "name": "Drust",
@@ -2350,7 +3144,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 3
+    }
+   ]
   },
   "#8VV8JYVJP": {
    "name": "O.F.",
@@ -2435,7 +3258,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#PLUUYLU0Q": {
    "name": "#BS# Mega",
@@ -2495,7 +3347,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 3
+    }
+   ]
   },
   "#2V00CYVQP": {
    "name": "#BS# Noktamor",
@@ -2580,7 +3461,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 5,
+     "sterne": 12,
+     "dreier": 2
+    }
+   ]
   },
   "#QPRGLUVU": {
    "name": "Lias",
@@ -2665,7 +3575,36 @@
     "angriffe": 7,
     "sterne": 18,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 2,
+     "sterne": 4,
+     "dreier": 1
+    }
+   ]
   },
   "#J9LCJ8J": {
    "name": "GOD⚡KRATOS",
@@ -2725,7 +3664,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#L9JL2P8LL": {
    "name": "Tobi❤️Kia",
@@ -2810,7 +3778,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Battlefield",
+     "clantag": "#2GCVVU89J",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Battlefield",
+     "clantag": "#2GCVVU89J",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Queens of war",
+     "clantag": "#2C0YPP08Q",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 5
+    }
+   ]
   },
   "#LCY9VGY9": {
    "name": "GL⚔️ CoπS",
@@ -2895,7 +3892,36 @@
     "angriffe": 6,
     "sterne": 14,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 2",
+     "angriffe": 6,
+     "sterne": 14,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 1",
+     "angriffe": 5,
+     "sterne": 13,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#PJU2UQ0P": {
    "name": "Urla",
@@ -2980,7 +4006,36 @@
     "angriffe": 6,
     "sterne": 16,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 5,
+     "sterne": 13,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    }
+   ]
   },
   "#P0QRCQQ2": {
    "name": "GOD Imperator",
@@ -3065,7 +4120,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 5,
+     "sterne": 12,
+     "dreier": 3
+    }
+   ]
   },
   "#VL020LG0": {
    "name": "King Alex Y.",
@@ -3150,7 +4234,36 @@
     "angriffe": 5,
     "sterne": 13,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 2",
+     "angriffe": 5,
+     "sterne": 13,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#Q92V9GRYJ": {
    "name": "chris",
@@ -3235,7 +4348,36 @@
     "angriffe": 5,
     "sterne": 12,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 5,
+     "sterne": 12,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 3
+    }
+   ]
   },
   "#GYYPJJV99": {
    "name": "Palme",
@@ -3295,7 +4437,36 @@
       "stars": 6
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-06",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 2,
+     "sterne": 6,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-05",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-01",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    }
+   ]
   },
   "#GVV89RLC": {
    "name": "❄️ColdStar❄️",
@@ -3380,7 +4551,36 @@
     "angriffe": 7,
     "sterne": 17,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#GQQ02YVY": {
    "name": "Görkem",
@@ -3465,7 +4665,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#8YLLQULP0": {
    "name": "NeVeRzz",
@@ -3540,7 +4769,36 @@
     "angriffe": 6,
     "sterne": 18,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 6,
+     "sterne": 18,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    }
+   ]
   },
   "#80G2RCQ": {
    "name": "CwnoobVerwalter",
@@ -3615,7 +4873,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 2",
+     "angriffe": 6,
+     "sterne": 17,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#2PPYL9YPU": {
    "name": "s3m",
@@ -3700,7 +4987,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "CLASH LAND",
+     "clantag": "#2G90QV0VV",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "écdad-ı øsmanlı",
+     "clantag": "#288L0LP0J",
+     "liga": "Titan 3",
+     "angriffe": 4,
+     "sterne": 11,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-09",
+     "clan": "écdad-ı øsmanlı",
+     "clantag": "#288L0LP0J",
+     "liga": "Titan 3",
+     "angriffe": 5,
+     "sterne": 14,
+     "dreier": 4
+    }
+   ]
   },
   "#G0GGJ9P": {
    "name": "Tobelchen",
@@ -3785,7 +5101,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 4,
+     "sterne": 8,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 3
+    }
+   ]
   },
   "#8J982QVR8": {
    "name": "Gorillapo",
@@ -3880,7 +5225,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 5,
+     "sterne": 13,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    }
+   ]
   },
   "#9PPLRGC": {
    "name": "Olli",
@@ -3965,7 +5339,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 3,
+     "sterne": 7,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#PQ9YL90R": {
    "name": "Kaiser⚡️Trajan",
@@ -4025,7 +5428,36 @@
       "stars": 72
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Meister 1",
+     "angriffe": 6,
+     "sterne": 15,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-07",
+     "clan": "Götterdämmerung",
+     "clantag": "#28QQVC9LL",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-06",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#QVYVUPGU": {
    "name": "Semo",
@@ -4060,7 +5492,36 @@
       "stars": 55
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-08",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-07",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-06",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 3",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 3
+    }
+   ]
   },
   "#QLPP2LPQG": {
    "name": "Oroschi",
@@ -4115,7 +5576,27 @@
       "stars": 27
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-06",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 5,
+     "sterne": 14,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-05",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Champion 1",
+     "angriffe": 5,
+     "sterne": 14,
+     "dreier": 4
+    }
+   ]
   },
   "#PRJCUJUQ9": {
    "name": "Junior❤️",
@@ -4200,7 +5681,36 @@
     "angriffe": 4,
     "sterne": 9,
     "dreier": 1
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 4,
+     "sterne": 9,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 4,
+     "sterne": 8,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#9CRYV0PY": {
    "name": "Spenkxlp_CoC",
@@ -4260,7 +5770,36 @@
       "stars": 93
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-08",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-07",
+     "clan": "Götterdämmerung",
+     "clantag": "#28QQVC9LL",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 4
+    }
+   ]
   },
   "#YVV8Y8UP": {
    "name": "R.+C. H.z",
@@ -4335,7 +5874,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    }
+   ]
   },
   "#JGGQYRLC": {
    "name": "#BS# Danger;)",
@@ -4380,7 +5948,36 @@
       "stars": 7
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-05",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 5,
+     "sterne": 15,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-04",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Meister 1",
+     "angriffe": 5,
+     "sterne": 11,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-03",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 3
+    }
+   ]
   },
   "#9G9GQ0LQ": {
    "name": "BeasTboSs",
@@ -4465,7 +6062,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#Y9YG9JYPU": {
    "name": "TIAGO 2006",
@@ -4540,7 +6166,36 @@
       "stars": 89
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 2",
+     "angriffe": 4,
+     "sterne": 8,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 3
+    }
+   ]
   },
   "#8LGQ2UGPY": {
    "name": "ꜱᴀᴠᴀɢᴇ",
@@ -4625,7 +6280,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "F.P",
+     "clantag": "#2RVP828G9",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "F.P",
+     "clantag": "#2RVP828G9",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "CrudeHumor",
+     "clantag": "#28CJV8982",
+     "liga": "Kristall 3",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    }
+   ]
   },
   "#Y8CQUYUQ": {
    "name": "MQ-5",
@@ -4710,7 +6394,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 3,
+     "sterne": 6,
+     "dreier": 1
+    }
+   ]
   },
   "#800RYYUYJ": {
    "name": "Gaaya",
@@ -4795,7 +6508,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Silvr Syndicate",
+     "clantag": "#2QCRVY228",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "LEGENDS",
+     "clantag": "#2LQRGR9P8",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "LEGENDS",
+     "clantag": "#2LQRGR9P8",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#GR2U89VG": {
    "name": "Semo II",
@@ -4830,7 +6572,36 @@
       "stars": 55
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-08",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-07",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-06",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#G20C208LP": {
    "name": "Pantaleimos_2.0",
@@ -4915,7 +6686,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Die Tscheckels",
+     "clantag": "#PJC2R0C9",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Die Tscheckels",
+     "clantag": "#PJC2R0C9",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-08",
+     "clan": "Die Tscheckels",
+     "clantag": "#PJC2R0C9",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#9J0R9UPYG": {
    "name": "ItsDevon",
@@ -5000,7 +6800,36 @@
     "angriffe": 7,
     "sterne": 17,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "23-NotXtreme",
+     "clantag": "#2QJVPG8QV",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "GANGSTER",
+     "clantag": "#RY0VU8LY",
+     "liga": "Champion 2",
+     "angriffe": 6,
+     "sterne": 15,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "GANGSTER",
+     "clantag": "#RY0VU8LY",
+     "liga": "Champion 2",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 5
+    }
+   ]
   },
   "#2CQQ20JV": {
    "name": "Pantaleimos",
@@ -5085,7 +6914,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Little Ones",
+     "clantag": "#8Q08PQ0R",
+     "liga": "Titan 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "★EndOneS★",
+     "clantag": "#2R2YC8GUJ",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-08",
+     "clan": "Dark Prime",
+     "clantag": "#2Y08CVYG",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    }
+   ]
   },
   "#2P9YCPRCR": {
    "name": "Leon",
@@ -5160,7 +7018,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "FLYHIGH ANDREWE",
+     "clantag": "#2RLULP90R",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "FLYHIGH ANDREWE",
+     "clantag": "#2RLULP90R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "FLYHIGH ANDREWE",
+     "clantag": "#2RLULP90R",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    }
+   ]
   },
   "#GJQYYUR8V": {
    "name": "Exitus",
@@ -5235,7 +7122,36 @@
     "angriffe": 2,
     "sterne": 3,
     "dreier": 0
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 2,
+     "sterne": 3,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#222L9V0C": {
    "name": "Ic3 GoL3m",
@@ -5310,7 +7226,36 @@
       "stars": 111
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 1",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-08",
+     "clan": "\"Der Weltclan\"",
+     "clantag": "#CQVPRJR",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#RL8VCQP8": {
    "name": "Robschen",
@@ -5395,7 +7340,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 1",
+     "angriffe": 6,
+     "sterne": 15,
+     "dreier": 4
+    }
+   ]
   },
   "#YUCY2QGU": {
    "name": "Sinan |",
@@ -5480,7 +7454,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 1",
+     "angriffe": 6,
+     "sterne": 17,
+     "dreier": 5
+    }
+   ]
   },
   "#PVPJLVLV": {
    "name": "Sinan ||",
@@ -5565,7 +7568,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#88GJJQL0": {
    "name": "JonyNation",
@@ -5640,7 +7672,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 2
+    }
+   ]
   },
   "#JVCRQ200": {
    "name": "Claas",
@@ -5700,7 +7761,36 @@
       "stars": 69
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-07",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 6,
+     "sterne": 15,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-06",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    }
+   ]
   },
   "#82LP90C99": {
    "name": "GL⚔️M!KO",
@@ -5735,7 +7825,36 @@
       "stars": 21
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-06",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-03",
+     "clan": "Iron Fist",
+     "clantag": "#PRCVLCP",
+     "liga": "Champion 3",
+     "angriffe": 5,
+     "sterne": 10,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-02",
+     "clan": "Iron Fist",
+     "clantag": "#PRCVLCP",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#RR8U80YC": {
    "name": "Eliwood",
@@ -5820,7 +7939,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    }
+   ]
   },
   "#2PLPQJQ80": {
    "name": "ExCore",
@@ -5905,7 +8053,36 @@
     "angriffe": 5,
     "sterne": 9,
     "dreier": 0
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 5,
+     "sterne": 9,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 16,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 1,
+     "sterne": 2,
+     "dreier": 0
+    }
+   ]
   },
   "#QL9PGC2VJ": {
    "name": "#BS# pP",
@@ -5925,7 +8102,36 @@
       "stars": 18
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-05",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 14,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-03",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-02",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#L9U9CP0CQ": {
    "name": "Thor",
@@ -6010,7 +8216,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Ray",
+     "clantag": "#2QRJ9VQV0",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#LP8R9LJJY": {
    "name": "kevin",
@@ -6095,7 +8330,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Aperoli",
+     "clantag": "#2GCPU88Y9",
+     "liga": "Meister 2",
+     "angriffe": 1,
+     "sterne": 3,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#UCPPUR0R": {
    "name": "Pati",
@@ -6180,7 +8444,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Young Oberpfalz",
+     "clantag": "#2GVUPGUC",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Young Oberpfalz",
+     "clantag": "#2GVUPGUC",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Young Oberpfalz",
+     "clantag": "#2GVUPGUC",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    }
+   ]
   },
   "#L8G0JPL9": {
    "name": "stylevaro",
@@ -6255,7 +8548,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Kings&Queens",
+     "clantag": "#U08V9PY",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Kings&Queens",
+     "clantag": "#U08V9PY",
+     "liga": "Meister 3",
+     "angriffe": 2,
+     "sterne": 4,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-08",
+     "clan": "Kings&Queens",
+     "clantag": "#U08V9PY",
+     "liga": "Meister 3",
+     "angriffe": 6,
+     "sterne": 18,
+     "dreier": 6
+    }
+   ]
   },
   "#GPCVCCYR": {
    "name": "Mohsen",
@@ -6330,7 +8652,27 @@
     "angriffe": 0,
     "sterne": 0,
     "dreier": 0
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "A- is Failure",
+     "clantag": "#2Q90Q0RCC",
+     "liga": "Meister 1",
+     "angriffe": 2,
+     "sterne": 5,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-08",
+     "clan": "A- is Failure",
+     "clantag": "#2Q90Q0RCC",
+     "liga": "Meister 1",
+     "angriffe": 1,
+     "sterne": 2,
+     "dreier": 0
+    }
+   ]
   },
   "#P0YYCYRG8": {
    "name": "King 7.0",
@@ -6395,7 +8737,36 @@
       "stars": 78
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    }
+   ]
   },
   "#9899820C": {
    "name": "alex",
@@ -6480,7 +8851,36 @@
     "angriffe": 7,
     "sterne": 17,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Titan 1",
+     "angriffe": 3,
+     "sterne": 6,
+     "dreier": 0
+    }
+   ]
   },
   "#QVC2PLL8": {
    "name": "Lias ll",
@@ -6565,7 +8965,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 2",
+     "angriffe": 6,
+     "sterne": 18,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#Y8LLLLURG": {
    "name": "Enixloss RUSHED",
@@ -6655,7 +9084,36 @@
     "angriffe": 5,
     "sterne": 10,
     "dreier": 1
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 2",
+     "angriffe": 5,
+     "sterne": 10,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#QQC2P0PU0": {
    "name": "MiggelAngelo",
@@ -6705,7 +9163,36 @@
       "stars": 99
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 1",
+     "angriffe": 2,
+     "sterne": 3,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#8GJCYRYJ": {
    "name": "TavuronVX",
@@ -6790,7 +9277,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 5,
+     "sterne": 14,
+     "dreier": 4
+    }
+   ]
   },
   "#Q98U2CQP8": {
    "name": "Slayer.",
@@ -6865,7 +9381,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "F.P",
+     "clantag": "#2RVP828G9",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "F.P",
+     "clantag": "#2RVP828G9",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-08",
+     "clan": "F.P CWL-Push",
+     "clantag": "#2CLUG08UQ",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#YCJGQRJVR": {
    "name": "Mindo",
@@ -6950,7 +9495,36 @@
     "angriffe": 3,
     "sterne": 9,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Elite",
+     "clantag": "#2LR2G0RJR",
+     "liga": "Champion 3",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Elite",
+     "clantag": "#2LR2G0RJR",
+     "liga": "Champion 3",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Elite",
+     "clantag": "#2LR2G0RJR",
+     "liga": "Meister 1",
+     "angriffe": 5,
+     "sterne": 14,
+     "dreier": 4
+    }
+   ]
   },
   "#PY89UPY92": {
    "name": "メ KalleX メ",
@@ -7025,7 +9599,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#GCYCCQR8P": {
    "name": "W£IRÐ๛SHAHツ",
@@ -7090,7 +9693,36 @@
       "stars": 87
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "CRIMSON WORLD",
+     "clantag": "#2U928VCU0",
+     "liga": "Meister 1",
+     "angriffe": 5,
+     "sterne": 13,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-09",
+     "clan": "VAMPIRE DYNASTY",
+     "clantag": "#2CVJJPR8Q",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 16,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-08",
+     "clan": "ABYSS WORLD",
+     "clantag": "#2CYCV0LGL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#PCYLUQJQ": {
    "name": "ɴᴠʀᴢッ",
@@ -7165,7 +9797,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#QGCGRPYPY": {
    "name": "qLooPe",
@@ -7250,7 +9911,36 @@
     "angriffe": 4,
     "sterne": 8,
     "dreier": 2
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "A clan",
+     "clantag": "#28LR2YP89",
+     "liga": "Champion 1",
+     "angriffe": 4,
+     "sterne": 8,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-10",
+     "clan": "HRZ Reborn™",
+     "clantag": "#2G9R8QJC2",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "i am person",
+     "clantag": "#2QVL9RGY2",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#Y22QYU90P": {
    "name": "(FF) Paul",
@@ -7320,7 +10010,36 @@
       "stars": 41
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-07",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-06",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    }
+   ]
   },
   "#2G98229JQ": {
    "name": "Beast Mode",
@@ -7395,7 +10114,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "FLYHIGH ANDREWE",
+     "clantag": "#2RLULP90R",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "FLYHIGH ANDREWE",
+     "clantag": "#2RLULP90R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "FLYHIGH ANDREWE",
+     "clantag": "#2RLULP90R",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#YJLV9UU9": {
    "name": "supersiedel",
@@ -7480,7 +10228,36 @@
     "angriffe": 4,
     "sterne": 10,
     "dreier": 2
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 14,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 4,
+     "sterne": 7,
+     "dreier": 0
+    }
+   ]
   },
   "#29QR02VPR": {
    "name": "⭐️cani⭐️",
@@ -7575,7 +10352,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#8RJ9JUJUV": {
    "name": "horror",
@@ -7660,7 +10466,27 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-06",
+     "clan": "Redline",
+     "clantag": "#UPYLQPYC",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#92YRGJ8": {
    "name": "[HaFa] matti",
@@ -7745,7 +10571,36 @@
     "angriffe": 6,
     "sterne": 17,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Titan 3",
+     "angriffe": 6,
+     "sterne": 17,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 1",
+     "angriffe": 5,
+     "sterne": 14,
+     "dreier": 4
+    }
+   ]
   },
   "#Q2URCC8JJ": {
    "name": "Ｉ ᴬᴹ ╰⁔╯ＦＡＷＡＺ♡ツ",
@@ -7795,7 +10650,36 @@
       "stars": 85
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 4,
+     "sterne": 8,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-07",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#GP890LPUJ": {
    "name": "FoldDaNutz",
@@ -7880,7 +10764,36 @@
     "angriffe": 3,
     "sterne": 9,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 5,
+     "sterne": 10,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 4
+    }
+   ]
   },
   "#9UVPU8CUG": {
    "name": "Hermann 1",
@@ -7975,7 +10888,36 @@
     "angriffe": 3,
     "sterne": 8,
     "dreier": 2
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "GFA",
+     "clantag": "#2JUVQ908V",
+     "liga": "Meister 2",
+     "angriffe": 3,
+     "sterne": 8,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-10",
+     "clan": "GFA",
+     "clantag": "#2JUVQ908V",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "GFA",
+     "clantag": "#2JUVQ908V",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#QRQCGVVR": {
    "name": "bacon",
@@ -8060,7 +11002,36 @@
     "angriffe": 7,
     "sterne": 16,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Zero Mercy",
+     "clantag": "#2CCCYYPLL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 16,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Zero Mercy",
+     "clantag": "#2CCCYYPLL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Clansterdam",
+     "clantag": "#UGRPRVV0",
+     "liga": "Gold 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#GGQQGPQUP": {
    "name": "€Goblin$",
@@ -8150,7 +11121,27 @@
       "stars": 1
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "MaaaTuuuWeee",
+     "clantag": "#2RQUYQQUL",
+     "liga": "Gold 1",
+     "angriffe": 6,
+     "sterne": 10,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-09",
+     "clan": "MaaaTuuuWeee",
+     "clantag": "#2RQUYQQUL",
+     "liga": "Gold 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#VQL2GGR": {
    "name": "“KhOdEr”",
@@ -8235,7 +11226,36 @@
     "angriffe": 7,
     "sterne": 18,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "⊂((・⊥・))⊃",
+     "clantag": "#2CPYQG9V8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "RANDHANI PARA||",
+     "clantag": "#2J2VYLQG8",
+     "liga": "Meister 3",
+     "angriffe": 5,
+     "sterne": 11,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-09",
+     "clan": "THE CHAMPIONS",
+     "clantag": "#GLVL2U09",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 16,
+     "dreier": 4
+    }
+   ]
   },
   "#GQVRJRYVG": {
    "name": "Pokspieler",
@@ -8320,7 +11340,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 5,
+     "sterne": 9,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#2GCVU20UY": {
    "name": "Vito Corleone",
@@ -8405,7 +11454,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Zero Mercy",
+     "clantag": "#2CCCYYPLL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Zero Mercy",
+     "clantag": "#2CCCYYPLL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Thousand Chicks",
+     "clantag": "#2JVJ92YYR",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#Q2Q98YVP": {
    "name": "[HaFa] ✨matt✨",
@@ -8490,7 +11568,36 @@
     "angriffe": 4,
     "sterne": 10,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 1",
+     "angriffe": 5,
+     "sterne": 15,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 1",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    }
+   ]
   },
   "#VGJY082R": {
    "name": "TheSpecialOne",
@@ -8575,7 +11682,36 @@
     "angriffe": 3,
     "sterne": 9,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 2,
+     "sterne": 6,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#BS2# CwL",
+     "clantag": "#2RC8L0VVU",
+     "liga": "Champion 1",
+     "angriffe": 4,
+     "sterne": 12,
+     "dreier": 4
+    }
+   ]
   },
   "#L2J29LLP2": {
    "name": "[HaFa] ⭐️matt⭐️",
@@ -8650,7 +11786,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 4,
+     "sterne": 11,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 3",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    }
+   ]
   },
   "#PRPVRQQPR": {
    "name": "Michael Corleon",
@@ -8745,7 +11910,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Zero Mercy",
+     "clantag": "#2CCCYYPLL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Zero Mercy",
+     "clantag": "#2CCCYYPLL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "MUSLIM HEROES",
+     "clantag": "#29RR2QRQP",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#LRJU9YJY9": {
    "name": "Moonlanding11",
@@ -8830,7 +12024,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    }
+   ]
   },
   "#YVG8UUULY": {
    "name": "Jon Snow",
@@ -8925,7 +12148,36 @@
     "angriffe": 5,
     "sterne": 15,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Zero Mercy",
+     "clantag": "#2CCCYYPLL",
+     "liga": "Meister 1",
+     "angriffe": 5,
+     "sterne": 15,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Zero Mercy",
+     "clantag": "#2CCCYYPLL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "MUSLIM HEROES",
+     "clantag": "#29RR2QRQP",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#2RYJR82VJ": {
    "name": "Uᴍᴇʀ亗",
@@ -9020,7 +12272,36 @@
     "angriffe": 5,
     "sterne": 13,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Zero Mercy",
+     "clantag": "#2CCCYYPLL",
+     "liga": "Meister 1",
+     "angriffe": 5,
+     "sterne": 13,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Zero Mercy",
+     "clantag": "#2CCCYYPLL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 15,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "MUSLIM HEROES",
+     "clantag": "#29RR2QRQP",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#9CJCV9Q9G": {
    "name": "BenedictC.⌐╦╦═─",
@@ -9095,7 +12376,36 @@
     "angriffe": 7,
     "sterne": 18,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "⊂((・⊥・))⊃",
+     "clantag": "#2CPYQG9V8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "⊂((・⊥・))⊃",
+     "clantag": "#2CPYQG9V8",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-02",
+     "clan": "WARRIORS LEGEND",
+     "clantag": "#CPPLVQ0Y",
+     "liga": "Kristall 3",
+     "angriffe": 6,
+     "sterne": 15,
+     "dreier": 3
+    }
+   ]
   },
   "#V9JLRYU": {
    "name": "#BS# T,",
@@ -9170,7 +12480,36 @@
     "angriffe": 5,
     "sterne": 11,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 2",
+     "angriffe": 5,
+     "sterne": 11,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 3",
+     "clantag": "#2LQYPR2GQ",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Titan 3",
+     "angriffe": 4,
+     "sterne": 8,
+     "dreier": 1
+    }
+   ]
   },
   "#2CQVJG8V0": {
    "name": "<Urla>",
@@ -9245,7 +12584,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 5,
+     "sterne": 14,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 6,
+     "sterne": 17,
+     "dreier": 5
+    }
+   ]
   },
   "#GYRLV0JCV": {
    "name": "cano",
@@ -9320,7 +12688,36 @@
     "angriffe": 6,
     "sterne": 16,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 2,
+     "sterne": 5,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 3
+    }
+   ]
   },
   "#LJJJ08YGV": {
    "name": "Semo_x96",
@@ -9370,7 +12767,36 @@
       "stars": 39
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-08",
+     "clan": "\"Der Weltclan\"",
+     "clantag": "#CQVPRJR",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-07",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-01",
+     "clan": "Clan of Doves",
+     "clantag": "#2QQYQVJ0Q",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#PPQU0PLQL": {
    "name": "Kansiz1461",
@@ -9445,7 +12871,36 @@
     "angriffe": 5,
     "sterne": 11,
     "dreier": 2
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 5,
+     "sterne": 11,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#29RQGGVC": {
    "name": "Speedy",
@@ -9480,7 +12935,36 @@
       "stars": 67
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-07",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    }
+   ]
   },
   "#YCUJ89C2Q": {
    "name": "Moritz ;)",
@@ -9570,7 +13054,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#JCG9988": {
    "name": "#BS# dario",
@@ -9635,7 +13148,36 @@
       "stars": 41
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "Mini Fighter's",
+     "clantag": "#2RQPPGVL8",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Mini Fighter's2",
+     "clantag": "#2RJGCG9QJ",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-05",
+     "clan": "#Black Stone#",
+     "clantag": "#Y898LCJ0",
+     "liga": "Champion 1",
+     "angriffe": 2,
+     "sterne": 5,
+     "dreier": 1
+    }
+   ]
   },
   "#9R8Q9VUYY": {
    "name": "MartialWarlock™",
@@ -9720,7 +13262,36 @@
     "angriffe": 7,
     "sterne": 17,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "in my spagetti",
+     "clantag": "#2Q0V0JLCY",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "SPARTA!",
+     "clantag": "#YU88PUCG",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "in my spagetti",
+     "clantag": "#2Q0V0JLCY",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    }
+   ]
   },
   "#29LCQPJCV": {
    "name": "Lias lll",
@@ -9795,7 +13366,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#VLP0RP0R": {
    "name": "Lukaa-",
@@ -9865,7 +13465,36 @@
       "stars": 17
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 3,
+     "sterne": 4,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2025-12",
+     "clan": "Clan of Doves",
+     "clantag": "#2QQYQVJ0Q",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 16,
+     "dreier": 2
+    }
+   ]
   },
   "#2RVQP28VV": {
    "name": "GL⚔️ Enes",
@@ -9915,7 +13544,36 @@
       "stars": 31
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 5,
+     "sterne": 9,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-08",
+     "clan": "AniMated Clan",
+     "clantag": "#20R8PVJ0C",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    }
+   ]
   },
   "#LJPJG8PJJ": {
    "name": "sahil3☺️☺️",
@@ -9940,7 +13598,27 @@
       "stars": 3
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "Cajun Assassins",
+     "clantag": "#RL2R8RJG",
+     "liga": "Kristall 3",
+     "angriffe": 6,
+     "sterne": 18,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-08",
+     "clan": "Cajun Assassins",
+     "clantag": "#RL2R8RJG",
+     "liga": "Kristall 3",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 3
+    }
+   ]
   },
   "#LRRCJQ8G0": {
    "name": "Lordina Emma",
@@ -10045,7 +13723,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#80UJY8QR2": {
    "name": "MasterOfThunder",
@@ -10080,7 +13787,36 @@
       "stars": 19
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-07",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-03",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-02",
+     "clan": "#Black Stone# 2",
+     "clantag": "#282PGVRRJ",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#9Q89JJ0UV": {
    "name": "VerMissT",
@@ -10165,7 +13901,36 @@
     "angriffe": 7,
     "sterne": 18,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Dark legents",
+     "clantag": "#G0UL8VL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "ArcticPeak™",
+     "clantag": "#2RV82UYYV",
+     "liga": "Meister 3",
+     "angriffe": 1,
+     "sterne": 2,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-09",
+     "clan": "ArcticPeak™",
+     "clantag": "#2RV82UYYV",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    }
+   ]
   },
   "#YJY9RU2RC": {
    "name": "mohamed bouzidi",
@@ -10205,7 +13970,36 @@
       "stars": 14
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "سواد",
+     "clantag": "#2GCYVJY0V",
+     "liga": "Meister 2",
+     "angriffe": 2,
+     "sterne": 3,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-09",
+     "clan": "قرية الاصدقاء",
+     "clantag": "#2G9YV9V8J",
+     "liga": "Meister 3",
+     "angriffe": 1,
+     "sterne": 2,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-06",
+     "clan": "Rustom",
+     "clantag": "#2GYC8RCGR",
+     "liga": "Meister 3",
+     "angriffe": 4,
+     "sterne": 9,
+     "dreier": 2
+    }
+   ]
   },
   "#CJC9UPCJ": {
    "name": "Taha",
@@ -10290,7 +14084,36 @@
     "angriffe": 1,
     "sterne": 3,
     "dreier": 1
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 1,
+     "sterne": 3,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 4,
+     "sterne": 11,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 1,
+     "sterne": 2,
+     "dreier": 0
+    }
+   ]
   },
   "#908C0R9PV": {
    "name": "7YR4N7",
@@ -10375,7 +14198,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Danger Zone",
+     "clantag": "#U0PCVPUY",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Danger Zone",
+     "clantag": "#U0PCVPUY",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-06",
+     "clan": "FXCWL 5",
+     "clantag": "#2RL0YU2C0",
+     "liga": "Meister 3",
+     "angriffe": 6,
+     "sterne": 13,
+     "dreier": 2
+    }
+   ]
   },
   "#G9LU9G9G8": {
    "name": "Weedboby",
@@ -10470,7 +14322,36 @@
     "angriffe": 3,
     "sterne": 9,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 4,
+     "sterne": 11,
+     "dreier": 3
+    }
+   ]
   },
   "#JVJJGQJJ": {
    "name": "T,,",
@@ -10560,7 +14441,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 3,
+     "sterne": 8,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#2QQ98R92": {
    "name": "Kaisers Hofnarr",
@@ -10675,7 +14585,36 @@
     "angriffe": 7,
     "sterne": 18,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "⊂((・⊥・))⊃",
+     "clantag": "#2CPYQG9V8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "CARREBIAN STARS",
+     "clantag": "#20YQ8829",
+     "liga": "Meister 3",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-08",
+     "clan": "DHAKA111",
+     "clantag": "#2RJUPU0Y",
+     "liga": "Meister 1",
+     "angriffe": 3,
+     "sterne": 5,
+     "dreier": 0
+    }
+   ]
   },
   "#PVQC9222": {
    "name": "#BS#TG",
@@ -10705,7 +14644,18 @@
     "angriffe": 3,
     "sterne": 9,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    }
+   ]
   },
   "#LCG8UUQC": {
    "name": "[HaFa] ☀️matt☀️",
@@ -10780,7 +14730,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 4",
+     "clantag": "#2YLQYC29R",
+     "liga": "Champion 2",
+     "angriffe": 2,
+     "sterne": 6,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#RVUYCUJ": {
    "name": "MASTERXLP",
@@ -10850,7 +14829,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#QGLPCL08Q": {
    "name": "*TOBX*",
@@ -10945,7 +14953,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "GermanKings",
+     "clantag": "#2RLCU028C",
+     "liga": "Gold 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "GermanKings",
+     "clantag": "#2RLCU028C",
+     "liga": "Gold 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "GermanKings",
+     "clantag": "#2RLCU028C",
+     "liga": "Gold 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#89JPC8GGR": {
    "name": "Dark..Knight",
@@ -11030,7 +15067,36 @@
     "angriffe": 4,
     "sterne": 11,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Zero Mercy",
+     "clantag": "#2CCCYYPLL",
+     "liga": "Meister 1",
+     "angriffe": 4,
+     "sterne": 11,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Zero Mercy",
+     "clantag": "#2CCCYYPLL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "MUSLIM HEROES",
+     "clantag": "#29RR2QRQP",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    }
+   ]
   },
   "#8C0Q2U8QU": {
    "name": "The Dictator",
@@ -11115,7 +15181,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "STYLISH TAMILAN",
+     "clantag": "#28CV0LVU9",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "MUSLIM HEROES",
+     "clantag": "#29RR2QRQP",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-08",
+     "clan": "GOOD PEOPLE'S",
+     "clantag": "#2J8YU88QV",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#YYP0VQGC0": {
    "name": "Alter\"RUSHER\" 3",
@@ -11150,7 +15245,36 @@
       "stars": 70
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-05",
+     "clan": "DeathAngels",
+     "clantag": "#2JQ9PC882",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-04",
+     "clan": "DeathAngels",
+     "clantag": "#2JQ9PC882",
+     "liga": "Kristall 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-01",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#PL2CU2LPP": {
    "name": "barham",
@@ -11185,7 +15309,27 @@
       "stars": 7
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-07",
+     "clan": "Soul's Gambits",
+     "clantag": "#2GC0U8U8C",
+     "liga": "Kristall 1",
+     "angriffe": 6,
+     "sterne": 12,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-06",
+     "clan": "Soul's Gambits",
+     "clantag": "#2GC0U8U8C",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 16,
+     "dreier": 2
+    }
+   ]
   },
   "#LV0P8GU89": {
    "name": "GENERAL HASSAN",
@@ -11275,7 +15419,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "STYLISH TAMILAN",
+     "clantag": "#28CV0LVU9",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "MUSLIM HEROES",
+     "clantag": "#29RR2QRQP",
+     "liga": "Kristall 2",
+     "angriffe": 6,
+     "sterne": 18,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-08",
+     "clan": "GOOD PEOPLE'S",
+     "clantag": "#2J8YU88QV",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#QLGCL02Q2": {
    "name": "Hassan King",
@@ -11370,7 +15543,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "⊂((・⊥・))⊃",
+     "clantag": "#2CPYQG9V8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "⊂((・⊥・))⊃",
+     "clantag": "#2CPYQG9V8",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "MUSLIM HEROES",
+     "clantag": "#29RR2QRQP",
+     "liga": "Kristall 2",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    }
+   ]
   },
   "#GGP2VCC08": {
    "name": "CANi RUSH",
@@ -11405,7 +15607,27 @@
       "stars": 27
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-07",
+     "clan": "Thüringer Wald",
+     "clantag": "#9JYP8G08",
+     "liga": "Kristall 2",
+     "angriffe": 6,
+     "sterne": 18,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-06",
+     "clan": "Sanofi Aventis",
+     "clantag": "#2CYU9QQLP",
+     "liga": "Kristall 3",
+     "angriffe": 5,
+     "sterne": 15,
+     "dreier": 5
+    }
+   ]
   },
   "#GG8JRRYV": {
    "name": "MarGra",
@@ -11480,7 +15702,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 15,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 15,
+     "dreier": 1
+    }
+   ]
   },
   "#808LGVRV8": {
    "name": "MRX",
@@ -11555,7 +15806,36 @@
     "angriffe": 4,
     "sterne": 11,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 4,
+     "sterne": 11,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 3,
+     "sterne": 8,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-07",
+     "clan": "⚡️RZ⚡️Fighter",
+     "clantag": "#2GLRGY88C",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#22VG2P2UY": {
    "name": "--#Eisern#--",
@@ -11590,7 +15870,36 @@
       "stars": 5
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 5,
+     "sterne": 11,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-05",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 15,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-04",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Kristall 1",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 4
+    }
+   ]
   },
   "#G00UQPQ8L": {
    "name": "Miggel",
@@ -11625,7 +15934,36 @@
       "stars": 18
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 2,
+     "sterne": 5,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    }
+   ]
   },
   "#LCQUQQYYR": {
    "name": "HängeLampe",
@@ -11730,7 +16068,36 @@
     "angriffe": 5,
     "sterne": 15,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Lowscore",
+     "clantag": "#89G8RUCR",
+     "liga": "Kristall 1",
+     "angriffe": 5,
+     "sterne": 15,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Lowscore",
+     "clantag": "#89G8RUCR",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Lowscore",
+     "clantag": "#89G8RUCR",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#QYVPP28GY": {
    "name": "kansiz1462",
@@ -11825,7 +16192,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 15,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#8YRG0C0GQ": {
    "name": "DRAGON O.F",
@@ -11850,7 +16246,27 @@
       "stars": 6
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-08",
+     "clan": "Agadir X",
+     "clantag": "#2CL9RYU90",
+     "liga": "Gold 1",
+     "angriffe": 5,
+     "sterne": 12,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-06",
+     "clan": "Die CR-Knechte",
+     "clantag": "#2GGVR2PQC",
+     "liga": "Gold 1",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 5
+    }
+   ]
   },
   "#GCGUVCGL2": {
    "name": "Eliwood.V2",
@@ -11940,7 +16356,36 @@
       "stars": 3
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "Ray",
+     "clantag": "#2QRJ9VQV0",
+     "liga": "Kristall 1",
+     "angriffe": 4,
+     "sterne": 11,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-08",
+     "clan": "Ray",
+     "clantag": "#2QRJ9VQV0",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-07",
+     "clan": "Ray",
+     "clantag": "#2QRJ9VQV0",
+     "liga": "Kristall 2",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 4
+    }
+   ]
   },
   "#G0RQRVQUU": {
    "name": "crazysheep",
@@ -12030,7 +16475,36 @@
     "angriffe": 7,
     "sterne": 17,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 13,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 6,
+     "sterne": 12,
+     "dreier": 0
+    }
+   ]
   },
   "#QUQ0UVV9V": {
    "name": "CrazySheep",
@@ -12125,7 +16599,36 @@
     "angriffe": 7,
     "sterne": 17,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 6,
+     "sterne": 13,
+     "dreier": 1
+    }
+   ]
   },
   "#Q222JG28": {
    "name": "Lucas",
@@ -12210,7 +16713,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 4,
+     "sterne": 12,
+     "dreier": 4
+    }
+   ]
   },
   "#GGL8VUUPY": {
    "name": "Col Slade",
@@ -12305,7 +16837,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "⊂((・⊥・))⊃",
+     "clantag": "#2CPYQG9V8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "⊂((・⊥・))⊃",
+     "clantag": "#2CPYQG9V8",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Beastly Titans",
+     "clantag": "#Y98Q9PGP",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#G80J82PLP": {
    "name": "Brutal Legacy",
@@ -12410,7 +16971,36 @@
     "angriffe": 7,
     "sterne": 18,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "⊂((・⊥・))⊃",
+     "clantag": "#2CPYQG9V8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "⊂((・⊥・))⊃",
+     "clantag": "#2CPYQG9V8",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "MUSLIM HEROES",
+     "clantag": "#29RR2QRQP",
+     "liga": "Kristall 2",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    }
+   ]
   },
   "#QCL9G9LYQ": {
    "name": "ac€ -_-",
@@ -12435,7 +17025,18 @@
       "stars": 3
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2025-12",
+     "clan": "#Black Stone# 5",
+     "clantag": "#2GLY98C9U",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 13,
+     "dreier": 1
+    }
+   ]
   },
   "#2PG9C2P0Q": {
    "name": "Zakko",
@@ -12510,7 +17111,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    }
+   ]
   },
   "#200GGYCRV": {
    "name": "Marcone",
@@ -12595,7 +17225,36 @@
     "angriffe": 7,
     "sterne": 14,
     "dreier": 1
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 14,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-10",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 16,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    }
+   ]
   },
   "#9CQ22VVV8": {
    "name": "Schatti",
@@ -12640,7 +17299,27 @@
     "angriffe": 7,
     "sterne": 17,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-04",
+     "clan": "⚡️RZ⚡️Fighter",
+     "clantag": "#2GLRGY88C",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 3
+    }
+   ]
   },
   "#20YYCG08": {
    "name": "Blazerod",
@@ -12665,7 +17344,36 @@
       "stars": 3
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-02",
+     "clan": "m0viEz0nE",
+     "clantag": "#9JUP280G",
+     "liga": "Kristall 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-01",
+     "clan": "m0viEz0nE",
+     "clantag": "#9JUP280G",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 3
+    },
+    {
+     "saison": "2025-12",
+     "clan": "m0viEz0nE",
+     "clantag": "#9JUP280G",
+     "liga": "Kristall 2",
+     "angriffe": 6,
+     "sterne": 12,
+     "dreier": 2
+    }
+   ]
   },
   "#8CPJ8GUU": {
    "name": "Taubes Nüsschen",
@@ -12700,7 +17408,36 @@
       "stars": 14
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-04",
+     "clan": "CARL ZEISS JENA",
+     "clantag": "#2GJ2UCLVY",
+     "liga": "Kristall 3",
+     "angriffe": 3,
+     "sterne": 6,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-03",
+     "clan": "CARL ZEISS JENA",
+     "clantag": "#2GJ2UCLVY",
+     "liga": "Kristall 3",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-02",
+     "clan": "CARL ZEISS JENA",
+     "clantag": "#2GJ2UCLVY",
+     "liga": "Kristall 3",
+     "angriffe": 6,
+     "sterne": 10,
+     "dreier": 1
+    }
+   ]
   },
   "#GL20RC0RR": {
    "name": "Lias lV",
@@ -12750,7 +17487,36 @@
       "stars": 3
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 3,
+     "sterne": 8,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#YCPV09YYU": {
    "name": "Vodka",
@@ -12805,7 +17571,18 @@
       "stars": 3
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-08",
+     "clan": "Guerreros Fenix",
+     "clantag": "#2Y89Q0P2J",
+     "liga": "Gold 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#Q8U8PR0VJ": {
    "name": "gandalf007",
@@ -12880,7 +17657,36 @@
       "stars": 8
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 12,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-08",
+     "clan": "Chaos Clan",
+     "clantag": "#2Y9802U92",
+     "liga": "Gold 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-07",
+     "clan": "Chaos Clan",
+     "clantag": "#2Y9802U92",
+     "liga": "Gold 1",
+     "angriffe": 6,
+     "sterne": 17,
+     "dreier": 5
+    }
+   ]
   },
   "#GLVP8QU8G": {
    "name": "BS Dirk",
@@ -12965,7 +17771,36 @@
     "angriffe": 7,
     "sterne": 18,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 6,
+     "sterne": 12,
+     "dreier": 1
+    }
+   ]
   },
   "#YPL298Q02": {
    "name": "CalvronVX",
@@ -13050,7 +17885,36 @@
     "angriffe": 5,
     "sterne": 13,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 5,
+     "sterne": 13,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 16,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-09",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 2",
+     "angriffe": 3,
+     "sterne": 7,
+     "dreier": 1
+    }
+   ]
   },
   "#GYJJ8C0PR": {
    "name": "BS Dirk2",
@@ -13135,7 +17999,36 @@
     "angriffe": 7,
     "sterne": 17,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 2,
+     "sterne": 6,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 6,
+     "sterne": 11,
+     "dreier": 1
+    }
+   ]
   },
   "#GPQJC209Y": {
    "name": "Sinan |V",
@@ -13245,7 +18138,36 @@
     "angriffe": 7,
     "sterne": 18,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 14,
+     "dreier": 1
+    }
+   ]
   },
   "#GY92QCPUL": {
    "name": "Miggel",
@@ -13280,7 +18202,36 @@
       "stars": 9
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 3,
+     "sterne": 8,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 15,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-08",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    }
+   ]
   },
   "#UUPCR88G": {
    "name": "DarkSideDestroy",
@@ -13315,7 +18266,27 @@
       "stars": 8
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-04",
+     "clan": "GermanRaptors™️",
+     "clantag": "#2QJLRLR2G",
+     "liga": "Kristall 1",
+     "angriffe": 1,
+     "sterne": 2,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-02",
+     "clan": "GermanRaptors™️",
+     "clantag": "#2QJLRLR2G",
+     "liga": "Kristall 1",
+     "angriffe": 3,
+     "sterne": 5,
+     "dreier": 0
+    }
+   ]
   },
   "#9RQG298YU": {
    "name": "Mega ||",
@@ -13400,7 +18371,36 @@
     "angriffe": 7,
     "sterne": 18,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 14,
+     "dreier": 1
+    }
+   ]
   },
   "#GLCPGJJUL": {
    "name": "swaantje",
@@ -13420,7 +18420,18 @@
       "stars": 6
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 5,
+     "sterne": 13,
+     "dreier": 3
+    }
+   ]
   },
   "#GJC2YVLG": {
    "name": "peter panne",
@@ -13440,7 +18451,36 @@
       "stars": 18
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-08",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Meister 3",
+     "angriffe": 3,
+     "sterne": 7,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-03",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 16,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-02",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Kristall 2",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    }
+   ]
   },
   "#YPL2YPGUP": {
    "name": "Mega |||",
@@ -13505,7 +18545,36 @@
     "angriffe": 7,
     "sterne": 18,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 14,
+     "dreier": 1
+    }
+   ]
   },
   "#GLQ0YCP20": {
    "name": "BS Dirk3",
@@ -13590,7 +18659,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 4,
+     "sterne": 9,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-08",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 4,
+     "sterne": 9,
+     "dreier": 2
+    }
+   ]
   },
   "#VQR2Q9L": {
    "name": "Lukas",
@@ -13710,7 +18808,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 1,
+     "sterne": 2,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-08",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 4,
+     "sterne": 9,
+     "dreier": 2
+    }
+   ]
   },
   "#QCUVVJVP2": {
    "name": "till",
@@ -13830,7 +18957,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Thüringer Wald",
+     "clantag": "#9JYP8G08",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-08",
+     "clan": "Thüringer Wald",
+     "clantag": "#9JYP8G08",
+     "liga": "Kristall 2",
+     "angriffe": 6,
+     "sterne": 17,
+     "dreier": 5
+    }
+   ]
   },
   "#GU9GUJPJG": {
    "name": "sajdi",
@@ -13925,7 +19081,36 @@
     "angriffe": 7,
     "sterne": 15,
     "dreier": 2
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 15,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-10",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 15,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 12,
+     "dreier": 0
+    }
+   ]
   },
   "#LPJ2VC9C9": {
    "name": "Mega |V",
@@ -13980,7 +19165,36 @@
       "stars": 6
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 14,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-08",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    }
+   ]
   },
   "#9GYQJJRPL": {
    "name": "King Th11 2.0",
@@ -14020,7 +19234,27 @@
       "stars": 7
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-06",
+     "clan": "Albania/Kosova",
+     "clantag": "#2CQGP9UPR",
+     "liga": "Silber 1",
+     "angriffe": 5,
+     "sterne": 10,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-03",
+     "clan": "DOOMS BOOMS",
+     "clantag": "#2QL9C22Y0",
+     "liga": "Gold 2",
+     "angriffe": 4,
+     "sterne": 7,
+     "dreier": 1
+    }
+   ]
   },
   "#9QPQLVY02": {
    "name": "FL • Poseidon 3",
@@ -14055,7 +19289,18 @@
       "stars": 3
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-06",
+     "clan": "Lichtenau Elite",
+     "clantag": "#2C2QYLL8C",
+     "liga": "Gold 1",
+     "angriffe": 5,
+     "sterne": 15,
+     "dreier": 5
+    }
+   ]
   },
   "#GYU2UVYV8": {
    "name": "BS Dirk5",
@@ -14090,7 +19335,27 @@
       "stars": 36
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 1,
+     "sterne": 2,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-04",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Kristall 1",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 2
+    }
+   ]
   },
   "#R0CPU8UCU": {
    "name": "BS Dirk7",
@@ -14110,7 +19375,27 @@
       "stars": 24
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 1,
+     "sterne": 2,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-04",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Kristall 1",
+     "angriffe": 2,
+     "sterne": 5,
+     "dreier": 1
+    }
+   ]
   },
   "#GR2GQ8PLY": {
    "name": "BS Dirk6",
@@ -14135,7 +19420,27 @@
       "stars": 6
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 1,
+     "sterne": 2,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-04",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Kristall 1",
+     "angriffe": 2,
+     "sterne": 4,
+     "dreier": 0
+    }
+   ]
   },
   "#2YPPJCPUV": {
    "name": "Thakur",
@@ -14205,7 +19510,27 @@
       "stars": 3
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "ChristmasIsland",
+     "clantag": "#288JJ9V88",
+     "liga": "Kristall 2",
+     "angriffe": 6,
+     "sterne": 7,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Cold Piece",
+     "clantag": "#2G20UGG9V",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 9,
+     "dreier": 0
+    }
+   ]
   },
   "#LQGRJY9QP": {
    "name": "KoalakriegerVX",
@@ -14240,7 +19565,36 @@
       "stars": 6
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 15,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-09",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 3,
+     "sterne": 5,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-08",
+     "clan": "BlaueWelle",
+     "clantag": "#2GV9UCRJC",
+     "liga": "Kristall 1",
+     "angriffe": 7,
+     "sterne": 12,
+     "dreier": 1
+    }
+   ]
   },
   "#Q0L2GJ8CQ": {
    "name": "Mega V",
@@ -14275,7 +19629,18 @@
       "stars": 3
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-01",
+     "clan": "#Black Stone# 6",
+     "clantag": "#2G8ULRP8R",
+     "liga": "Kristall 2",
+     "angriffe": 1,
+     "sterne": 2,
+     "dreier": 0
+    }
+   ]
   },
   "#LG98PL298": {
    "name": "ヾDeMoN×'",
