@@ -307,11 +307,132 @@
    "p": 32,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#LQYCYCQPJ",
+   "ath": 17,
+   "d": "#QGLPCL08Q",
+   "dth": 18,
+   "dur": 122,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQYCYCQPJ",
+   "ath": 17,
+   "d": "#YUY8PJGVR",
+   "dth": 17,
+   "dur": 143,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RQ0Y90LR",
+   "ath": 18,
+   "d": "#LCG8UUQC",
+   "dth": 18,
+   "dur": 167,
+   "o": 31,
+   "p": 93,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#RQ0Y90LR",
+   "ath": 18,
+   "d": "#9JUGQQ8PV",
+   "dth": 18,
+   "dur": 125,
+   "o": 32,
+   "p": 77,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LRJU9YJY9",
+   "ath": 19,
+   "d": "#GYLJLCV",
+   "dth": 19,
+   "dur": 165,
+   "o": 33,
+   "p": 93,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L2J29LLP2",
+   "ath": 19,
+   "d": "#U882LPR8",
+   "dth": 19,
+   "dur": 156,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L2J29LLP2",
+   "ath": 19,
+   "d": "#G2L8JR0LG",
+   "dth": 19,
+   "dur": 137,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LRJU9YJY9",
+   "ath": 19,
+   "d": "#89U8PJQL",
+   "dth": 19,
+   "dur": 169,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LCG8UUQC",
+   "ath": 18,
+   "d": "#GQVUJQ2CY",
+   "dth": 19,
+   "dur": 180,
+   "o": 37,
+   "p": 89,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LCG8UUQC",
+   "ath": 18,
+   "d": "#LGRPYY0R8",
+   "dth": 19,
+   "dur": 172,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#VGJY082R",
+   "ath": 19,
+   "d": "#CJQCC9YL",
+   "dth": 19,
+   "dur": 179,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 14.542857,
+  "destruction": 31.37143,
   "members": [
    {
     "name": "JonyNation",
@@ -525,12 +646,12 @@
    }
   ],
   "name": "#Black Stone# 5",
-  "stars": 15,
+  "stars": 31,
   "tag": "#2GLY98C9U"
  },
  "end": "20261123T182151.000Z",
  "opponent": {
-  "destruction": 55.485714,
+  "destruction": 66.057144,
   "members": [
    {
     "name": "amaterasu",
@@ -744,7 +865,7 @@
    }
   ],
   "name": "КЛАДБИЩЕ",
-  "stars": 57,
+  "stars": 65,
   "tag": "#2GVRGC20G"
  },
  "start": "20261122T182151.000Z",
