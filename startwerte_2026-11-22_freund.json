@@ -1,5 +1,5 @@
 {
- "quelle": "ClashSpot Angriffslisten 2026 (alle Clans inkl. auswärts), nur gleiches Rathaus (aufgeteilt nach Rathaus), ohne verpasste Angriffe, Farmhits (0–1 Stern unter 55 %) entfernt, ohne Freundschaftskriege; letzte_cwl = CWL November 2026 laut ClashSpot inkl. Liga",
+ "quelle": "ClashSpot Angriffslisten 2026 (alle Clans inkl. auswärts), nur gleiches Rathaus (aufgeteilt nach Rathaus), ohne verpasste Angriffe, Farmhits (0–1 Stern unter 55 %) entfernt, ohne Freundschaftskriege; letzte_cwl = CWL November 2026 laut ClashSpot inkl. Liga; Kriege, die nach stand_zeit endeten, zählt der Sammler",
  "stand": "2026-11-22",
  "spieler": {
   "#2V2U22R2": {
@@ -14407,5 +14407,6 @@
     }
    }
   }
- }
+ },
+ "stand_zeit": "2026-11-22T23:00:00Z"
 }
