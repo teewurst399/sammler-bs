@@ -1066,11 +1066,132 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#29LCQPJCV",
+   "ath": 18,
+   "d": "#22PRLGCPC",
+   "dth": 19,
+   "dur": 164,
+   "o": 98,
+   "p": 73,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#RR8U80YC",
+   "ath": 19,
+   "d": "#22PRLGCPC",
+   "dth": 19,
+   "dur": 171,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GYYPJJV99",
+   "ath": 19,
+   "d": "#28RLQ02CU",
+   "dth": 17,
+   "dur": 95,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q222JG28",
+   "ath": 17,
+   "d": "#LQYCYCQPJ",
+   "dth": 17,
+   "dur": 111,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q222JG28",
+   "ath": 17,
+   "d": "#8YCYU8GY2",
+   "dth": 16,
+   "dur": 153,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9RQG298YU",
+   "ath": 15,
+   "d": "#L0YC9LLYC",
+   "dth": 16,
+   "dur": 150,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9RQG298YU",
+   "ath": 15,
+   "d": "#GGJLJQJ92",
+   "dth": 19,
+   "dur": 113,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G0GGJ9P",
+   "ath": 19,
+   "d": "#90280U0C8",
+   "dth": 11,
+   "dur": 34,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G0GGJ9P",
+   "ath": 19,
+   "d": "#PP88GP9QJ",
+   "dth": 11,
+   "dur": 36,
+   "o": 106,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QGLPCL08Q",
+   "ath": 18,
+   "d": "#GJ2J9Y92P",
+   "dth": 19,
+   "dur": 20,
+   "o": 107,
+   "p": 17,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QGLPCL08Q",
+   "ath": 18,
+   "d": "#QLVJ8YQ2P",
+   "dth": 19,
+   "dur": 83,
+   "o": 108,
+   "p": 42,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 79.97143,
+  "destruction": 100.0,
   "members": [
    {
     "name": "JonyNation",
@@ -1284,7 +1405,7 @@
    }
   ],
   "name": "#Black Stone# 5",
-  "stars": 83,
+  "stars": 105,
   "tag": "#2GLY98C9U"
  },
  "end": "20261123T182151.000Z",
