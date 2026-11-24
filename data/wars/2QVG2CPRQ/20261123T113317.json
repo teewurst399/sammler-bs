@@ -307,11 +307,165 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GLGLPVL8",
+   "ath": 19,
+   "d": "#L8LP89JLR",
+   "dth": 19,
+   "dur": 147,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GGGC8P9QY",
+   "ath": 15,
+   "d": "#LV0PGJ0RG",
+   "dth": 19,
+   "dur": 21,
+   "o": 30,
+   "p": 27,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GGGC8P9QY",
+   "ath": 15,
+   "d": "#LVRLJ89UL",
+   "dth": 19,
+   "dur": 16,
+   "o": 31,
+   "p": 11,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GLGLPVL8",
+   "ath": 19,
+   "d": "#YURCLV990",
+   "dth": 19,
+   "dur": 132,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8LP89JLR",
+   "ath": 19,
+   "d": "#GLGLPVL8",
+   "dth": 19,
+   "dur": 156,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJ9QRJ09",
+   "ath": 19,
+   "d": "#YYJG0RPR",
+   "dth": 19,
+   "dur": 158,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P8VJLRLU",
+   "ath": 19,
+   "d": "#RG8LJLUR",
+   "dth": 19,
+   "dur": 139,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8LP89JLR",
+   "ath": 19,
+   "d": "#G9CL8YQJC",
+   "dth": 19,
+   "dur": 149,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0VQ2CCRL",
+   "ath": 19,
+   "d": "#Q29L90RJY",
+   "dth": 18,
+   "dur": 162,
+   "o": 37,
+   "p": 79,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QJ9QRJ09",
+   "ath": 19,
+   "d": "#LGQ92VPG2",
+   "dth": 19,
+   "dur": 163,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P8VJLRLU",
+   "ath": 19,
+   "d": "#2VVCGVUVV",
+   "dth": 19,
+   "dur": 140,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJYRQ09Q",
+   "ath": 19,
+   "d": "#9JYG9RQ02",
+   "dth": 19,
+   "dur": 73,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJYRQ09Q",
+   "ath": 19,
+   "d": "#CJJPQVL0",
+   "dth": 19,
+   "dur": 77,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9L8VQVPQY",
+   "ath": 18,
+   "d": "#8Y2YJQYQ8",
+   "dth": 19,
+   "dur": 156,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 36.514286,
+  "destruction": 47.342857,
   "members": [
    {
     "name": "Abhishek",
@@ -525,12 +679,12 @@
    }
   ],
   "name": "BERSERK",
-  "stars": 38,
+  "stars": 49,
   "tag": "#2QVG2CPRQ"
  },
  "end": "20261125T103317.000Z",
  "opponent": {
-  "destruction": 31.428572,
+  "destruction": 54.285713,
   "members": [
    {
     "name": "미남홍진우^^",
@@ -744,7 +898,7 @@
    }
   ],
   "name": "좋은친구들",
-  "stars": 33,
+  "stars": 57,
   "tag": "#2L9QGYJR"
  },
  "start": "20261124T103317.000Z",
