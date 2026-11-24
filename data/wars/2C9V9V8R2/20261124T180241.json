@@ -1,8 +1,119 @@
 {
- "attacks": [],
+ "attacks": [
+  {
+   "a": "#8C8RP02U",
+   "ath": 19,
+   "d": "#YC29Q8P8",
+   "dth": 19,
+   "dur": 180,
+   "o": 1,
+   "p": 85,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YGPC99U0Q",
+   "ath": 19,
+   "d": "#L8RUP2ULR",
+   "dth": 19,
+   "dur": 167,
+   "o": 2,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8RUP2ULR",
+   "ath": 19,
+   "d": "#9RGQUYRQU",
+   "dth": 19,
+   "dur": 119,
+   "o": 3,
+   "p": 75,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9RGQUYRQU",
+   "ath": 19,
+   "d": "#YQ2RYVCLJ",
+   "dth": 19,
+   "dur": 152,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQ2RYVCLJ",
+   "ath": 19,
+   "d": "#YGPC99U0Q",
+   "dth": 19,
+   "dur": 142,
+   "o": 5,
+   "p": 83,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8RP0PRCCJ",
+   "ath": 19,
+   "d": "#8GR08QLPL",
+   "dth": 19,
+   "dur": 171,
+   "o": 6,
+   "p": 83,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#UGLLL2GU",
+   "ath": 19,
+   "d": "#8RP0PRCCJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 7,
+   "p": 86,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YC29Q8P8",
+   "ath": 19,
+   "d": "#8C8RP02U",
+   "dth": 19,
+   "dur": 180,
+   "o": 8,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GR08QLPL",
+   "ath": 19,
+   "d": "#PPL9QY9UJ",
+   "dth": 19,
+   "dur": 162,
+   "o": 9,
+   "p": 80,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PPL9QY9UJ",
+   "ath": 19,
+   "d": "#UGLLL2GU",
+   "dth": 19,
+   "dur": 123,
+   "o": 10,
+   "p": 90,
+   "s": 1,
+   "side": "gegner"
+  }
+ ],
  "attacksPerMember": 1,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 81.8,
   "members": [
    {
     "name": "Tyron",
@@ -36,12 +147,12 @@
    }
   ],
   "name": "Horizon Gaming",
-  "stars": 0,
+  "stars": 8,
   "tag": "#2C9V9V8R2"
  },
  "end": "20261124T185241.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 91.6,
   "members": [
    {
     "name": "Sae",
@@ -75,11 +186,11 @@
    }
   ],
   "name": "Hornets eSports",
-  "stars": 0,
+  "stars": 9,
   "tag": "#2CJGGYV88"
  },
  "start": "20261124T180741.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 5,
  "type": "krieg"
 }

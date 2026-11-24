@@ -87,11 +87,407 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PY2GYCQY",
+   "ath": 19,
+   "d": "#L8G0JPL9",
+   "dth": 19,
+   "dur": 83,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPU2LU0GC",
+   "ath": 19,
+   "d": "#P00RLV9Q",
+   "dth": 19,
+   "dur": 118,
+   "o": 10,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2C8CQGG82",
+   "ath": 19,
+   "d": "#Y8CQUYUQ",
+   "dth": 19,
+   "dur": 121,
+   "o": 11,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PRYLYGGY",
+   "ath": 19,
+   "d": "#9PPLRGC",
+   "dth": 19,
+   "dur": 160,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L20L98Y",
+   "ath": 19,
+   "d": "#YVV8Y8UP",
+   "dth": 19,
+   "dur": 139,
+   "o": 13,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GR28QLYP",
+   "ath": 19,
+   "d": "#PQ9YL90R",
+   "dth": 19,
+   "dur": 147,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P8QPYCGV9",
+   "ath": 19,
+   "d": "#2GYJVLCU",
+   "dth": 19,
+   "dur": 138,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2C8CQGG82",
+   "ath": 19,
+   "d": "#YVV8Y8UP",
+   "dth": 19,
+   "dur": 118,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GR28QLYP",
+   "ath": 19,
+   "d": "#9CRYV0PY",
+   "dth": 19,
+   "dur": 164,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q28VRP9L",
+   "ath": 19,
+   "d": "#8GR08QLPL",
+   "dth": 19,
+   "dur": 99,
+   "o": 18,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VLCJ9C",
+   "ath": 19,
+   "d": "#QPRGLUVU",
+   "dth": 19,
+   "dur": 147,
+   "o": 19,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#20YUUJ90P",
+   "ath": 19,
+   "d": "#82JV0VPL",
+   "dth": 19,
+   "dur": 133,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q28VRP9L",
+   "ath": 19,
+   "d": "#8YLLQULP0",
+   "dth": 19,
+   "dur": 129,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VLCJ9C",
+   "ath": 19,
+   "d": "#P00RLV9Q",
+   "dth": 19,
+   "dur": 147,
+   "o": 22,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YG998JQ29",
+   "ath": 19,
+   "d": "#2U2QC928U",
+   "dth": 19,
+   "dur": 180,
+   "o": 23,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LLV0JQJRL",
+   "ath": 19,
+   "d": "#8LGQ2UGPY",
+   "dth": 19,
+   "dur": 180,
+   "o": 24,
+   "p": 91,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YG998JQ29",
+   "ath": 19,
+   "d": "#P00RLV9Q",
+   "dth": 19,
+   "dur": 150,
+   "o": 25,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#20YUUJ90P",
+   "ath": 19,
+   "d": "#8GR08QLPL",
+   "dth": 19,
+   "dur": 162,
+   "o": 26,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QU00CCRL",
+   "ath": 19,
+   "d": "#PLJV8CLRQ",
+   "dth": 19,
+   "dur": 101,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LVCPUY8CL",
+   "ath": 19,
+   "d": "#YCJGQRJVR",
+   "dth": 19,
+   "dur": 127,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PG20C8888",
+   "ath": 19,
+   "d": "#2V00CYVQP",
+   "dth": 19,
+   "dur": 162,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QU00CCRL",
+   "ath": 19,
+   "d": "#C9PQLUR0",
+   "dth": 19,
+   "dur": 111,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22Q0LC0C8",
+   "ath": 19,
+   "d": "#P00RLV9Q",
+   "dth": 19,
+   "dur": 137,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VR2YR0U8",
+   "ath": 19,
+   "d": "#L9U9CP0CQ",
+   "dth": 19,
+   "dur": 115,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LLV0JQJRL",
+   "ath": 19,
+   "d": "#Y8CQUYUQ",
+   "dth": 19,
+   "dur": 150,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PG20C8888",
+   "ath": 19,
+   "d": "#9899820C",
+   "dth": 19,
+   "dur": 140,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y90YU9RQ",
+   "ath": 19,
+   "d": "#PGPJUCQR8",
+   "dth": 19,
+   "dur": 166,
+   "o": 35,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L20L98Y",
+   "ath": 19,
+   "d": "#9UVPU8CUG",
+   "dth": 19,
+   "dur": 135,
+   "o": 36,
+   "p": 64,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LVCPUY8CL",
+   "ath": 19,
+   "d": "#PLUUYLU0Q",
+   "dth": 19,
+   "dur": 127,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PRYLYGGY",
+   "ath": 19,
+   "d": "#QLPP2LPQG",
+   "dth": 19,
+   "dur": 139,
+   "o": 38,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#VR2YR0U8",
+   "ath": 19,
+   "d": "#GQQ02YVY",
+   "dth": 19,
+   "dur": 180,
+   "o": 39,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L9200P80L",
+   "ath": 19,
+   "d": "#20VV2VR2V",
+   "dth": 19,
+   "dur": 142,
+   "o": 40,
+   "p": 93,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#L9200P80L",
+   "ath": 19,
+   "d": "#8GR08QLPL",
+   "dth": 19,
+   "dur": 99,
+   "o": 41,
+   "p": 83,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GJ8GL29P",
+   "ath": 19,
+   "d": "#LY9GPVU88",
+   "dth": 19,
+   "dur": 173,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GJ8GL29P",
+   "ath": 19,
+   "d": "#GVV89RLC",
+   "dth": 19,
+   "dur": 144,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLPP2LPQG",
+   "ath": 19,
+   "d": "#PG20C8888",
+   "dth": 19,
+   "dur": 180,
+   "o": 44,
+   "p": 86,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 2.15,
   "members": [
    {
     "name": "Fighter",
@@ -335,12 +731,12 @@
    }
   ],
   "name": "#Black Stone#",
-  "stars": 0,
+  "stars": 2,
   "tag": "#Y898LCJ0"
  },
  "end": "20261125T180442.000Z",
  "opponent": {
-  "destruction": 19.075,
+  "destruction": 84.475,
   "members": [
    {
     "name": "iskender",
@@ -584,7 +980,7 @@
    }
   ],
   "name": "MADE in TURKEY",
-  "stars": 23,
+  "stars": 94,
   "tag": "#VRPYLG"
  },
  "start": "20261124T180442.000Z",

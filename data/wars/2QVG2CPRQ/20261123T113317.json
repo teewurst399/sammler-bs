@@ -549,6 +549,83 @@
    "p": 92,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#G28PRPQ0",
+   "ath": 19,
+   "d": "#9QCQ2QUY",
+   "dth": 19,
+   "dur": 102,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#92VUV2Q80",
+   "ath": 19,
+   "d": "#PLRGYRCVQ",
+   "dth": 19,
+   "dur": 83,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G28PRPQ0",
+   "ath": 19,
+   "d": "#2QLPR8GC",
+   "dth": 19,
+   "dur": 148,
+   "o": 53,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G28V8J9Y",
+   "ath": 19,
+   "d": "#2QLPR8GC",
+   "dth": 19,
+   "dur": 100,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P9LQY8GY",
+   "ath": 19,
+   "d": "#8C82LVGJ0",
+   "dth": 19,
+   "dur": 96,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G28V8J9Y",
+   "ath": 19,
+   "d": "#2PLYG2UVP",
+   "dth": 19,
+   "dur": 149,
+   "o": 56,
+   "p": 96,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P9LQY8GY",
+   "ath": 19,
+   "d": "#2PLYG2UVP",
+   "dth": 19,
+   "dur": 119,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -772,7 +849,7 @@
  },
  "end": "20261125T103317.000Z",
  "opponent": {
-  "destruction": 59.314285,
+  "destruction": 68.57143,
   "members": [
    {
     "name": "미남홍진우^^",
@@ -986,7 +1063,7 @@
    }
   ],
   "name": "좋은친구들",
-  "stars": 61,
+  "stars": 72,
   "tag": "#2L9QGYJR"
  },
  "start": "20261124T103317.000Z",

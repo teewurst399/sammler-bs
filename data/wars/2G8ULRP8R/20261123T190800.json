@@ -1,8 +1,119 @@
 {
- "attacks": [],
+ "attacks": [
+  {
+   "a": "#QUQ0UVV9V",
+   "ath": 17,
+   "d": "#QRJRQCLQ2",
+   "dth": 17,
+   "dur": 130,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YJLV9UU9",
+   "ath": 19,
+   "d": "#YQVYY9QV",
+   "dth": 18,
+   "dur": 156,
+   "o": 2,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QUQ0UVV9V",
+   "ath": 17,
+   "d": "#LUJVJ9899",
+   "dth": 17,
+   "dur": 124,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CJC9UPCJ",
+   "ath": 18,
+   "d": "#9V9UGP2GY",
+   "dth": 17,
+   "dur": 179,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GRP22G28Q",
+   "ath": 18,
+   "d": "#QUQ0UVV9V",
+   "dth": 17,
+   "dur": 102,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GRP22G28Q",
+   "ath": 18,
+   "d": "#CJC9UPCJ",
+   "dth": 18,
+   "dur": 120,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LVG8L288Q",
+   "ath": 16,
+   "d": "#YYP0VQGC0",
+   "dth": 18,
+   "dur": 42,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LVG8L288Q",
+   "ath": 16,
+   "d": "#YPL2YPGUP",
+   "dth": 15,
+   "dur": 120,
+   "o": 8,
+   "p": 70,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#CJC9UPCJ",
+   "ath": 18,
+   "d": "#GLY88PCC8",
+   "dth": 18,
+   "dur": 137,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PLPQJQ80",
+   "ath": 19,
+   "d": "#9V82UJL0",
+   "dth": 19,
+   "dur": 103,
+   "o": 10,
+   "p": 79,
+   "s": 1,
+   "side": "clan"
+  }
+ ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 28.35,
   "members": [
    {
     "name": "Mega |V",
@@ -126,12 +237,12 @@
    }
   ],
   "name": "#Black Stone# 6",
-  "stars": 0,
+  "stars": 15,
   "tag": "#2G8ULRP8R"
  },
  "end": "20261125T180800.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 18.5,
   "members": [
    {
     "name": "爆笑｜Bibze ♰ ✧",
@@ -255,7 +366,7 @@
    }
   ],
   "name": "Legends",
-  "stars": 0,
+  "stars": 11,
   "tag": "#2J9V22JV0"
  },
  "start": "20261124T180800.000Z",
