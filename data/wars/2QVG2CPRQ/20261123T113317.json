@@ -186,11 +186,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8JYRJPCJ",
+   "ath": 19,
+   "d": "#9CGVUJGYC",
+   "dth": 19,
+   "dur": 134,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GJ90GP2L0",
+   "ath": 17,
+   "d": "#LV0PGJ0RG",
+   "dth": 19,
+   "dur": 11,
+   "o": 19,
+   "p": 22,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJ90GP2L0",
+   "ath": 17,
+   "d": "#LVRLJ89UL",
+   "dth": 19,
+   "dur": 13,
+   "o": 20,
+   "p": 14,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGQ92VPG2",
+   "ath": 19,
+   "d": "#9R8CLGQP",
+   "dth": 19,
+   "dur": 175,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9JYG9RQ02",
+   "ath": 19,
+   "d": "#2P9LQY8GY",
+   "dth": 19,
+   "dur": 158,
+   "o": 22,
+   "p": 78,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9JYG9RQ02",
+   "ath": 19,
+   "d": "#GR0RPU8YJ",
+   "dth": 19,
+   "dur": 136,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9R8CLGQP",
+   "ath": 19,
+   "d": "#C0GVYUU",
+   "dth": 19,
+   "dur": 94,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CY0U29J0",
+   "ath": 19,
+   "d": "#8282GC20G",
+   "dth": 19,
+   "dur": 100,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9CY0U29J0",
+   "ath": 19,
+   "d": "#G28V8J9Y",
+   "dth": 19,
+   "dur": 96,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 16.8,
+  "destruction": 30.8,
   "members": [
    {
     "name": "Abhishek",
@@ -404,12 +503,12 @@
    }
   ],
   "name": "BERSERK",
-  "stars": 17,
+  "stars": 32,
   "tag": "#2QVG2CPRQ"
  },
  "end": "20261125T103317.000Z",
  "opponent": {
-  "destruction": 28.571428,
+  "destruction": 31.428572,
   "members": [
    {
     "name": "미남홍진우^^",
@@ -623,7 +722,7 @@
    }
   ],
   "name": "좋은친구들",
-  "stars": 30,
+  "stars": 33,
   "tag": "#2L9QGYJR"
  },
  "start": "20261124T103317.000Z",

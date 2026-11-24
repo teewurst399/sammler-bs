@@ -1,0 +1,267 @@
+{
+ "attacks": [
+  {
+   "a": "#Q208PY28C",
+   "ath": 11,
+   "d": "#9P2RYPY9P",
+   "dth": 11,
+   "dur": 85,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q208PY28C",
+   "ath": 11,
+   "d": "#LYL8VUP00",
+   "dth": 13,
+   "dur": 34,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QL2VQRQ9V",
+   "ath": 12,
+   "d": "#GR88LQG02",
+   "dth": 13,
+   "dur": 88,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QL2VQRQ9V",
+   "ath": 12,
+   "d": "#L8VPUQL0P",
+   "dth": 13,
+   "dur": 42,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYC90820J",
+   "ath": 13,
+   "d": "#P2L20G80C",
+   "dth": 13,
+   "dur": 74,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYC90820J",
+   "ath": 13,
+   "d": "#928RJG8JQ",
+   "dth": 12,
+   "dur": 113,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QGPPVP029",
+   "ath": 13,
+   "d": "#QLUGCV8U",
+   "dth": 12,
+   "dur": 95,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QGPPVP029",
+   "ath": 13,
+   "d": "#Q9VCUJQL0",
+   "dth": 18,
+   "dur": 48,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYGUV9RQG",
+   "ath": 17,
+   "d": "#L0YPP8YG",
+   "dth": 16,
+   "dur": 91,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYGUV9RQG",
+   "ath": 17,
+   "d": "#80G2RCQ",
+   "dth": 19,
+   "dur": 160,
+   "o": 10,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#80G2RCQ",
+   "ath": 19,
+   "d": "#8JJU2Y2VJ",
+   "dth": 16,
+   "dur": 113,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 10.0,
+  "members": [
+   {
+    "name": "Alter\"RUSHER\" 1",
+    "pos": 3,
+    "tag": "#Q9VCUJQL0",
+    "th": 18
+   },
+   {
+    "name": "Verwalter Rh12",
+    "pos": 4,
+    "tag": "#QLUGCV8U",
+    "th": 12
+   },
+   {
+    "name": "v.engineered5",
+    "pos": 7,
+    "tag": "#L8VPUQL0P",
+    "th": 13
+   },
+   {
+    "name": "verw120",
+    "pos": 6,
+    "tag": "#P2L20G80C",
+    "th": 13
+   },
+   {
+    "name": "CwnoobVerwalter",
+    "pos": 1,
+    "tag": "#80G2RCQ",
+    "th": 19
+   },
+   {
+    "name": "v.engineered4",
+    "pos": 8,
+    "tag": "#LYL8VUP00",
+    "th": 13
+   },
+   {
+    "name": "v.engineered3",
+    "pos": 9,
+    "tag": "#GR88LQG02",
+    "th": 13
+   },
+   {
+    "name": "who needs walls",
+    "pos": 10,
+    "tag": "#9P2RYPY9P",
+    "th": 11
+   },
+   {
+    "name": "Alter Verwalter",
+    "pos": 2,
+    "tag": "#L0YPP8YG",
+    "th": 16
+   },
+   {
+    "name": "Verw559",
+    "pos": 5,
+    "tag": "#928RJG8JQ",
+    "th": 12
+   }
+  ],
+  "name": "Alter Verwalter",
+  "stars": 3,
+  "tag": "#2RGVRLQ8V"
+ },
+ "end": "20261124T172236.000Z",
+ "opponent": {
+  "destruction": 97.9,
+  "members": [
+   {
+    "name": "⚡melisa⚡",
+    "pos": 10,
+    "tag": "#Q208PY28C",
+    "th": 11
+   },
+   {
+    "name": "chad the odd",
+    "pos": 5,
+    "tag": "#2UUCV9UR",
+    "th": 13
+   },
+   {
+    "name": "james",
+    "pos": 7,
+    "tag": "#Q8PJ8VRV",
+    "th": 13
+   },
+   {
+    "name": "Alex",
+    "pos": 3,
+    "tag": "#YYV9VRYJG",
+    "th": 14
+   },
+   {
+    "name": "♕⭐سايكو⭐♕",
+    "pos": 4,
+    "tag": "#GRJRUQGYU",
+    "th": 13
+   },
+   {
+    "name": "hasti❤",
+    "pos": 9,
+    "tag": "#QL2VQRQ9V",
+    "th": 12
+   },
+   {
+    "name": "₳ⱠłⱤɆⱫ₳",
+    "pos": 8,
+    "tag": "#QYC90820J",
+    "th": 13
+   },
+   {
+    "name": "★OMID★",
+    "pos": 1,
+    "tag": "#8JJU2Y2VJ",
+    "th": 16
+   },
+   {
+    "name": "₳ⱠłⱤɆⱫ₳",
+    "pos": 6,
+    "tag": "#QGPPVP029",
+    "th": 13
+   },
+   {
+    "name": "₳ⱠłⱤɆⱫ₳",
+    "pos": 2,
+    "tag": "#QYGUV9RQG",
+    "th": 17
+   }
+  ],
+  "name": "perspolis_2",
+  "stars": 29,
+  "tag": "#2JURVVYYG"
+ },
+ "start": "20261123T172236.000Z",
+ "state": "inWar",
+ "teamSize": 10,
+ "type": "krieg"
+}
