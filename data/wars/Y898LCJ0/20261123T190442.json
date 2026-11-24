@@ -637,11 +637,121 @@
    "p": 98,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#200GP2YLJ",
+   "ath": 19,
+   "d": "#800RYYUYJ",
+   "dth": 19,
+   "dur": 156,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#200GP2YLJ",
+   "ath": 19,
+   "d": "#89CCLQLLG",
+   "dth": 19,
+   "dur": 125,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYPU0QLV0",
+   "ath": 19,
+   "d": "#PRJCUJUQ9",
+   "dth": 19,
+   "dur": 143,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PVLPRGUR",
+   "ath": 19,
+   "d": "#PGPJUCQR8",
+   "dth": 19,
+   "dur": 180,
+   "o": 62,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYPU0QLV0",
+   "ath": 19,
+   "d": "#9UVPU8CUG",
+   "dth": 19,
+   "dur": 172,
+   "o": 63,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PVLPRGUR",
+   "ath": 19,
+   "d": "#2U2QC928U",
+   "dth": 19,
+   "dur": 141,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UVPU8CUG",
+   "ath": 19,
+   "d": "#L20L98Y",
+   "dth": 19,
+   "dur": 96,
+   "o": 65,
+   "p": 73,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9UVPU8CUG",
+   "ath": 19,
+   "d": "#8PRYLYGGY",
+   "dth": 19,
+   "dur": 138,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QPRGLUVU",
+   "ath": 19,
+   "d": "#RGRULVCY",
+   "dth": 19,
+   "dur": 154,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QPRGLUVU",
+   "ath": 19,
+   "d": "#2C8CQGG82",
+   "dth": 19,
+   "dur": 155,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 18.85,
+  "destruction": 28.175,
   "members": [
    {
     "name": "Fighter",
@@ -885,12 +995,12 @@
    }
   ],
   "name": "#Black Stone#",
-  "stars": 21,
+  "stars": 32,
   "tag": "#Y898LCJ0"
  },
  "end": "20261125T180442.000Z",
  "opponent": {
-  "destruction": 90.325,
+  "destruction": 98.925,
   "members": [
    {
     "name": "iskender",
@@ -1134,7 +1244,7 @@
    }
   ],
   "name": "MADE in TURKEY",
-  "stars": 103,
+  "stars": 113,
   "tag": "#VRPYLG"
  },
  "start": "20261124T180442.000Z",

@@ -523,7 +523,7 @@
  "#9UVPU8CUG": {
   "clan": "#Y898LCJ0",
   "erstmals": "2026-11-23",
-  "letzter_angriff": "2026-11-23",
+  "letzter_angriff": "2026-11-24",
   "name": "Hermann 1",
   "zuletzt_bei_uns": "2026-11-24"
  },
@@ -965,6 +965,7 @@
  "#GRR08G99P": {
   "clan": "#282PGVRRJ",
   "erstmals": "2026-11-23",
+  "letzter_angriff": "2026-11-24",
   "name": "_CR4SH",
   "zuletzt_bei_uns": "2026-11-24"
  },
@@ -1022,6 +1023,12 @@
   "clan": "#28QQVC9LL",
   "erstmals": "2026-11-23",
   "name": "#BS# Marvin VII",
+  "zuletzt_bei_uns": "2026-11-24"
+ },
+ "#GVQPV8R98": {
+  "clan": "#282PGVRRJ",
+  "erstmals": "2026-11-24",
+  "name": "Harz der Kleine",
   "zuletzt_bei_uns": "2026-11-24"
  },
  "#GVV89RLC": {
@@ -1574,7 +1581,7 @@
  "#QPRGLUVU": {
   "clan": "#Y898LCJ0",
   "erstmals": "2026-11-23",
-  "letzter_angriff": "2026-11-23",
+  "letzter_angriff": "2026-11-24",
   "name": "Lias",
   "zuletzt_bei_uns": "2026-11-24"
  },

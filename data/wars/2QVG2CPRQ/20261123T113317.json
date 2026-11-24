@@ -626,11 +626,33 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LJ0PUUU8",
+   "ath": 19,
+   "d": "#UC2LYC9G",
+   "dth": 19,
+   "dur": 161,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LJ0PUUU8",
+   "ath": 19,
+   "d": "#PVRYY22LU",
+   "dth": 19,
+   "dur": 157,
+   "o": 59,
+   "p": 97,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 59.4,
+  "destruction": 65.02857,
   "members": [
    {
     "name": "Abhishek",
@@ -844,7 +866,7 @@
    }
   ],
   "name": "BERSERK",
-  "stars": 62,
+  "stars": 66,
   "tag": "#2QVG2CPRQ"
  },
  "end": "20261125T103317.000Z",
