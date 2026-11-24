@@ -120,11 +120,154 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#80G2RCQ",
+   "ath": 19,
+   "d": "#QYGUV9RQG",
+   "dth": 17,
+   "dur": 136,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P2L20G80C",
+   "ath": 13,
+   "d": "#YYV9VRYJG",
+   "dth": 14,
+   "dur": 180,
+   "o": 13,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9VCUJQL0",
+   "ath": 18,
+   "d": "#YYV9VRYJG",
+   "dth": 14,
+   "dur": 78,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GR88LQG02",
+   "ath": 13,
+   "d": "#2UUCV9UR",
+   "dth": 13,
+   "dur": 77,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LYL8VUP00",
+   "ath": 13,
+   "d": "#QGPPVP029",
+   "dth": 13,
+   "dur": 71,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8VPUQL0P",
+   "ath": 13,
+   "d": "#Q8PJ8VRV",
+   "dth": 13,
+   "dur": 71,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9P2RYPY9P",
+   "ath": 11,
+   "d": "#Q208PY28C",
+   "dth": 11,
+   "dur": 75,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L0YPP8YG",
+   "ath": 16,
+   "d": "#8JJU2Y2VJ",
+   "dth": 16,
+   "dur": 10,
+   "o": 19,
+   "p": 5,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L0YPP8YG",
+   "ath": 16,
+   "d": "#QYGUV9RQG",
+   "dth": 17,
+   "dur": 20,
+   "o": 20,
+   "p": 54,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#P2L20G80C",
+   "ath": 13,
+   "d": "#GRJRUQGYU",
+   "dth": 13,
+   "dur": 118,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8VPUQL0P",
+   "ath": 13,
+   "d": "#QL2VQRQ9V",
+   "dth": 12,
+   "dur": 63,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LYL8VUP00",
+   "ath": 13,
+   "d": "#QYC90820J",
+   "dth": 13,
+   "dur": 105,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9VCUJQL0",
+   "ath": 18,
+   "d": "#8JJU2Y2VJ",
+   "dth": 16,
+   "dur": 17,
+   "o": 24,
+   "p": 29,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 10.0,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Alter\"RUSHER\" 1",
@@ -188,7 +331,7 @@
    }
   ],
   "name": "Alter Verwalter",
-  "stars": 3,
+  "stars": 30,
   "tag": "#2RGVRLQ8V"
  },
  "end": "20261124T172236.000Z",
