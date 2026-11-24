@@ -1,0 +1,185 @@
+{
+ "attacks": [
+  {
+   "a": "#L8RUP2ULR",
+   "ath": 19,
+   "d": "#UUURL9L2",
+   "dth": 19,
+   "dur": 98,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UUURL9L2",
+   "ath": 19,
+   "d": "#8GR08QLPL",
+   "dth": 19,
+   "dur": 139,
+   "o": 2,
+   "p": 81,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPJVPJQCL",
+   "ath": 19,
+   "d": "#9VUVUYJR",
+   "dth": 19,
+   "dur": 180,
+   "o": 3,
+   "p": 81,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YUPG8PVYJ",
+   "ath": 19,
+   "d": "#2GYJVLCU",
+   "dth": 19,
+   "dur": 99,
+   "o": 4,
+   "p": 53,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GR08QLPL",
+   "ath": 19,
+   "d": "#GPLYGPVR",
+   "dth": 19,
+   "dur": 180,
+   "o": 5,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#P0L8LC828",
+   "ath": 19,
+   "d": "#L8RUP2ULR",
+   "dth": 19,
+   "dur": 177,
+   "o": 6,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GYJVLCU",
+   "ath": 19,
+   "d": "#P0L8LC828",
+   "dth": 19,
+   "dur": 139,
+   "o": 7,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9VUVUYJR",
+   "ath": 19,
+   "d": "#LPJVPJQCL",
+   "dth": 19,
+   "dur": 155,
+   "o": 8,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LL0UCLJ0C",
+   "ath": 19,
+   "d": "#YUPG8PVYJ",
+   "dth": 19,
+   "dur": 167,
+   "o": 9,
+   "p": 80,
+   "s": 2,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 1,
+ "clan": {
+  "destruction": 87.2,
+  "members": [
+   {
+    "name": "2L4S T,",
+    "pos": 4,
+    "tag": "#2GYJVLCU",
+    "th": 19
+   },
+   {
+    "name": "HZN N0AH",
+    "pos": 3,
+    "tag": "#LL0UCLJ0C",
+    "th": 19
+   },
+   {
+    "name": "NeVeRz",
+    "pos": 1,
+    "tag": "#8GR08QLPL",
+    "th": 19
+   },
+   {
+    "name": "LOST★stefan",
+    "pos": 2,
+    "tag": "#L8RUP2ULR",
+    "th": 19
+   },
+   {
+    "name": "Höllenzwerg",
+    "pos": 5,
+    "tag": "#LPJVPJQCL",
+    "th": 19
+   }
+  ],
+  "name": "Horizon Esports",
+  "stars": 11,
+  "tag": "#2GY90QU9J"
+ },
+ "end": "20261124T205042.000Z",
+ "opponent": {
+  "destruction": 61.4,
+  "members": [
+   {
+    "name": "atli",
+    "pos": 4,
+    "tag": "#UUURL9L2",
+    "th": 19
+   },
+   {
+    "name": "99% Muffin",
+    "pos": 1,
+    "tag": "#9VUVUYJR",
+    "th": 19
+   },
+   {
+    "name": "G⚡️E Leo",
+    "pos": 5,
+    "tag": "#GPLYGPVR",
+    "th": 19
+   },
+   {
+    "name": "⚡Niclas⚡",
+    "pos": 3,
+    "tag": "#P0L8LC828",
+    "th": 19
+   },
+   {
+    "name": "⚡️pizzabote⚡️",
+    "pos": 2,
+    "tag": "#YUPG8PVYJ",
+    "th": 19
+   }
+  ],
+  "name": "Team Horizon",
+  "stars": 6,
+  "tag": "#2C88L8GRV"
+ },
+ "start": "20261124T200542.000Z",
+ "state": "inWar",
+ "teamSize": 5,
+ "type": "krieg"
+}

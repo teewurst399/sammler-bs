@@ -65,11 +65,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2PPYL9YPU",
+   "ath": 19,
+   "d": "#LC90QL9L",
+   "dth": 19,
+   "dur": 143,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y8LLLLURG",
+   "ath": 19,
+   "d": "#9VCRY99P",
+   "dth": 19,
+   "dur": 180,
+   "o": 8,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PJU2UQ0P",
+   "ath": 19,
+   "d": "#2LG9JP8RV",
+   "dth": 19,
+   "dur": 147,
+   "o": 9,
+   "p": 82,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LVQLRVJP8",
+   "ath": 19,
+   "d": "#9J0R9UPYG",
+   "dth": 19,
+   "dur": 90,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28UGQ09LG",
+   "ath": 19,
+   "d": "#9VCRY99P",
+   "dth": 19,
+   "dur": 172,
+   "o": 11,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#28UGQ09LG",
+   "ath": 19,
+   "d": "#JL0QU2UQ",
+   "dth": 19,
+   "dur": 174,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJU2UQ0P",
+   "ath": 19,
+   "d": "#8YYLGYR2Q",
+   "dth": 19,
+   "dur": 140,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QPPLVLQGP",
+   "ath": 19,
+   "d": "#2V2U22R2",
+   "dth": 19,
+   "dur": 164,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPPLVLQGP",
+   "ath": 19,
+   "d": "#29QR02VPR",
+   "dth": 19,
+   "dur": 136,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 10.0,
+  "destruction": 21.9,
   "members": [
    {
     "name": "s3m",
@@ -313,12 +412,12 @@
    }
   ],
   "name": "#Black Stone# 2",
-  "stars": 12,
+  "stars": 25,
   "tag": "#282PGVRRJ"
  },
  "end": "20261125T185502.000Z",
  "opponent": {
-  "destruction": 5.0,
+  "destruction": 12.5,
   "members": [
    {
     "name": "Sezer",
@@ -562,7 +661,7 @@
    }
   ],
   "name": "KARA SANCAK",
-  "stars": 6,
+  "stars": 15,
   "tag": "#2RU29PGR0"
  },
  "start": "20261124T185502.000Z",
