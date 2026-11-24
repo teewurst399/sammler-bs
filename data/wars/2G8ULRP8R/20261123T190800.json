@@ -219,11 +219,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2JUR0GCPR",
+   "ath": 17,
+   "d": "#YJLV9UU9",
+   "dth": 19,
+   "dur": 157,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JUR0GCPR",
+   "ath": 17,
+   "d": "#8J982QVR8",
+   "dth": 19,
+   "dur": 176,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GG8JRRYV",
+   "ath": 17,
+   "d": "#GRP22G28Q",
+   "dth": 18,
+   "dur": 134,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GG8JRRYV",
+   "ath": 17,
+   "d": "#GVLCLR9Q0",
+   "dth": 17,
+   "dur": 126,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9V82UJL0",
+   "ath": 19,
+   "d": "#2PLPQJQ80",
+   "dth": 19,
+   "dur": 129,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#200GGYCRV",
+   "ath": 16,
+   "d": "#Y8UC0PL9J",
+   "dth": 16,
+   "dur": 179,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PG9C2P0Q",
+   "ath": 16,
+   "d": "#GL0LCU0C0",
+   "dth": 16,
+   "dur": 141,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PG9C2P0Q",
+   "ath": 16,
+   "d": "#LVG8L288Q",
+   "dth": 16,
+   "dur": 142,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#200GGYCRV",
+   "ath": 16,
+   "d": "#8908J8QL",
+   "dth": 16,
+   "dur": 126,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 28.35,
+  "destruction": 58.35,
   "members": [
    {
     "name": "Mega |V",
@@ -347,12 +446,12 @@
    }
   ],
   "name": "#Black Stone# 6",
-  "stars": 15,
+  "stars": 33,
   "tag": "#2G8ULRP8R"
  },
  "end": "20261125T180800.000Z",
  "opponent": {
-  "destruction": 58.7,
+  "destruction": 70.0,
   "members": [
    {
     "name": "爆笑｜Bibze ♰ ✧",
@@ -476,7 +575,7 @@
    }
   ],
   "name": "Legends",
-  "stars": 35,
+  "stars": 42,
   "tag": "#2J9V22JV0"
  },
  "start": "20261124T180800.000Z",

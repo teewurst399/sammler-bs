@@ -901,6 +901,39 @@
    "p": 68,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#8PJCUPC2L",
+   "ath": 19,
+   "d": "#2RJLQQRCJ",
+   "dth": 19,
+   "dur": 130,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQRUYVYV",
+   "ath": 19,
+   "d": "#U909JY8L",
+   "dth": 19,
+   "dur": 23,
+   "o": 84,
+   "p": 5,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GQRUYVYV",
+   "ath": 19,
+   "d": "#QC99002L",
+   "dth": 19,
+   "dur": 31,
+   "o": 85,
+   "p": 20,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1214,7 +1247,7 @@
  },
  "end": "20261125T115216.000Z",
  "opponent": {
-  "destruction": 24.88,
+  "destruction": 25.48,
   "members": [
    {
     "name": "✨❤️rongnho❤️✨",
@@ -1518,7 +1551,7 @@
    }
   ],
   "name": "VIỆT WAR",
-  "stars": 35,
+  "stars": 36,
   "tag": "#8YJG00UJ"
  },
  "start": "20261124T115216.000Z",
