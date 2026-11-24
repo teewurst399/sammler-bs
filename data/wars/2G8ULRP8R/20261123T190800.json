@@ -208,6 +208,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9V82UJL0",
+   "ath": 19,
+   "d": "#GQVRJRYVG",
+   "dth": 19,
+   "dur": 148,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -341,7 +352,7 @@
  },
  "end": "20261125T180800.000Z",
  "opponent": {
-  "destruction": 53.7,
+  "destruction": 58.7,
   "members": [
    {
     "name": "爆笑｜Bibze ♰ ✧",
@@ -465,7 +476,7 @@
    }
   ],
   "name": "Legends",
-  "stars": 32,
+  "stars": 35,
   "tag": "#2J9V22JV0"
  },
  "start": "20261124T180800.000Z",

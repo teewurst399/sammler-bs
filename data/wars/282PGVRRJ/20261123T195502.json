@@ -296,11 +296,55 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#VL020LG0",
+   "ath": 19,
+   "d": "#YLJJYYLQR",
+   "dth": 19,
+   "dur": 157,
+   "o": 28,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9Q89JJ0UV",
+   "ath": 18,
+   "d": "#882YPQ90C",
+   "dth": 18,
+   "dur": 175,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#V9JLRYU",
+   "ath": 19,
+   "d": "#8J29UP0CR",
+   "dth": 19,
+   "dur": 174,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#V9JLRYU",
+   "ath": 19,
+   "d": "#QPPLVLQGP",
+   "dth": 19,
+   "dur": 140,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 26.625,
+  "destruction": 36.45,
   "members": [
    {
     "name": "s3m",
@@ -544,7 +588,7 @@
    }
   ],
   "name": "#Black Stone# 2",
-  "stars": 30,
+  "stars": 41,
   "tag": "#282PGVRRJ"
  },
  "end": "20261125T185502.000Z",
