@@ -1,0 +1,85 @@
+{
+ "attacks": [],
+ "attacksPerMember": 1,
+ "clan": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "Tyron",
+    "pos": 5,
+    "tag": "#8C8RP02U",
+    "th": 19
+   },
+   {
+    "name": "卡戎Charon",
+    "pos": 4,
+    "tag": "#YQ2RYVCLJ",
+    "th": 19
+   },
+   {
+    "name": "HZN RS",
+    "pos": 2,
+    "tag": "#UGLLL2GU",
+    "th": 19
+   },
+   {
+    "name": "NeVeRz",
+    "pos": 1,
+    "tag": "#8GR08QLPL",
+    "th": 19
+   },
+   {
+    "name": "LOST★stefan",
+    "pos": 3,
+    "tag": "#L8RUP2ULR",
+    "th": 19
+   }
+  ],
+  "name": "Horizon Gaming",
+  "stars": 0,
+  "tag": "#2C9V9V8R2"
+ },
+ "end": "20261124T185241.000Z",
+ "opponent": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "Sae",
+    "pos": 1,
+    "tag": "#YC29Q8P8",
+    "th": 19
+   },
+   {
+    "name": "勒诶ＪＯＹ™☠️✨⭕p",
+    "pos": 2,
+    "tag": "#PPL9QY9UJ",
+    "th": 19
+   },
+   {
+    "name": "™WR⚡️A R IJ I T",
+    "pos": 4,
+    "tag": "#YGPC99U0Q",
+    "th": 19
+   },
+   {
+    "name": "™️WR⚡S U R A J",
+    "pos": 5,
+    "tag": "#8RP0PRCCJ",
+    "th": 19
+   },
+   {
+    "name": "™WR⚡B L A D E",
+    "pos": 3,
+    "tag": "#9RGQUYRQU",
+    "th": 19
+   }
+  ],
+  "name": "Hornets eSports",
+  "stars": 0,
+  "tag": "#2CJGGYV88"
+ },
+ "start": "20261124T180741.000Z",
+ "state": "inWar",
+ "teamSize": 5,
+ "type": "krieg"
+}

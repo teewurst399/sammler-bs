@@ -1,0 +1,512 @@
+{
+ "attacks": [
+  {
+   "a": "#QGG0Y2P9L",
+   "ath": 19,
+   "d": "#VGJY082R",
+   "dth": 19,
+   "dur": 88,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GYQJJRPL",
+   "ath": 14,
+   "d": "#GQ2YUUCQJ",
+   "dth": 14,
+   "dur": 153,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QGG0Y2P9L",
+   "ath": 19,
+   "d": "#G0GGJ9P",
+   "dth": 19,
+   "dur": 137,
+   "o": 3,
+   "p": 90,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y22QYU90P",
+   "ath": 19,
+   "d": "#P9UG90C98",
+   "dth": 19,
+   "dur": 122,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y22QYU90P",
+   "ath": 19,
+   "d": "#22C9VGRUR",
+   "dth": 19,
+   "dur": 132,
+   "o": 5,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9GYQJJRPL",
+   "ath": 14,
+   "d": "#G0JJJL290",
+   "dth": 14,
+   "dur": 163,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 11.4,
+  "members": [
+   {
+    "name": "JonyNation",
+    "pos": 12,
+    "tag": "#88GJJQL0",
+    "th": 19
+   },
+   {
+    "name": "Lordina Emma",
+    "pos": 23,
+    "tag": "#LRRCJQ8G0",
+    "th": 18
+   },
+   {
+    "name": "Eliwood",
+    "pos": 3,
+    "tag": "#RR8U80YC",
+    "th": 19
+   },
+   {
+    "name": "Semo_x96",
+    "pos": 18,
+    "tag": "#LJJJ08YGV",
+    "th": 18
+   },
+   {
+    "name": "Dei",
+    "pos": 27,
+    "tag": "#VPQ9U0JL",
+    "th": 17
+   },
+   {
+    "name": "Marv V",
+    "pos": 35,
+    "tag": "#QQPC9QGJY",
+    "th": 7
+   },
+   {
+    "name": "till",
+    "pos": 34,
+    "tag": "#QCUVVJVP2",
+    "th": 15
+   },
+   {
+    "name": "[HaFa] ✨matt✨",
+    "pos": 9,
+    "tag": "#Q2Q98YVP",
+    "th": 19
+   },
+   {
+    "name": "Lucas",
+    "pos": 28,
+    "tag": "#Q222JG28",
+    "th": 17
+   },
+   {
+    "name": "[HaFa] matti",
+    "pos": 11,
+    "tag": "#92YRGJ8",
+    "th": 19
+   },
+   {
+    "name": "Tobelchen",
+    "pos": 7,
+    "tag": "#G0GGJ9P",
+    "th": 19
+   },
+   {
+    "name": "[HaFa] ☀️matt☀️",
+    "pos": 16,
+    "tag": "#LCG8UUQC",
+    "th": 19
+   },
+   {
+    "name": "cano",
+    "pos": 14,
+    "tag": "#GYRLV0JCV",
+    "th": 18
+   },
+   {
+    "name": "someCentox",
+    "pos": 6,
+    "tag": "#8RQUG2GU",
+    "th": 19
+   },
+   {
+    "name": "Kansiz1461",
+    "pos": 17,
+    "tag": "#PPQU0PLQL",
+    "th": 18
+   },
+   {
+    "name": "(FF) Paul",
+    "pos": 15,
+    "tag": "#Y22QYU90P",
+    "th": 19
+   },
+   {
+    "name": "*TOBX*",
+    "pos": 26,
+    "tag": "#QGLPCL08Q",
+    "th": 18
+   },
+   {
+    "name": "7YR4N7",
+    "pos": 19,
+    "tag": "#908C0R9PV",
+    "th": 18
+   },
+   {
+    "name": "Eliwood.V2",
+    "pos": 32,
+    "tag": "#GCGUVCGL2",
+    "th": 17
+   },
+   {
+    "name": "TheSpecialOne",
+    "pos": 8,
+    "tag": "#VGJY082R",
+    "th": 19
+   },
+   {
+    "name": "[HaFa] ⭐️matt⭐️",
+    "pos": 13,
+    "tag": "#L2J29LLP2",
+    "th": 19
+   },
+   {
+    "name": "Palme",
+    "pos": 4,
+    "tag": "#GYYPJJV99",
+    "th": 19
+   },
+   {
+    "name": "Moonlanding11",
+    "pos": 20,
+    "tag": "#LRJU9YJY9",
+    "th": 19
+   },
+   {
+    "name": "Blazerod",
+    "pos": 29,
+    "tag": "#20YYCG08",
+    "th": 16
+   },
+   {
+    "name": "Claas",
+    "pos": 5,
+    "tag": "#JVCRQ200",
+    "th": 19
+   },
+   {
+    "name": "O.F.",
+    "pos": 2,
+    "tag": "#8VV8JYVJP",
+    "th": 19
+   },
+   {
+    "name": "King 7.0",
+    "pos": 10,
+    "tag": "#P0YYCYRG8",
+    "th": 19
+   },
+   {
+    "name": "Lias lll",
+    "pos": 22,
+    "tag": "#29LCQPJCV",
+    "th": 18
+   },
+   {
+    "name": "Lias lV",
+    "pos": 30,
+    "tag": "#GL20RC0RR",
+    "th": 16
+   },
+   {
+    "name": "Keano",
+    "pos": 21,
+    "tag": "#9JUGQQ8PV",
+    "th": 18
+   },
+   {
+    "name": "T,,",
+    "pos": 24,
+    "tag": "#JVJJGQJJ",
+    "th": 18
+   },
+   {
+    "name": "King Th11 2.0",
+    "pos": 33,
+    "tag": "#9GYQJJRPL",
+    "th": 14
+   },
+   {
+    "name": "Mega ||",
+    "pos": 31,
+    "tag": "#9RQG298YU",
+    "th": 15
+   },
+   {
+    "name": "DerBarbar",
+    "pos": 1,
+    "tag": "#89JLCV8RR",
+    "th": 19
+   },
+   {
+    "name": "HängeLampe",
+    "pos": 25,
+    "tag": "#LCQUQQYYR",
+    "th": 17
+   }
+  ],
+  "name": "#Black Stone# 5",
+  "stars": 11,
+  "tag": "#2GLY98C9U"
+ },
+ "end": "20261125T172518.000Z",
+ "opponent": {
+  "destruction": 5.428571,
+  "members": [
+   {
+    "name": "Akay_92",
+    "pos": 18,
+    "tag": "#29YJJQCQC",
+    "th": 18
+   },
+   {
+    "name": "Phương Nam",
+    "pos": 12,
+    "tag": "#2QYCPRR0L",
+    "th": 19
+   },
+   {
+    "name": "n0n@me",
+    "pos": 1,
+    "tag": "#22C9VGRUR",
+    "th": 19
+   },
+   {
+    "name": "VNgun",
+    "pos": 29,
+    "tag": "#GG9LJUUC2",
+    "th": 18
+   },
+   {
+    "name": "trâm anh",
+    "pos": 25,
+    "tag": "#Q82LP02RJ",
+    "th": 18
+   },
+   {
+    "name": "manh hiii",
+    "pos": 17,
+    "tag": "#GRUYVGRV8",
+    "th": 19
+   },
+   {
+    "name": "DưaKhôngHạt•_•",
+    "pos": 19,
+    "tag": "#YYRC90VJ8",
+    "th": 18
+   },
+   {
+    "name": "HÀO OPPA",
+    "pos": 6,
+    "tag": "#PVRCQ2PGV",
+    "th": 19
+   },
+   {
+    "name": "Dominic LND",
+    "pos": 15,
+    "tag": "#YCL222C0Q",
+    "th": 18
+   },
+   {
+    "name": "trườngg thịnhh",
+    "pos": 33,
+    "tag": "#G0JJJL290",
+    "th": 14
+   },
+   {
+    "name": "* KINH KHA *",
+    "pos": 4,
+    "tag": "#CYR20YCP",
+    "th": 19
+   },
+   {
+    "name": "Sang Lầy 2006",
+    "pos": 14,
+    "tag": "#QQPQQV89J",
+    "th": 19
+   },
+   {
+    "name": "quatlam",
+    "pos": 26,
+    "tag": "#GC2VVGC2P",
+    "th": 18
+   },
+   {
+    "name": "Đạo gà gà",
+    "pos": 27,
+    "tag": "#GU2GJRY08",
+    "th": 18
+   },
+   {
+    "name": "Mrken-HH",
+    "pos": 21,
+    "tag": "#GCC082P28",
+    "th": 18
+   },
+   {
+    "name": "lisa11111",
+    "pos": 24,
+    "tag": "#QPQU9P9CL",
+    "th": 17
+   },
+   {
+    "name": "bao bao",
+    "pos": 35,
+    "tag": "#RYJPYP0J8",
+    "th": 8
+   },
+   {
+    "name": "Super Queen..",
+    "pos": 11,
+    "tag": "#G2P0CYRJQ",
+    "th": 19
+   },
+   {
+    "name": "zXIII",
+    "pos": 2,
+    "tag": "#Y092URUP8",
+    "th": 19
+   },
+   {
+    "name": "Diablo Tempest",
+    "pos": 20,
+    "tag": "#GC0VVY8G9",
+    "th": 18
+   },
+   {
+    "name": "Lucipher",
+    "pos": 7,
+    "tag": "#L8YPCL2VC",
+    "th": 19
+   },
+   {
+    "name": "Đạo gà",
+    "pos": 3,
+    "tag": "#P9UG90C98",
+    "th": 19
+   },
+   {
+    "name": "TaiNguyen",
+    "pos": 8,
+    "tag": "#QGG0Y2P9L",
+    "th": 19
+   },
+   {
+    "name": "suzune",
+    "pos": 10,
+    "tag": "#QCVYGC9GL",
+    "th": 19
+   },
+   {
+    "name": "Bồ Tát Cầm Súng",
+    "pos": 5,
+    "tag": "#P2UC8PG0U",
+    "th": 19
+   },
+   {
+    "name": "thập tam ca",
+    "pos": 31,
+    "tag": "#GJQCU22UG",
+    "th": 17
+   },
+   {
+    "name": "IThiene",
+    "pos": 16,
+    "tag": "#Q0LU9Y0J2",
+    "th": 18
+   },
+   {
+    "name": "™®™Gió™®™",
+    "pos": 9,
+    "tag": "#YG29Q8QP9",
+    "th": 19
+   },
+   {
+    "name": "Zegion Tempest",
+    "pos": 13,
+    "tag": "#GYGY0GGJC",
+    "th": 19
+   },
+   {
+    "name": "WynhAnh",
+    "pos": 30,
+    "tag": "#GGUCVPV2Y",
+    "th": 16
+   },
+   {
+    "name": "chàng bướm",
+    "pos": 34,
+    "tag": "#GQ2YUUCQJ",
+    "th": 14
+   },
+   {
+    "name": "LTMP",
+    "pos": 32,
+    "tag": "#Y2QJVPGRV",
+    "th": 16
+   },
+   {
+    "name": "LONGDEMONJESTER",
+    "pos": 28,
+    "tag": "#29QLUY9P0",
+    "th": 16
+   },
+   {
+    "name": "Tần Thuỷ Hoàng",
+    "pos": 23,
+    "tag": "#80GQVUGUP",
+    "th": 18
+   },
+   {
+    "name": "Cậu Ấm",
+    "pos": 22,
+    "tag": "#9J8RLR8C9",
+    "th": 18
+   }
+  ],
+  "name": "LỒNG CHIM VÁC",
+  "stars": 4,
+  "tag": "#2LJ209GUG"
+ },
+ "start": "20261124T172518.000Z",
+ "state": "inWar",
+ "teamSize": 35,
+ "type": "krieg"
+}

@@ -494,11 +494,66 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#RG8LJLUR",
+   "ath": 19,
+   "d": "#LYGJ2JPJJ",
+   "dth": 19,
+   "dur": 158,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RG8LJLUR",
+   "ath": 19,
+   "d": "#G28PRPQ0",
+   "dth": 19,
+   "dur": 167,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LYGJ2JPJJ",
+   "ath": 19,
+   "d": "#9QCQ2QUY",
+   "dth": 19,
+   "dur": 132,
+   "o": 48,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LYGJ2JPJJ",
+   "ath": 19,
+   "d": "#PLRGYRCVQ",
+   "dth": 19,
+   "dur": 128,
+   "o": 49,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#92VUV2Q80",
+   "ath": 19,
+   "d": "#9QCQ2QUY",
+   "dth": 19,
+   "dur": 118,
+   "o": 50,
+   "p": 92,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 53.685715,
+  "destruction": 59.4,
   "members": [
    {
     "name": "Abhishek",
@@ -712,12 +767,12 @@
    }
   ],
   "name": "BERSERK",
-  "stars": 56,
+  "stars": 62,
   "tag": "#2QVG2CPRQ"
  },
  "end": "20261125T103317.000Z",
  "opponent": {
-  "destruction": 54.285713,
+  "destruction": 59.314285,
   "members": [
    {
     "name": "미남홍진우^^",
@@ -931,7 +986,7 @@
    }
   ],
   "name": "좋은친구들",
-  "stars": 57,
+  "stars": 61,
   "tag": "#2L9QGYJR"
  },
  "start": "20261124T103317.000Z",
