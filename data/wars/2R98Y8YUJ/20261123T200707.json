@@ -1231,6 +1231,138 @@
    "p": 8,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#9GLULLL22",
+   "ath": 19,
+   "d": "#2QP8PV2CG",
+   "dth": 19,
+   "dur": 104,
+   "o": 113,
+   "p": 83,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GLULLL22",
+   "ath": 19,
+   "d": "#QJUYR9VV",
+   "dth": 19,
+   "dur": 165,
+   "o": 114,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGR9QP8LU",
+   "ath": 19,
+   "d": "#P00LGL02L",
+   "dth": 19,
+   "dur": 104,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28URRRJGJ",
+   "ath": 19,
+   "d": "#8UPR8L009",
+   "dth": 19,
+   "dur": 151,
+   "o": 116,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGR9QP8LU",
+   "ath": 19,
+   "d": "#8RLJC2V28",
+   "dth": 19,
+   "dur": 92,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28URRRJGJ",
+   "ath": 19,
+   "d": "#209JPGGV9",
+   "dth": 19,
+   "dur": 180,
+   "o": 118,
+   "p": 78,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LU9C2LYCR",
+   "ath": 19,
+   "d": "#P00LGL02L",
+   "dth": 19,
+   "dur": 141,
+   "o": 119,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#202YJ80GG",
+   "ath": 19,
+   "d": "#2QP8PV2CG",
+   "dth": 19,
+   "dur": 180,
+   "o": 120,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LU9C2LYCR",
+   "ath": 19,
+   "d": "#8RLJC2V28",
+   "dth": 19,
+   "dur": 110,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LCYLR980G",
+   "ath": 19,
+   "d": "#8RLJC2V28",
+   "dth": 19,
+   "dur": 131,
+   "o": 122,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#202YJ80GG",
+   "ath": 19,
+   "d": "#Y9C9JJ89",
+   "dth": 19,
+   "dur": 164,
+   "o": 123,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCYLR980G",
+   "ath": 19,
+   "d": "#2GJR99VQ0",
+   "dth": 19,
+   "dur": 101,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1544,7 +1676,7 @@
  },
  "end": "20261125T190707.000Z",
  "opponent": {
-  "destruction": 90.0,
+  "destruction": 94.36,
   "members": [
    {
     "name": "➡️ＮＥＧＡＲ",
@@ -1848,7 +1980,7 @@
    }
   ],
   "name": "Arrow",
-  "stars": 132,
+  "stars": 138,
   "tag": "#PQU9YQCQ"
  },
  "start": "20261124T190707.000Z",
