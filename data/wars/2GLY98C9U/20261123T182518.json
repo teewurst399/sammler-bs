@@ -230,6 +230,72 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#L8YPCL2VC",
+   "ath": 19,
+   "d": "#92YRGJ8",
+   "dth": 19,
+   "dur": 132,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8YPCL2VC",
+   "ath": 19,
+   "d": "#88GJJQL0",
+   "dth": 19,
+   "dur": 173,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCL222C0Q",
+   "ath": 18,
+   "d": "#GYYPJJV99",
+   "dth": 19,
+   "dur": 165,
+   "o": 24,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#22C9VGRUR",
+   "ath": 19,
+   "d": "#GYYPJJV99",
+   "dth": 19,
+   "dur": 107,
+   "o": 25,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#22C9VGRUR",
+   "ath": 19,
+   "d": "#G0GGJ9P",
+   "dth": 19,
+   "dur": 160,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCL222C0Q",
+   "ath": 18,
+   "d": "#JVCRQ200",
+   "dth": 19,
+   "dur": 171,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -453,7 +519,7 @@
  },
  "end": "20261125T172518.000Z",
  "opponent": {
-  "destruction": 19.714285,
+  "destruction": 31.37143,
   "members": [
    {
     "name": "Akay_92",
@@ -667,7 +733,7 @@
    }
   ],
   "name": "LỒNG CHIM VÁC",
-  "stars": 19,
+  "stars": 32,
   "tag": "#2LJ209GUG"
  },
  "start": "20261124T172518.000Z",
