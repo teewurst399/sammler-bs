@@ -1,0 +1,157 @@
+{
+ "attacks": [
+  {
+   "a": "#80G2RCQ",
+   "ath": 19,
+   "d": "#8PQPC2GGQ",
+   "dth": 19,
+   "dur": 155,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 10.0,
+  "members": [
+   {
+    "name": "Alter\"RUSHER\" 1",
+    "pos": 3,
+    "tag": "#Q9VCUJQL0",
+    "th": 18
+   },
+   {
+    "name": "Verwalter Rh12",
+    "pos": 4,
+    "tag": "#QLUGCV8U",
+    "th": 12
+   },
+   {
+    "name": "v.engineered5",
+    "pos": 7,
+    "tag": "#L8VPUQL0P",
+    "th": 13
+   },
+   {
+    "name": "verw120",
+    "pos": 6,
+    "tag": "#P2L20G80C",
+    "th": 13
+   },
+   {
+    "name": "CwnoobVerwalter",
+    "pos": 1,
+    "tag": "#80G2RCQ",
+    "th": 19
+   },
+   {
+    "name": "v.engineered4",
+    "pos": 8,
+    "tag": "#LYL8VUP00",
+    "th": 13
+   },
+   {
+    "name": "v.engineered3",
+    "pos": 9,
+    "tag": "#GR88LQG02",
+    "th": 13
+   },
+   {
+    "name": "who needs walls",
+    "pos": 10,
+    "tag": "#9P2RYPY9P",
+    "th": 11
+   },
+   {
+    "name": "Alter Verwalter",
+    "pos": 2,
+    "tag": "#L0YPP8YG",
+    "th": 16
+   },
+   {
+    "name": "Verw559",
+    "pos": 5,
+    "tag": "#928RJG8JQ",
+    "th": 12
+   }
+  ],
+  "name": "Alter Verwalter",
+  "stars": 3,
+  "tag": "#2RGVRLQ8V"
+ },
+ "end": "20261126T171706.000Z",
+ "opponent": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "خفاش شب",
+    "pos": 2,
+    "tag": "#QRYL2CQV0",
+    "th": 17
+   },
+   {
+    "name": "علی",
+    "pos": 8,
+    "tag": "#GU0CG98P8",
+    "th": 12
+   },
+   {
+    "name": "mini dracula",
+    "pos": 6,
+    "tag": "#R2Q9LJGRG",
+    "th": 13
+   },
+   {
+    "name": "تاج",
+    "pos": 5,
+    "tag": "#GCVLCP808",
+    "th": 12
+   },
+   {
+    "name": "dracula",
+    "pos": 3,
+    "tag": "#LLP2LPJYV",
+    "th": 16
+   },
+   {
+    "name": "Ghazal",
+    "pos": 4,
+    "tag": "#GRJPYCGPC",
+    "th": 13
+   },
+   {
+    "name": "arsalan",
+    "pos": 1,
+    "tag": "#8PQPC2GGQ",
+    "th": 19
+   },
+   {
+    "name": "Artin",
+    "pos": 9,
+    "tag": "#QV82V9YCG",
+    "th": 11
+   },
+   {
+    "name": "sara",
+    "pos": 10,
+    "tag": "#GRLC8VP9L",
+    "th": 11
+   },
+   {
+    "name": "ebi1370",
+    "pos": 7,
+    "tag": "#GVY20JVJJ",
+    "th": 12
+   }
+  ],
+  "name": "ARYVEX",
+  "stars": 0,
+  "tag": "#2J0J29U8C"
+ },
+ "start": "20261125T171706.000Z",
+ "state": "inWar",
+ "teamSize": 10,
+ "type": "krieg"
+}

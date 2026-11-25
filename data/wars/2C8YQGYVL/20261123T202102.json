@@ -1242,6 +1242,83 @@
    "p": 74,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#LJPC2J8VR",
+   "ath": 19,
+   "d": "#882JPYYL",
+   "dth": 19,
+   "dur": 144,
+   "o": 114,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRY80JVRL",
+   "ath": 19,
+   "d": "#PCRJJ880U",
+   "dth": 19,
+   "dur": 121,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GR0PL0GC",
+   "ath": 18,
+   "d": "#8LQQP02Y8",
+   "dth": 19,
+   "dur": 151,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LJPC2J8VR",
+   "ath": 19,
+   "d": "#2GQCJCV8C",
+   "dth": 19,
+   "dur": 156,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GR0PL0GC",
+   "ath": 18,
+   "d": "#2VJ0LC9U0",
+   "dth": 19,
+   "dur": 155,
+   "o": 118,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRY80JVRL",
+   "ath": 19,
+   "d": "#JQL0PYJR",
+   "dth": 19,
+   "dur": 135,
+   "o": 119,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8G90RP2Y",
+   "ath": 19,
+   "d": "#P2R0VPPC8",
+   "dth": 18,
+   "dur": 145,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1495,7 +1572,7 @@
  },
  "end": "20261125T192102.000Z",
  "opponent": {
-  "destruction": 96.625,
+  "destruction": 98.6,
   "members": [
    {
     "name": "シابو عيسى ❤️",
@@ -1739,7 +1816,7 @@
    }
   ],
   "name": "الأبطال",
-  "stars": 110,
+  "stars": 115,
   "tag": "#8YG2GVL2"
  },
  "start": "20261124T192102.000Z",

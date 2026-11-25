@@ -593,11 +593,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YYP0VQGC0",
+   "ath": 18,
+   "d": "#8QGP20YV",
+   "dth": 19,
+   "dur": 132,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YYP0VQGC0",
+   "ath": 18,
+   "d": "#9V82UJL0",
+   "dth": 19,
+   "dur": 13,
+   "o": 56,
+   "p": 25,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GQVRJRYVG",
+   "ath": 19,
+   "d": "#9V82UJL0",
+   "dth": 19,
+   "dur": 148,
+   "o": 57,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GQVRJRYVG",
+   "ath": 19,
+   "d": "#88RGQ8G08",
+   "dth": 19,
+   "dur": 79,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QP8CU9RP2",
+   "ath": 12,
+   "d": "#88RGQ8G08",
+   "dth": 19,
+   "dur": 9,
+   "o": 59,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QP8CU9RP2",
+   "ath": 12,
+   "d": "#LURJYQQCJ",
+   "dth": 19,
+   "dur": 24,
+   "o": 60,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q0L2GJ8CQ",
+   "ath": 13,
+   "d": "#88RGQ8G08",
+   "dth": 19,
+   "dur": 12,
+   "o": 61,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q0L2GJ8CQ",
+   "ath": 13,
+   "d": "#LURJYQQCJ",
+   "dth": 19,
+   "dur": 24,
+   "o": 62,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LPJ2VC9C9",
+   "ath": 14,
+   "d": "#88RGQ8G08",
+   "dth": 19,
+   "dur": 7,
+   "o": 63,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LPJ2VC9C9",
+   "ath": 14,
+   "d": "#LURJYQQCJ",
+   "dth": 19,
+   "dur": 10,
+   "o": 64,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YPL2YPGUP",
+   "ath": 15,
+   "d": "#88RGQ8G08",
+   "dth": 19,
+   "dur": 6,
+   "o": 65,
+   "p": 6,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YPL2YPGUP",
+   "ath": 15,
+   "d": "#LURJYQQCJ",
+   "dth": 19,
+   "dur": 6,
+   "o": 66,
+   "p": 12,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 94.15,
+  "destruction": 97.9,
   "members": [
    {
     "name": "Mega |V",
@@ -721,7 +853,7 @@
    }
   ],
   "name": "#Black Stone# 6",
-  "stars": 54,
+  "stars": 57,
   "tag": "#2G8ULRP8R"
  },
  "end": "20261125T180800.000Z",
@@ -854,7 +986,7 @@
   "tag": "#2J9V22JV0"
  },
  "start": "20261124T180800.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 20,
  "type": "krieg"
 }
