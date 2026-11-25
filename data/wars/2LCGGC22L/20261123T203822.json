@@ -538,11 +538,55 @@
    "p": 95,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#QJV8UUGRJ",
+   "ath": 19,
+   "d": "#GYVGYPVP2",
+   "dth": 19,
+   "dur": 154,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QJV8UUGRJ",
+   "ath": 19,
+   "d": "#8P298Q9J",
+   "dth": 19,
+   "dur": 142,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UP0YUCUG",
+   "ath": 18,
+   "d": "#QVYJ9C0U9",
+   "dth": 19,
+   "dur": 101,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UP0YUCUG",
+   "ath": 18,
+   "d": "#GURVV2R9L",
+   "dth": 19,
+   "dur": 90,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 57.225,
+  "destruction": 59.85,
   "members": [
    {
     "name": "WB Teewurst",
@@ -786,12 +830,12 @@
    }
   ],
   "name": "Wurstbude",
-  "stars": 63,
+  "stars": 67,
   "tag": "#2LCGGC22L"
  },
  "end": "20261125T193822.000Z",
  "opponent": {
-  "destruction": 42.725,
+  "destruction": 47.725,
   "members": [
    {
     "name": "vendinois",
@@ -1035,7 +1079,7 @@
    }
   ],
   "name": "LES FINES LAMES",
-  "stars": 47,
+  "stars": 53,
   "tag": "#LRCPYQU"
  },
  "start": "20261124T193822.000Z",

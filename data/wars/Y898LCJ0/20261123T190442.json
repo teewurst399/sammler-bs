@@ -813,11 +813,110 @@
    "p": 94,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#YCU9JJ0Y2",
+   "ath": 19,
+   "d": "#82CLRU82",
+   "dth": 19,
+   "dur": 121,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#80LVCCC9R",
+   "ath": 19,
+   "d": "#PGPJUCQR8",
+   "dth": 19,
+   "dur": 119,
+   "o": 76,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCU9JJ0Y2",
+   "ath": 19,
+   "d": "#9CCY2909",
+   "dth": 19,
+   "dur": 105,
+   "o": 77,
+   "p": 90,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#80LVCCC9R",
+   "ath": 19,
+   "d": "#8LGQ2UGPY",
+   "dth": 19,
+   "dur": 89,
+   "o": 78,
+   "p": 62,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P00RLV9Q",
+   "ath": 19,
+   "d": "#9CCY2909",
+   "dth": 19,
+   "dur": 136,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P00RLV9Q",
+   "ath": 19,
+   "d": "#8QU00CCRL",
+   "dth": 19,
+   "dur": 122,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2V00CYVQP",
+   "ath": 19,
+   "d": "#CGCUVQCL",
+   "dth": 19,
+   "dur": 101,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UCPPUR0R",
+   "ath": 19,
+   "d": "#LG8YGQ82G",
+   "dth": 19,
+   "dur": 180,
+   "o": 82,
+   "p": 84,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#UCPPUR0R",
+   "ath": 19,
+   "d": "#QYR2RGJVY",
+   "dth": 19,
+   "dur": 162,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 38.025,
+  "destruction": 50.925,
   "members": [
    {
     "name": "Fighter",
@@ -1061,12 +1160,12 @@
    }
   ],
   "name": "#Black Stone#",
-  "stars": 43,
+  "stars": 58,
   "tag": "#Y898LCJ0"
  },
  "end": "20261125T180442.000Z",
  "opponent": {
-  "destruction": 99.0,
+  "destruction": 99.2,
   "members": [
    {
     "name": "iskender",
