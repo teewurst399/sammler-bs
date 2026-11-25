@@ -890,11 +890,143 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9QY88Y9R9",
+   "ath": 18,
+   "d": "#92YY08CYY",
+   "dth": 18,
+   "dur": 180,
+   "o": 82,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9QY88Y9R9",
+   "ath": 18,
+   "d": "#Y9CRPVPQP",
+   "dth": 19,
+   "dur": 173,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8092U00R",
+   "ath": 19,
+   "d": "#9G8RQQYC9",
+   "dth": 19,
+   "dur": 144,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8092U00R",
+   "ath": 19,
+   "d": "#QJQ82PY2C",
+   "dth": 19,
+   "dur": 134,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2QU0JU9Y2",
+   "ath": 18,
+   "d": "#92YY08CYY",
+   "dth": 18,
+   "dur": 144,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2QU0JU9Y2",
+   "ath": 18,
+   "d": "#9Q80YUYGY",
+   "dth": 18,
+   "dur": 140,
+   "o": 87,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLGUV0UVQ",
+   "ath": 19,
+   "d": "#LJPC2J8VR",
+   "dth": 19,
+   "dur": 137,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QLGUV0UVQ",
+   "ath": 19,
+   "d": "#2VU2JPRRQ",
+   "dth": 18,
+   "dur": 128,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2UVLJCCCJ",
+   "ath": 19,
+   "d": "#9QY88Y9R9",
+   "dth": 18,
+   "dur": 157,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2UVLJCCCJ",
+   "ath": 19,
+   "d": "#GQQ9LYJCY",
+   "dth": 18,
+   "dur": 125,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GLLYC8V8U",
+   "ath": 19,
+   "d": "#2QU0JU9Y2",
+   "dth": 18,
+   "dur": 147,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GLLYC8V8U",
+   "ath": 19,
+   "d": "#8RCLJQCV2",
+   "dth": 18,
+   "dur": 142,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 72.2,
+  "destruction": 85.0,
   "members": [
    {
     "name": "Legomaster63",
@@ -1138,12 +1270,12 @@
    }
   ],
   "name": "The Conquerors",
-  "stars": 86,
+  "stars": 102,
   "tag": "#2C8YQGYVL"
  },
  "end": "20261125T192102.000Z",
  "opponent": {
-  "destruction": 83.825,
+  "destruction": 93.825,
   "members": [
    {
     "name": "シابو عيسى ❤️",
@@ -1387,7 +1519,7 @@
    }
   ],
   "name": "الأبطال",
-  "stars": 92,
+  "stars": 104,
   "tag": "#8YG2GVL2"
  },
  "start": "20261124T192102.000Z",

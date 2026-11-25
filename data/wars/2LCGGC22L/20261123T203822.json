@@ -934,11 +934,132 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#U9YG29QV",
+   "ath": 19,
+   "d": "#LL2UYUVCV",
+   "dth": 19,
+   "dur": 165,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#29PPYVGQP",
+   "ath": 19,
+   "d": "#QJL82QCC",
+   "dth": 19,
+   "dur": 180,
+   "o": 87,
+   "p": 69,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#29PPYVGQP",
+   "ath": 19,
+   "d": "#R8CC8PLQ",
+   "dth": 19,
+   "dur": 151,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LC98P20YY",
+   "ath": 18,
+   "d": "#UP0YUCUG",
+   "dth": 18,
+   "dur": 180,
+   "o": 89,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LC98P20YY",
+   "ath": 18,
+   "d": "#YPV8VC99Y",
+   "dth": 18,
+   "dur": 171,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YUJCRCPRC",
+   "ath": 18,
+   "d": "#C2PYPQLL",
+   "dth": 19,
+   "dur": 170,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GQVVG820",
+   "ath": 19,
+   "d": "#Y9UQCC9VQ",
+   "dth": 19,
+   "dur": 137,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYVGYPVP2",
+   "ath": 19,
+   "d": "#G0L9Q8P0P",
+   "dth": 19,
+   "dur": 150,
+   "o": 93,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQJ09U8U",
+   "ath": 19,
+   "d": "#9U0YUCP9",
+   "dth": 19,
+   "dur": 140,
+   "o": 94,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQJ09U8U",
+   "ath": 19,
+   "d": "#QL2LQCGR",
+   "dth": 19,
+   "dur": 151,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#C0V92U89",
+   "ath": 19,
+   "d": "#29PPYVGQP",
+   "dth": 19,
+   "dur": 103,
+   "o": 96,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 80.65,
+  "destruction": 86.15,
   "members": [
    {
     "name": "WB Teewurst",
@@ -1182,12 +1303,12 @@
    }
   ],
   "name": "Wurstbude",
-  "stars": 89,
+  "stars": 96,
   "tag": "#2LCGGC22L"
  },
  "end": "20261125T193822.000Z",
  "opponent": {
-  "destruction": 85.075,
+  "destruction": 93.025,
   "members": [
    {
     "name": "vendinois",
@@ -1431,7 +1552,7 @@
    }
   ],
   "name": "LES FINES LAMES",
-  "stars": 99,
+  "stars": 109,
   "tag": "#LRCPYQU"
  },
  "start": "20261124T193822.000Z",

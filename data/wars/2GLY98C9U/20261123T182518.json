@@ -472,11 +472,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#P2UC8PG0U",
+   "ath": 19,
+   "d": "#Y22QYU90P",
+   "dth": 19,
+   "dur": 134,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYGY0GGJC",
+   "ath": 19,
+   "d": "#PPQU0PLQL",
+   "dth": 18,
+   "dur": 131,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2UC8PG0U",
+   "ath": 19,
+   "d": "#LCG8UUQC",
+   "dth": 19,
+   "dur": 130,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PPQU0PLQL",
+   "ath": 18,
+   "d": "#29YJJQCQC",
+   "dth": 18,
+   "dur": 168,
+   "o": 47,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GCC082P28",
+   "ath": 18,
+   "d": "#VPQ9U0JL",
+   "dth": 17,
+   "dur": 81,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCC082P28",
+   "ath": 18,
+   "d": "#QGLPCL08Q",
+   "dth": 18,
+   "dur": 89,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0LU9Y0J2",
+   "ath": 18,
+   "d": "#GYRLV0JCV",
+   "dth": 18,
+   "dur": 111,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0LU9Y0J2",
+   "ath": 18,
+   "d": "#LJJJ08YGV",
+   "dth": 18,
+   "dur": 78,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYGY0GGJC",
+   "ath": 19,
+   "d": "#LRJU9YJY9",
+   "dth": 19,
+   "dur": 132,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VV8JYVJP",
+   "ath": 19,
+   "d": "#L8YPCL2VC",
+   "dth": 19,
+   "dur": 123,
+   "o": 53,
+   "p": 59,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 45.62857,
+  "destruction": 50.0,
   "members": [
    {
     "name": "JonyNation",
@@ -690,12 +800,12 @@
    }
   ],
   "name": "#Black Stone# 5",
-  "stars": 46,
+  "stars": 49,
   "tag": "#2GLY98C9U"
  },
  "end": "20261125T172518.000Z",
  "opponent": {
-  "destruction": 42.57143,
+  "destruction": 62.857143,
   "members": [
    {
     "name": "Akay_92",
@@ -909,7 +1019,7 @@
    }
   ],
   "name": "LỒNG CHIM VÁC",
-  "stars": 43,
+  "stars": 66,
   "tag": "#2LJ209GUG"
  },
  "start": "20261124T172518.000Z",

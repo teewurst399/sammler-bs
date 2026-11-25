@@ -1044,11 +1044,99 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#CQV09G9Y",
+   "ath": 19,
+   "d": "#8LGQ2UGPY",
+   "dth": 19,
+   "dur": 161,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LYPLRGLQ",
+   "ath": 19,
+   "d": "#L20L98Y",
+   "dth": 19,
+   "dur": 35,
+   "o": 97,
+   "p": 66,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YCJGQRJVR",
+   "ath": 19,
+   "d": "#L20L98Y",
+   "dth": 19,
+   "dur": 168,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#280RUJ90",
+   "ath": 19,
+   "d": "#YCU9JJ0Y2",
+   "dth": 19,
+   "dur": 98,
+   "o": 99,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRJCUJUQ9",
+   "ath": 19,
+   "d": "#CQV09G9Y",
+   "dth": 19,
+   "dur": 89,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y90YU9RQ",
+   "ath": 19,
+   "d": "#YCU9JJ0Y2",
+   "dth": 19,
+   "dur": 74,
+   "o": 101,
+   "p": 52,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#280RUJ90",
+   "ath": 19,
+   "d": "#LYPLRGLQ",
+   "dth": 19,
+   "dur": 160,
+   "o": 102,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LYPLRGLQ",
+   "ath": 19,
+   "d": "#PY2GYCQY",
+   "dth": 19,
+   "dur": 158,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 60.675,
+  "destruction": 64.0,
   "members": [
    {
     "name": "Fighter",
@@ -1292,12 +1380,12 @@
    }
   ],
   "name": "#Black Stone#",
-  "stars": 68,
+  "stars": 73,
   "tag": "#Y898LCJ0"
  },
  "end": "20261125T180442.000Z",
  "opponent": {
-  "destruction": 99.75,
+  "destruction": 100.0,
   "members": [
    {
     "name": "iskender",
@@ -1541,7 +1629,7 @@
    }
   ],
   "name": "MADE in TURKEY",
-  "stars": 119,
+  "stars": 120,
   "tag": "#VRPYLG"
  },
  "start": "20261124T180442.000Z",
