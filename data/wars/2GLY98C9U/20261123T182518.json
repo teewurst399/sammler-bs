@@ -208,6 +208,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#29YJJQCQC",
+   "ath": 18,
+   "d": "#JVJJGQJJ",
+   "dth": 18,
+   "dur": 156,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#29YJJQCQC",
+   "ath": 18,
+   "d": "#L2J29LLP2",
+   "dth": 19,
+   "dur": 171,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -431,7 +453,7 @@
  },
  "end": "20261125T172518.000Z",
  "opponent": {
-  "destruction": 14.0,
+  "destruction": 19.714285,
   "members": [
    {
     "name": "Akay_92",
@@ -645,7 +667,7 @@
    }
   ],
   "name": "LỒNG CHIM VÁC",
-  "stars": 13,
+  "stars": 19,
   "tag": "#2LJ209GUG"
  },
  "start": "20261124T172518.000Z",

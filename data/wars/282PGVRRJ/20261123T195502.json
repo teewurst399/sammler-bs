@@ -384,6 +384,17 @@
    "p": 72,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#Y2Y9UL9JP",
+   "ath": 19,
+   "d": "#8GJCYRYJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 36,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -637,7 +648,7 @@
  },
  "end": "20261125T185502.000Z",
  "opponent": {
-  "destruction": 40.975,
+  "destruction": 43.375,
   "members": [
    {
     "name": "Sezer",
@@ -881,7 +892,7 @@
    }
   ],
   "name": "KARA SANCAK",
-  "stars": 45,
+  "stars": 47,
   "tag": "#2RU29PGR0"
  },
  "start": "20261124T185502.000Z",
