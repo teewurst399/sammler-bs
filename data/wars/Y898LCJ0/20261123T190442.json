@@ -967,11 +967,44 @@
    "p": 83,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2U2QC928U",
+   "ath": 19,
+   "d": "#GR28QLYP",
+   "dth": 19,
+   "dur": 155,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2U2QC928U",
+   "ath": 19,
+   "d": "#8PVLPRGUR",
+   "dth": 19,
+   "dur": 146,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CQV09G9Y",
+   "ath": 19,
+   "d": "#QLPP2LPQG",
+   "dth": 19,
+   "dur": 131,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 55.675,
+  "destruction": 60.675,
   "members": [
    {
     "name": "Fighter",
@@ -1215,12 +1248,12 @@
    }
   ],
   "name": "#Black Stone#",
-  "stars": 62,
+  "stars": 68,
   "tag": "#Y898LCJ0"
  },
  "end": "20261125T180442.000Z",
  "opponent": {
-  "destruction": 99.275,
+  "destruction": 99.675,
   "members": [
    {
     "name": "iskender",
@@ -1464,7 +1497,7 @@
    }
   ],
   "name": "MADE in TURKEY",
-  "stars": 116,
+  "stars": 117,
   "tag": "#VRPYLG"
  },
  "start": "20261124T180442.000Z",
