@@ -879,11 +879,55 @@
    "p": 97,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#GP2R92VYY",
+   "ath": 19,
+   "d": "#9RP8JUQ2",
+   "dth": 19,
+   "dur": 116,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GP2R92VYY",
+   "ath": 19,
+   "d": "#YJVVUVRVP",
+   "dth": 19,
+   "dur": 106,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2U2JP2G8P",
+   "ath": 18,
+   "d": "#P9L2PL229",
+   "dth": 17,
+   "dur": 125,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QPQ0YV0Y",
+   "ath": 19,
+   "d": "#J22GG9L2",
+   "dth": 19,
+   "dur": 136,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 91.14286,
+  "destruction": 91.34286,
   "members": [
    {
     "name": "MAMBA",
@@ -1097,12 +1141,12 @@
    }
   ],
   "name": "The Art of War",
-  "stars": 94,
+  "stars": 95,
   "tag": "#8R8UCUP0"
  },
  "end": "20261125T235249.000Z",
  "opponent": {
-  "destruction": 83.51428,
+  "destruction": 89.457146,
   "members": [
    {
     "name": "zamparo10",
@@ -1316,7 +1360,7 @@
    }
   ],
   "name": "dirtboys",
-  "stars": 82,
+  "stars": 90,
   "tag": "#2P0YQ2880"
  },
  "start": "20261124T235249.000Z",

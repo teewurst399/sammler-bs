@@ -1055,11 +1055,110 @@
    "p": 75,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#8GR0P9UQL",
+   "ath": 19,
+   "d": "#UP0YUCUG",
+   "dth": 18,
+   "dur": 133,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LUJPQ8V",
+   "ath": 19,
+   "d": "#G0L9Q8P0P",
+   "dth": 19,
+   "dur": 148,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GR0P9UQL",
+   "ath": 19,
+   "d": "#2RCCJRPPG",
+   "dth": 19,
+   "dur": 180,
+   "o": 99,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PPUJVQRRR",
+   "ath": 19,
+   "d": "#UUV2R80",
+   "dth": 19,
+   "dur": 180,
+   "o": 100,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q2UY8VYL",
+   "ath": 19,
+   "d": "#9U0YUCP9",
+   "dth": 19,
+   "dur": 180,
+   "o": 101,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PPUJVQRRR",
+   "ath": 19,
+   "d": "#YVUUVCVG8",
+   "dth": 19,
+   "dur": 180,
+   "o": 102,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPYR0Q9J",
+   "ath": 19,
+   "d": "#29PPYVGQP",
+   "dth": 19,
+   "dur": 160,
+   "o": 103,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QL2LQCGR",
+   "ath": 19,
+   "d": "#QJL82QCC",
+   "dth": 19,
+   "dur": 131,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RVJQPP9C",
+   "ath": 19,
+   "d": "#29PPYVGQP",
+   "dth": 19,
+   "dur": 138,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 86.15,
+  "destruction": 89.275,
   "members": [
    {
     "name": "WB Teewurst",
@@ -1303,12 +1402,12 @@
    }
   ],
   "name": "Wurstbude",
-  "stars": 96,
+  "stars": 100,
   "tag": "#2LCGGC22L"
  },
  "end": "20261125T193822.000Z",
  "opponent": {
-  "destruction": 93.025,
+  "destruction": 96.375,
   "members": [
    {
     "name": "vendinois",
@@ -1552,7 +1651,7 @@
    }
   ],
   "name": "LES FINES LAMES",
-  "stars": 109,
+  "stars": 113,
   "tag": "#LRCPYQU"
  },
  "start": "20261124T193822.000Z",

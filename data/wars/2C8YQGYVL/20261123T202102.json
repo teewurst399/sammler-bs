@@ -1022,11 +1022,154 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GR8Q8V2UU",
+   "ath": 18,
+   "d": "#P2R0VPPC8",
+   "dth": 18,
+   "dur": 135,
+   "o": 94,
+   "p": 55,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#89RLPC22V",
+   "ath": 18,
+   "d": "#PCRJJ880U",
+   "dth": 19,
+   "dur": 168,
+   "o": 95,
+   "p": 72,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GR8Q8V2UU",
+   "ath": 18,
+   "d": "#9Q80YUYGY",
+   "dth": 18,
+   "dur": 137,
+   "o": 96,
+   "p": 49,
+   "s": 0,
+   "side": "gegner"
+  },
+  {
+   "a": "#9J2CJVRR9",
+   "ath": 19,
+   "d": "#L9V9J2VR9",
+   "dth": 11,
+   "dur": 50,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#89RLPC22V",
+   "ath": 18,
+   "d": "#29YUUC2CQ",
+   "dth": 18,
+   "dur": 180,
+   "o": 98,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9J2CJVRR9",
+   "ath": 19,
+   "d": "#9Q80YUYGY",
+   "dth": 18,
+   "dur": 107,
+   "o": 99,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2R0VPPC8",
+   "ath": 18,
+   "d": "#89RLPC22V",
+   "dth": 18,
+   "dur": 133,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#90PL2JQY0",
+   "ath": 19,
+   "d": "#P8JJJV08Q",
+   "dth": 17,
+   "dur": 92,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P2R0VPPC8",
+   "ath": 18,
+   "d": "#GR8Q8V2UU",
+   "dth": 18,
+   "dur": 118,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#90PL2JQY0",
+   "ath": 19,
+   "d": "#QYUL0CRJJ",
+   "dth": 18,
+   "dur": 106,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8U8CCCQ8P",
+   "ath": 19,
+   "d": "#9VCRJQRR9",
+   "dth": 16,
+   "dur": 114,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9CQ0CYRJV",
+   "ath": 19,
+   "d": "#PVYU299J8",
+   "dth": 19,
+   "dur": 169,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PP0VJLQQ",
+   "ath": 19,
+   "d": "#8LQQP02Y8",
+   "dth": 19,
+   "dur": 4,
+   "o": 106,
+   "p": 16,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 85.0,
+  "destruction": 97.5,
   "members": [
    {
     "name": "Legomaster63",
@@ -1270,12 +1413,12 @@
    }
   ],
   "name": "The Conquerors",
-  "stars": 102,
+  "stars": 117,
   "tag": "#2C8YQGYVL"
  },
  "end": "20261125T192102.000Z",
  "opponent": {
-  "destruction": 93.825,
+  "destruction": 96.425,
   "members": [
    {
     "name": "シابو عيسى ❤️",
@@ -1519,7 +1662,7 @@
    }
   ],
   "name": "الأبطال",
-  "stars": 104,
+  "stars": 108,
   "tag": "#8YG2GVL2"
  },
  "start": "20261124T192102.000Z",

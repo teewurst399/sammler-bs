@@ -1143,6 +1143,94 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PPYR8VC2R",
+   "ath": 19,
+   "d": "#P00LGL02L",
+   "dth": 19,
+   "dur": 4,
+   "o": 105,
+   "p": 2,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PPYR8VC2R",
+   "ath": 19,
+   "d": "#8RLJC2V28",
+   "dth": 19,
+   "dur": 180,
+   "o": 106,
+   "p": 46,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#R8G9GP8R",
+   "ath": 19,
+   "d": "#8GC9VJJP0",
+   "dth": 19,
+   "dur": 109,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R8G9GP8R",
+   "ath": 19,
+   "d": "#Y2GGYPC8J",
+   "dth": 19,
+   "dur": 118,
+   "o": 108,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8209020Y",
+   "ath": 19,
+   "d": "#Y9C9JJ89",
+   "dth": 19,
+   "dur": 118,
+   "o": 109,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8209020Y",
+   "ath": 19,
+   "d": "#Y2GGYPC8J",
+   "dth": 19,
+   "dur": 125,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2G0UQRGJQ",
+   "ath": 19,
+   "d": "#P00LGL02L",
+   "dth": 19,
+   "dur": 6,
+   "o": 111,
+   "p": 3,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2G0UQRGJQ",
+   "ath": 19,
+   "d": "#R8G9GP8R",
+   "dth": 19,
+   "dur": 14,
+   "o": 112,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1456,7 +1544,7 @@
  },
  "end": "20261125T190707.000Z",
  "opponent": {
-  "destruction": 84.24,
+  "destruction": 90.0,
   "members": [
    {
     "name": "➡️ＮＥＧＡＲ",
@@ -1760,7 +1848,7 @@
    }
   ],
   "name": "Arrow",
-  "stars": 124,
+  "stars": 132,
   "tag": "#PQU9YQCQ"
  },
  "start": "20261124T190707.000Z",

@@ -1099,11 +1099,88 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#98G802GQQ",
+   "ath": 18,
+   "d": "#GC0L2VP20",
+   "dth": 19,
+   "dur": 168,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GY28YLCVP",
+   "ath": 19,
+   "d": "#8J0R2J9U9",
+   "dth": 19,
+   "dur": 180,
+   "o": 102,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#98G802GQQ",
+   "ath": 18,
+   "d": "#PCYLUQJQ",
+   "dth": 19,
+   "dur": 147,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QGCGRPYPY",
+   "ath": 19,
+   "d": "#LP80CR0U8",
+   "dth": 19,
+   "dur": 112,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QGCGRPYPY",
+   "ath": 19,
+   "d": "#GQCQ8082",
+   "dth": 19,
+   "dur": 127,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L0QYVLUG",
+   "ath": 19,
+   "d": "#2V2U22R2",
+   "dth": 19,
+   "dur": 20,
+   "o": 106,
+   "p": 16,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0QYVLUG",
+   "ath": 19,
+   "d": "#29QR02VPR",
+   "dth": 19,
+   "dur": 16,
+   "o": 107,
+   "p": 9,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 90.575,
+  "destruction": 93.8,
   "members": [
    {
     "name": "s3m",
@@ -1347,12 +1424,12 @@
    }
   ],
   "name": "#Black Stone# 2",
-  "stars": 103,
+  "stars": 109,
   "tag": "#282PGVRRJ"
  },
  "end": "20261125T185502.000Z",
  "opponent": {
-  "destruction": 99.675,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Sezer",
@@ -1596,7 +1673,7 @@
    }
   ],
   "name": "KARA SANCAK",
-  "stars": 118,
+  "stars": 120,
   "tag": "#2RU29PGR0"
  },
  "start": "20261124T185502.000Z",
