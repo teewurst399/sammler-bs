@@ -439,11 +439,44 @@
    "p": 75,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#8QGP20YV",
+   "ath": 19,
+   "d": "#GYJJ8C0PR",
+   "dth": 16,
+   "dur": 88,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QGP20YV",
+   "ath": 19,
+   "d": "#GQVRJRYVG",
+   "dth": 19,
+   "dur": 62,
+   "o": 42,
+   "p": 51,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPL298Q02",
+   "ath": 16,
+   "d": "#8QGP20YV",
+   "dth": 19,
+   "dur": 121,
+   "o": 43,
+   "p": 58,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 82.1,
+  "destruction": 85.0,
   "members": [
    {
     "name": "Mega |V",
@@ -567,12 +600,12 @@
    }
   ],
   "name": "#Black Stone# 6",
-  "stars": 47,
+  "stars": 49,
   "tag": "#2G8ULRP8R"
  },
  "end": "20261125T180800.000Z",
  "opponent": {
-  "destruction": 97.5,
+  "destruction": 100.0,
   "members": [
    {
     "name": "爆笑｜Bibze ♰ ✧",
@@ -696,7 +729,7 @@
    }
   ],
   "name": "Legends",
-  "stars": 59,
+  "stars": 60,
   "tag": "#2J9V22JV0"
  },
  "start": "20261124T180800.000Z",

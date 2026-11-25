@@ -483,11 +483,110 @@
    "p": 70,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#L8YRRULYY",
+   "ath": 19,
+   "d": "#P0QRCQQ2",
+   "dth": 19,
+   "dur": 141,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVCCVUUVC",
+   "ath": 19,
+   "d": "#28UGQ09LG",
+   "dth": 19,
+   "dur": 163,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVCCVUUVC",
+   "ath": 19,
+   "d": "#UPPLV9GV",
+   "dth": 19,
+   "dur": 143,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8YRRULYY",
+   "ath": 19,
+   "d": "#2CQQ20JV",
+   "dth": 19,
+   "dur": 136,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GJCYRYJ",
+   "ath": 19,
+   "d": "#82P2RPLU9",
+   "dth": 19,
+   "dur": 110,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2YJ9PGGRC",
+   "ath": 19,
+   "d": "#C8QU99UJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 50,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YJ9PGGRC",
+   "ath": 19,
+   "d": "#2PPYL9YPU",
+   "dth": 19,
+   "dur": 172,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQJCUGY8L",
+   "ath": 19,
+   "d": "#C8QU99UJ",
+   "dth": 19,
+   "dur": 131,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQJCUGY8L",
+   "ath": 19,
+   "d": "#L9JL2P8LL",
+   "dth": 19,
+   "dur": 129,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 54.4,
+  "destruction": 56.9,
   "members": [
    {
     "name": "s3m",
@@ -731,12 +830,12 @@
    }
   ],
   "name": "#Black Stone# 2",
-  "stars": 61,
+  "stars": 64,
   "tag": "#282PGVRRJ"
  },
  "end": "20261125T185502.000Z",
  "opponent": {
-  "destruction": 43.375,
+  "destruction": 54.7,
   "members": [
    {
     "name": "Sezer",
@@ -980,7 +1079,7 @@
    }
   ],
   "name": "KARA SANCAK",
-  "stars": 47,
+  "stars": 62,
   "tag": "#2RU29PGR0"
  },
  "start": "20261124T185502.000Z",

@@ -582,6 +582,83 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#R8CC8PLQ",
+   "ath": 19,
+   "d": "#G0G00Q9VL",
+   "dth": 19,
+   "dur": 126,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9R2JC8GJ",
+   "ath": 19,
+   "d": "#90U88CR",
+   "dth": 19,
+   "dur": 143,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#C0V92U89",
+   "ath": 19,
+   "d": "#9P880J2P",
+   "dth": 19,
+   "dur": 136,
+   "o": 56,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCLLQJ80",
+   "ath": 19,
+   "d": "#9P880J2P",
+   "dth": 19,
+   "dur": 150,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCLLQJ80",
+   "ath": 19,
+   "d": "#G20RYP820",
+   "dth": 19,
+   "dur": 147,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q2UY8VYL",
+   "ath": 19,
+   "d": "#R2Q8UU9U",
+   "dth": 19,
+   "dur": 165,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2G82V992",
+   "ath": 19,
+   "d": "#GYPJPGR00",
+   "dth": 19,
+   "dur": 136,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -835,7 +912,7 @@
  },
  "end": "20261125T193822.000Z",
  "opponent": {
-  "destruction": 47.725,
+  "destruction": 60.75,
   "members": [
    {
     "name": "vendinois",
@@ -1079,7 +1156,7 @@
    }
   ],
   "name": "LES FINES LAMES",
-  "stars": 53,
+  "stars": 69,
   "tag": "#LRCPYQU"
  },
  "start": "20261124T193822.000Z",
