@@ -1000,11 +1000,88 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#RCUJR0PJ",
+   "ath": 19,
+   "d": "#8CR9RJ00V",
+   "dth": 19,
+   "dur": 141,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20QRPYCY9",
+   "ath": 19,
+   "d": "#8JGUCVQ8C",
+   "dth": 19,
+   "dur": 129,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20QRPYCY9",
+   "ath": 19,
+   "d": "#CC222QVG",
+   "dth": 19,
+   "dur": 117,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P9LYU8V0",
+   "ath": 19,
+   "d": "#P9CV98Y8P",
+   "dth": 19,
+   "dur": 177,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P9LYU8V0",
+   "ath": 19,
+   "d": "#QL08QYVR0",
+   "dth": 19,
+   "dur": 179,
+   "o": 96,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2QUR8CQLL",
+   "ath": 19,
+   "d": "#QL08QYVR0",
+   "dth": 19,
+   "dur": 169,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2QUR8CQLL",
+   "ath": 19,
+   "d": "#GGR0RL8C",
+   "dth": 19,
+   "dur": 180,
+   "o": 98,
+   "p": 66,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 96.0,
+  "destruction": 98.0,
   "members": [
    {
     "name": "Hunga Munga",
@@ -1308,12 +1385,12 @@
    }
   ],
   "name": "Get Buttered!",
-  "stars": 144,
+  "stars": 147,
   "tag": "#2R98Y8YUJ"
  },
  "end": "20261125T190707.000Z",
  "opponent": {
-  "destruction": 68.4,
+  "destruction": 77.72,
   "members": [
    {
     "name": "➡️ＮＥＧＡＲ",
@@ -1617,7 +1694,7 @@
    }
   ],
   "name": "Arrow",
-  "stars": 100,
+  "stars": 114,
   "tag": "#PQU9YQCQ"
  },
  "start": "20261124T190707.000Z",

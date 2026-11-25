@@ -714,11 +714,132 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GYRRLU9LQ",
+   "ath": 19,
+   "d": "#PLP0RUJ",
+   "dth": 19,
+   "dur": 156,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVC2PLL8",
+   "ath": 19,
+   "d": "#L8828UPL",
+   "dth": 19,
+   "dur": 126,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GYRRLU9LQ",
+   "ath": 19,
+   "d": "#Y8LLLLURG",
+   "dth": 19,
+   "dur": 110,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVC2PLL8",
+   "ath": 19,
+   "d": "#YY9YUGY9U",
+   "dth": 19,
+   "dur": 134,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LP80CR0U8",
+   "ath": 19,
+   "d": "#RL8VCQP8",
+   "dth": 19,
+   "dur": 147,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LP80CR0U8",
+   "ath": 19,
+   "d": "#PY89UPY92",
+   "dth": 19,
+   "dur": 138,
+   "o": 71,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQCQ8082",
+   "ath": 19,
+   "d": "#LP8R9LJJY",
+   "dth": 19,
+   "dur": 165,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P9YCPRCR",
+   "ath": 19,
+   "d": "#9VCRY99P",
+   "dth": 19,
+   "dur": 87,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8YYLGYR2Q",
+   "ath": 19,
+   "d": "#9Q89JJ0UV",
+   "dth": 18,
+   "dur": 147,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YYLGYR2Q",
+   "ath": 19,
+   "d": "#8GJCYRYJ",
+   "dth": 19,
+   "dur": 153,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P9YCPRCR",
+   "ath": 19,
+   "d": "#QLY8J2J80",
+   "dth": 19,
+   "dur": 97,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 57.425,
+  "destruction": 62.85,
   "members": [
    {
     "name": "s3m",
@@ -962,12 +1083,12 @@
    }
   ],
   "name": "#Black Stone# 2",
-  "stars": 66,
+  "stars": 74,
   "tag": "#282PGVRRJ"
  },
  "end": "20261125T185502.000Z",
  "opponent": {
-  "destruction": 76.225,
+  "destruction": 87.3,
   "members": [
    {
     "name": "Sezer",
@@ -1211,7 +1332,7 @@
    }
   ],
   "name": "KARA SANCAK",
-  "stars": 88,
+  "stars": 102,
   "tag": "#2RU29PGR0"
  },
  "start": "20261124T185502.000Z",

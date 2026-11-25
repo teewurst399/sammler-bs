@@ -769,11 +769,77 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#20YVJUG0J",
+   "ath": 19,
+   "d": "#RULCCL2R",
+   "dth": 19,
+   "dur": 120,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20PGPPLQL",
+   "ath": 19,
+   "d": "#LUL9YGJGP",
+   "dth": 19,
+   "dur": 154,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9R2JC8GJ",
+   "ath": 19,
+   "d": "#J90CCPC0",
+   "dth": 19,
+   "dur": 177,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R8CC8PLQ",
+   "ath": 19,
+   "d": "#QJV8UUGRJ",
+   "dth": 19,
+   "dur": 170,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GLJ0YLQ",
+   "ath": 19,
+   "d": "#QL2LQCGR",
+   "dth": 19,
+   "dur": 125,
+   "o": 75,
+   "p": 64,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GLJ0YLQ",
+   "ath": 19,
+   "d": "#2UJ8RRGUP",
+   "dth": 18,
+   "dur": 110,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 67.35,
+  "destruction": 69.85,
   "members": [
    {
     "name": "WB Teewurst",
@@ -1017,12 +1083,12 @@
    }
   ],
   "name": "Wurstbude",
-  "stars": 76,
+  "stars": 79,
   "tag": "#2LCGGC22L"
  },
  "end": "20261125T193822.000Z",
  "opponent": {
-  "destruction": 73.125,
+  "destruction": 80.35,
   "members": [
    {
     "name": "vendinois",
@@ -1266,7 +1332,7 @@
    }
   ],
   "name": "LES FINES LAMES",
-  "stars": 83,
+  "stars": 93,
   "tag": "#LRCPYQU"
  },
  "start": "20261124T193822.000Z",
