@@ -10,6 +10,83 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GVY20JVJJ",
+   "ath": 12,
+   "d": "#9P2RYPY9P",
+   "dth": 11,
+   "dur": 68,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GVY20JVJJ",
+   "ath": 12,
+   "d": "#GR88LQG02",
+   "dth": 13,
+   "dur": 95,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PQPC2GGQ",
+   "ath": 19,
+   "d": "#L0YPP8YG",
+   "dth": 16,
+   "dur": 153,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LLP2LPJYV",
+   "ath": 16,
+   "d": "#Q9VCUJQL0",
+   "dth": 18,
+   "dur": 71,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LLP2LPJYV",
+   "ath": 16,
+   "d": "#QLUGCV8U",
+   "dth": 12,
+   "dur": 127,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GRJPYCGPC",
+   "ath": 13,
+   "d": "#P2L20G80C",
+   "dth": 13,
+   "dur": 98,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GRJPYCGPC",
+   "ath": 13,
+   "d": "#L8VPUQL0P",
+   "dth": 13,
+   "dur": 71,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -83,7 +160,7 @@
  },
  "end": "20261126T171706.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 70.0,
   "members": [
    {
     "name": "خفاش شب",
@@ -147,7 +224,7 @@
    }
   ],
   "name": "ARYVEX",
-  "stars": 0,
+  "stars": 21,
   "tag": "#2J0J29U8C"
  },
  "start": "20261125T171706.000Z",
