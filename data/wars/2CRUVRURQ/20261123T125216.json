@@ -956,6 +956,72 @@
    "p": 96,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#LJCJVRG99",
+   "ath": 19,
+   "d": "#RJCVV8VG",
+   "dth": 19,
+   "dur": 180,
+   "o": 88,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LJCJVRG99",
+   "ath": 19,
+   "d": "#U909JY8L",
+   "dth": 19,
+   "dur": 165,
+   "o": 89,
+   "p": 89,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QL0LYL2V8",
+   "ath": 18,
+   "d": "#RJCVV8VG",
+   "dth": 19,
+   "dur": 146,
+   "o": 90,
+   "p": 45,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2QQUPPLUP",
+   "ath": 19,
+   "d": "#8QCRG0RRR",
+   "dth": 19,
+   "dur": 124,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QL0LYL2V8",
+   "ath": 18,
+   "d": "#U909JY8L",
+   "dth": 19,
+   "dur": 164,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2QQUPPLUP",
+   "ath": 19,
+   "d": "#2RJYY89VV",
+   "dth": 19,
+   "dur": 107,
+   "o": 93,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1269,7 +1335,7 @@
  },
  "end": "20261125T115216.000Z",
  "opponent": {
-  "destruction": 25.72,
+  "destruction": 27.62,
   "members": [
    {
     "name": "✨❤️rongnho❤️✨",
@@ -1573,7 +1639,7 @@
    }
   ],
   "name": "VIỆT WAR",
-  "stars": 37,
+  "stars": 40,
   "tag": "#8YJG00UJ"
  },
  "start": "20261124T115216.000Z",

@@ -153,11 +153,44 @@
    "p": 99,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#GCGUVCGL2",
+   "ath": 17,
+   "d": "#GJQCU22UG",
+   "dth": 17,
+   "dur": 65,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GCGUVCGL2",
+   "ath": 17,
+   "d": "#GGUCVPV2Y",
+   "dth": 16,
+   "dur": 65,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RR8U80YC",
+   "ath": 19,
+   "d": "#Y092URUP8",
+   "dth": 19,
+   "dur": 171,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 22.485714,
+  "destruction": 28.514286,
   "members": [
    {
     "name": "JonyNation",
@@ -371,7 +404,7 @@
    }
   ],
   "name": "#Black Stone# 5",
-  "stars": 20,
+  "stars": 28,
   "tag": "#2GLY98C9U"
  },
  "end": "20261125T172518.000Z",

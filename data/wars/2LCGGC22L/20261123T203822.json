@@ -461,6 +461,17 @@
    "p": 77,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#LUJPQ8V",
+   "ath": 19,
+   "d": "#28PLJ2RVR",
+   "dth": 19,
+   "dur": 180,
+   "o": 43,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -714,7 +725,7 @@
  },
  "end": "20261125T193822.000Z",
  "opponent": {
-  "destruction": 40.375,
+  "destruction": 42.725,
   "members": [
    {
     "name": "vendinois",
@@ -958,7 +969,7 @@
    }
   ],
   "name": "LES FINES LAMES",
-  "stars": 45,
+  "stars": 47,
   "tag": "#LRCPYQU"
  },
  "start": "20261124T193822.000Z",
