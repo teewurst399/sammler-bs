@@ -1374,6 +1374,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#829UCRVPY",
+   "ath": 19,
+   "d": "#29YUUC2CQ",
+   "dth": 18,
+   "dur": 133,
+   "o": 126,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#829UCRVPY",
+   "ath": 19,
+   "d": "#G0CQCPPRP",
+   "dth": 19,
+   "dur": 125,
+   "o": 127,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1627,7 +1649,7 @@
  },
  "end": "20261125T192102.000Z",
  "opponent": {
-  "destruction": 99.45,
+  "destruction": 99.85,
   "members": [
    {
     "name": "シابو عيسى ❤️",
@@ -1871,11 +1893,11 @@
    }
   ],
   "name": "الأبطال",
-  "stars": 117,
+  "stars": 119,
   "tag": "#8YG2GVL2"
  },
  "start": "20261124T192102.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 40,
  "type": "krieg"
 }

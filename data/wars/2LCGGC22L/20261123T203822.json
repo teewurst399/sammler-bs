@@ -1462,6 +1462,116 @@
    "p": 42,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#9P880J2P",
+   "ath": 19,
+   "d": "#9R2JC8GJ",
+   "dth": 19,
+   "dur": 147,
+   "o": 134,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9U0YUCP9",
+   "ath": 19,
+   "d": "#89P99RGG8",
+   "dth": 19,
+   "dur": 108,
+   "o": 135,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9U0YUCP9",
+   "ath": 19,
+   "d": "#PPUJVQRRR",
+   "dth": 19,
+   "dur": 114,
+   "o": 136,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q0CY90L8Q",
+   "ath": 19,
+   "d": "#9U0YUCP9",
+   "dth": 19,
+   "dur": 84,
+   "o": 137,
+   "p": 71,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YU2QR9GV",
+   "ath": 19,
+   "d": "#C0V92U89",
+   "dth": 19,
+   "dur": 109,
+   "o": 138,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2UYG09GU2",
+   "ath": 19,
+   "d": "#2G82V992",
+   "dth": 19,
+   "dur": 174,
+   "o": 139,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9YU2QR9GV",
+   "ath": 19,
+   "d": "#8RJG0RUG",
+   "dth": 19,
+   "dur": 99,
+   "o": 140,
+   "p": 84,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LGR90YRVQ",
+   "ath": 19,
+   "d": "#2G82V992",
+   "dth": 19,
+   "dur": 12,
+   "o": 141,
+   "p": 54,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LGR90YRVQ",
+   "ath": 19,
+   "d": "#9R2JC8GJ",
+   "dth": 19,
+   "dur": 13,
+   "o": 142,
+   "p": 52,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#UJG9PL28",
+   "ath": 19,
+   "d": "#9U0YUCP9",
+   "dth": 19,
+   "dur": 146,
+   "o": 143,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1715,7 +1825,7 @@
  },
  "end": "20261125T193822.000Z",
  "opponent": {
-  "destruction": 99.7,
+  "destruction": 100.0,
   "members": [
    {
     "name": "vendinois",
@@ -1959,11 +2069,11 @@
    }
   ],
   "name": "LES FINES LAMES",
-  "stars": 119,
+  "stars": 120,
   "tag": "#LRCPYQU"
  },
  "start": "20261124T193822.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 40,
  "type": "krieg"
 }

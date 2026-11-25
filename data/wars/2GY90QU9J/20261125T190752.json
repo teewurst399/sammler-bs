@@ -1,0 +1,185 @@
+{
+ "attacks": [
+  {
+   "a": "#L8RUP2ULR",
+   "ath": 19,
+   "d": "#LG9PCRJYQ",
+   "dth": 19,
+   "dur": 115,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2GGCV0YVG",
+   "ath": 19,
+   "d": "#28JPJCYUV",
+   "dth": 19,
+   "dur": 180,
+   "o": 2,
+   "p": 61,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#CQQJUUQY",
+   "ath": 19,
+   "d": "#QLJCYP2L",
+   "dth": 19,
+   "dur": 127,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P0CYR092Q",
+   "ath": 19,
+   "d": "#CQQJUUQY",
+   "dth": 19,
+   "dur": 145,
+   "o": 4,
+   "p": 82,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#28JPJCYUV",
+   "ath": 19,
+   "d": "#2GGCV0YVG",
+   "dth": 19,
+   "dur": 163,
+   "o": 5,
+   "p": 74,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QLJCYP2L",
+   "ath": 19,
+   "d": "#8GR08QLPL",
+   "dth": 19,
+   "dur": 102,
+   "o": 6,
+   "p": 81,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGCURJJ0",
+   "ath": 19,
+   "d": "#QGUCPUVC8",
+   "dth": 19,
+   "dur": 179,
+   "o": 7,
+   "p": 85,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QGUCPUVC8",
+   "ath": 19,
+   "d": "#L8RUP2ULR",
+   "dth": 19,
+   "dur": 168,
+   "o": 8,
+   "p": 69,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GR08QLPL",
+   "ath": 19,
+   "d": "#P0CYR092Q",
+   "dth": 19,
+   "dur": 154,
+   "o": 9,
+   "p": 79,
+   "s": 2,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 1,
+ "clan": {
+  "destruction": 87.6,
+  "members": [
+   {
+    "name": "LUX ZEUS",
+    "pos": 1,
+    "tag": "#LGCURJJ0",
+    "th": 19
+   },
+   {
+    "name": "Warlord",
+    "pos": 5,
+    "tag": "#28JPJCYUV",
+    "th": 19
+   },
+   {
+    "name": "幸Relaxo走",
+    "pos": 3,
+    "tag": "#CQQJUUQY",
+    "th": 19
+   },
+   {
+    "name": "NeVeRz",
+    "pos": 2,
+    "tag": "#8GR08QLPL",
+    "th": 19
+   },
+   {
+    "name": "LOST★stefan",
+    "pos": 4,
+    "tag": "#L8RUP2ULR",
+    "th": 19
+   }
+  ],
+  "name": "Horizon Esports",
+  "stars": 12,
+  "tag": "#2GY90QU9J"
+ },
+ "end": "20261125T195752.000Z",
+ "opponent": {
+  "destruction": 58.6,
+  "members": [
+   {
+    "name": "CYB★DerEineLupi",
+    "pos": 3,
+    "tag": "#2GGCV0YVG",
+    "th": 19
+   },
+   {
+    "name": "ˣｘᴬᴳᴵｘˣ",
+    "pos": 5,
+    "tag": "#QGUCPUVC8",
+    "th": 19
+   },
+   {
+    "name": "Spiagl",
+    "pos": 1,
+    "tag": "#P0CYR092Q",
+    "th": 19
+   },
+   {
+    "name": "CYB ★ zer0",
+    "pos": 4,
+    "tag": "#QLJCYP2L",
+    "th": 19
+   },
+   {
+    "name": "Cpt.Danny",
+    "pos": 2,
+    "tag": "#LG9PCRJYQ",
+    "th": 19
+   }
+  ],
+  "name": "CYB ★ eSports",
+  "stars": 5,
+  "tag": "#2U9Y9C8Q9"
+ },
+ "start": "20261125T191252.000Z",
+ "state": "inWar",
+ "teamSize": 5,
+ "type": "krieg"
+}
