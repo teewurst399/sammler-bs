@@ -835,11 +835,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QVYJ9C0U9",
+   "ath": 19,
+   "d": "#UP0YUCUG",
+   "dth": 18,
+   "dur": 99,
+   "o": 77,
+   "p": 54,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#V9GQYUCJ",
+   "ath": 19,
+   "d": "#LUJPQ8V",
+   "dth": 19,
+   "dur": 180,
+   "o": 78,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YPYR0Q9J",
+   "ath": 19,
+   "d": "#Y9UQCC9VQ",
+   "dth": 19,
+   "dur": 142,
+   "o": 79,
+   "p": 73,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#V9GQYUCJ",
+   "ath": 19,
+   "d": "#R8CC8PLQ",
+   "dth": 19,
+   "dur": 170,
+   "o": 80,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9G9GRLJ0",
+   "ath": 19,
+   "d": "#G0L9Q8P0P",
+   "dth": 19,
+   "dur": 180,
+   "o": 81,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UJ8RRGUP",
+   "ath": 18,
+   "d": "#YUJCRCPRC",
+   "dth": 18,
+   "dur": 95,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2UJ8RRGUP",
+   "ath": 18,
+   "d": "#U2U0RC8",
+   "dth": 19,
+   "dur": 133,
+   "o": 83,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#288UG8GL",
+   "ath": 19,
+   "d": "#9YU2QR9GV",
+   "dth": 19,
+   "dur": 111,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#229VJ020G",
+   "ath": 19,
+   "d": "#28PLJ2RVR",
+   "dth": 19,
+   "dur": 117,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 69.85,
+  "destruction": 80.65,
   "members": [
    {
     "name": "WB Teewurst",
@@ -1083,12 +1182,12 @@
    }
   ],
   "name": "Wurstbude",
-  "stars": 79,
+  "stars": 89,
   "tag": "#2LCGGC22L"
  },
  "end": "20261125T193822.000Z",
  "opponent": {
-  "destruction": 80.35,
+  "destruction": 85.075,
   "members": [
    {
     "name": "vendinois",
@@ -1332,7 +1431,7 @@
    }
   ],
   "name": "LES FINES LAMES",
-  "stars": 93,
+  "stars": 99,
   "tag": "#LRCPYQU"
  },
  "start": "20261124T193822.000Z",
