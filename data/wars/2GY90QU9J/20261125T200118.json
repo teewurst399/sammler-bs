@@ -1,0 +1,185 @@
+{
+ "attacks": [
+  {
+   "a": "#LL0UCLJ0C",
+   "ath": 19,
+   "d": "#2CGQ0QGYC",
+   "dth": 19,
+   "dur": 180,
+   "o": 1,
+   "p": 63,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G2JULVQUJ",
+   "ath": 19,
+   "d": "#8GR08QLPL",
+   "dth": 19,
+   "dur": 157,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8RUP2ULR",
+   "ath": 19,
+   "d": "#LQ2QJQGUY",
+   "dth": 19,
+   "dur": 102,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2CGQ0QGYC",
+   "ath": 19,
+   "d": "#CQQJUUQY",
+   "dth": 19,
+   "dur": 84,
+   "o": 4,
+   "p": 65,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#CQQJUUQY",
+   "ath": 19,
+   "d": "#L8CU829Q",
+   "dth": 19,
+   "dur": 180,
+   "o": 5,
+   "p": 84,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LY2QQ9L9Q",
+   "ath": 19,
+   "d": "#LL0UCLJ0C",
+   "dth": 19,
+   "dur": 180,
+   "o": 6,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGCURJJ0",
+   "ath": 19,
+   "d": "#LY2QQ9L9Q",
+   "dth": 19,
+   "dur": 180,
+   "o": 7,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#L8CU829Q",
+   "ath": 19,
+   "d": "#L8RUP2ULR",
+   "dth": 19,
+   "dur": 164,
+   "o": 8,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GR08QLPL",
+   "ath": 19,
+   "d": "#G2JULVQUJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 9,
+   "p": 81,
+   "s": 2,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 1,
+ "clan": {
+  "destruction": 85.0,
+  "members": [
+   {
+    "name": "LUX ZEUS",
+    "pos": 1,
+    "tag": "#LGCURJJ0",
+    "th": 19
+   },
+   {
+    "name": "HZN N0AH",
+    "pos": 5,
+    "tag": "#LL0UCLJ0C",
+    "th": 19
+   },
+   {
+    "name": "幸Relaxo走",
+    "pos": 3,
+    "tag": "#CQQJUUQY",
+    "th": 19
+   },
+   {
+    "name": "NeVeRz",
+    "pos": 2,
+    "tag": "#8GR08QLPL",
+    "th": 19
+   },
+   {
+    "name": "LOST★stefan",
+    "pos": 4,
+    "tag": "#L8RUP2ULR",
+    "th": 19
+   }
+  ],
+  "name": "Horizon Esports",
+  "stars": 11,
+  "tag": "#2GY90QU9J"
+ },
+ "end": "20261125T205118.000Z",
+ "opponent": {
+  "destruction": 67.2,
+  "members": [
+   {
+    "name": "MAZE RUNNER",
+    "pos": 1,
+    "tag": "#2CGQ0QGYC",
+    "th": 19
+   },
+   {
+    "name": "fxDefuser",
+    "pos": 3,
+    "tag": "#LY2QQ9L9Q",
+    "th": 19
+   },
+   {
+    "name": "KANE",
+    "pos": 2,
+    "tag": "#L8CU829Q",
+    "th": 19
+   },
+   {
+    "name": "Paul",
+    "pos": 4,
+    "tag": "#G2JULVQUJ",
+    "th": 19
+   },
+   {
+    "name": "Pyro",
+    "pos": 5,
+    "tag": "#LQ2QJQGUY",
+    "th": 19
+   }
+  ],
+  "name": "Horizon Stars",
+  "stars": 9,
+  "tag": "#2J8R9Q0VR"
+ },
+ "start": "20261125T200618.000Z",
+ "state": "inWar",
+ "teamSize": 5,
+ "type": "krieg"
+}

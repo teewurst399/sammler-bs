@@ -87,6 +87,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#R2Q9LJGRG",
+   "ath": 13,
+   "d": "#LYL8VUP00",
+   "dth": 13,
+   "dur": 33,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -160,7 +171,7 @@
  },
  "end": "20261126T171706.000Z",
  "opponent": {
-  "destruction": 70.0,
+  "destruction": 80.0,
   "members": [
    {
     "name": "خفاش شب",
@@ -224,7 +235,7 @@
    }
   ],
   "name": "ARYVEX",
-  "stars": 21,
+  "stars": 24,
   "tag": "#2J0J29U8C"
  },
  "start": "20261125T171706.000Z",
