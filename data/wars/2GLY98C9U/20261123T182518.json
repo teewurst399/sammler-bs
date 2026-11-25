@@ -186,6 +186,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#P9UG90C98",
+   "ath": 19,
+   "d": "#8VV8JYVJP",
+   "dth": 19,
+   "dur": 138,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9UG90C98",
+   "ath": 19,
+   "d": "#RR8U80YC",
+   "dth": 19,
+   "dur": 160,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -409,7 +431,7 @@
  },
  "end": "20261125T172518.000Z",
  "opponent": {
-  "destruction": 13.771428,
+  "destruction": 14.0,
   "members": [
    {
     "name": "Akay_92",
@@ -623,7 +645,7 @@
    }
   ],
   "name": "LỒNG CHIM VÁC",
-  "stars": 10,
+  "stars": 13,
   "tag": "#2LJ209GUG"
  },
  "start": "20261124T172518.000Z",
