@@ -131,11 +131,143 @@
    "p": 71,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2RJ8LR9C",
+   "ath": 19,
+   "d": "#2UJ8RRGUP",
+   "dth": 18,
+   "dur": 102,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#92RJ002G",
+   "ath": 19,
+   "d": "#LGR90YRVQ",
+   "dth": 19,
+   "dur": 107,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#C0L9UJ0L",
+   "ath": 19,
+   "d": "#9P880J2P",
+   "dth": 19,
+   "dur": 179,
+   "o": 15,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9R980C2U",
+   "ath": 19,
+   "d": "#2L8GYRQJ2",
+   "dth": 19,
+   "dur": 108,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G9R980C2U",
+   "ath": 19,
+   "d": "#9CCUCYCUC",
+   "dth": 19,
+   "dur": 96,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GYPJPGR00",
+   "ath": 19,
+   "d": "#LR0G2CPC",
+   "dth": 19,
+   "dur": 111,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9CQ89GJG",
+   "ath": 19,
+   "d": "#28PLJ2RVR",
+   "dth": 19,
+   "dur": 180,
+   "o": 19,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYPJPGR00",
+   "ath": 19,
+   "d": "#V9G0VGYG",
+   "dth": 19,
+   "dur": 154,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LL2UYUVCV",
+   "ath": 19,
+   "d": "#P2PLY80L",
+   "dth": 19,
+   "dur": 158,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LGR90YRVQ",
+   "ath": 19,
+   "d": "#YLJYLLRJR",
+   "dth": 19,
+   "dur": 122,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LL2UYUVCV",
+   "ath": 19,
+   "d": "#9YRG2VP09",
+   "dth": 19,
+   "dur": 172,
+   "o": 23,
+   "p": 84,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LGR90YRVQ",
+   "ath": 19,
+   "d": "#9YRG2VP09",
+   "dth": 19,
+   "dur": 143,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 19.325,
+  "destruction": 36.825,
   "members": [
    {
     "name": "WB Teewurst",
@@ -379,12 +511,12 @@
    }
   ],
   "name": "Wurstbude",
-  "stars": 23,
+  "stars": 44,
   "tag": "#2LCGGC22L"
  },
  "end": "20261127T195841.000Z",
  "opponent": {
-  "destruction": 8.7,
+  "destruction": 18.525,
   "members": [
    {
     "name": "suxl",
@@ -628,7 +760,7 @@
    }
   ],
   "name": "ANTICO ESERCITO",
-  "stars": 9,
+  "stars": 19,
   "tag": "#2QQC2098Y"
  },
  "start": "20261126T195841.000Z",
