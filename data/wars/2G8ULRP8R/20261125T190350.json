@@ -208,6 +208,28 @@
    "p": 64,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#GUJL98JY8",
+   "ath": 15,
+   "d": "#Q0L2GJ8CQ",
+   "dth": 13,
+   "dur": 100,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJ0LJ2RJ8",
+   "ath": 16,
+   "d": "#8CPJ8GUU",
+   "dth": 16,
+   "dur": 158,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -341,7 +363,7 @@
  },
  "end": "20261127T180350.000Z",
  "opponent": {
-  "destruction": 46.9,
+  "destruction": 56.9,
   "members": [
    {
     "name": "SaRaaF",
@@ -465,7 +487,7 @@
    }
   ],
   "name": "Sadece Savaş",
-  "stars": 28,
+  "stars": 34,
   "tag": "#2RG2CU2J2"
  },
  "start": "20261126T180350.000Z",

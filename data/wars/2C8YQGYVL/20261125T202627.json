@@ -373,11 +373,55 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9GP2GP8R",
+   "ath": 19,
+   "d": "#JGLPCPJ2",
+   "dth": 19,
+   "dur": 124,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJC2JRQ9C",
+   "ath": 19,
+   "d": "#P2R0VPPC8",
+   "dth": 18,
+   "dur": 127,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9P9G9U2V9",
+   "ath": 18,
+   "d": "#RV9VY0RL",
+   "dth": 19,
+   "dur": 150,
+   "o": 37,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9P9G9U2V9",
+   "ath": 18,
+   "d": "#2ULPLL2C",
+   "dth": 19,
+   "dur": 109,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 56.342857,
+  "destruction": 61.885715,
   "members": [
    {
     "name": "Legomaster63",
@@ -591,12 +635,12 @@
    }
   ],
   "name": "The Conquerors",
-  "stars": 59,
+  "stars": 64,
   "tag": "#2C8YQGYVL"
  },
  "end": "20261127T192627.000Z",
  "opponent": {
-  "destruction": 31.142857,
+  "destruction": 36.857143,
   "members": [
    {
     "name": "Dajuz",
@@ -810,7 +854,7 @@
    }
   ],
   "name": "Oin Sauce",
-  "stars": 32,
+  "stars": 38,
   "tag": "#2RL0LGP0G"
  },
  "start": "20261126T192627.000Z",

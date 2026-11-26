@@ -252,6 +252,39 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9Y980880U",
+   "ath": 19,
+   "d": "#PGPJUCQR8",
+   "dth": 19,
+   "dur": 180,
+   "o": 24,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9Y980880U",
+   "ath": 19,
+   "d": "#UPPLV9GV",
+   "dth": 19,
+   "dur": 154,
+   "o": 25,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LY0QR9CR",
+   "ath": 19,
+   "d": "#8YLLQULP0",
+   "dth": 19,
+   "dur": 163,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -535,7 +568,7 @@
  },
  "end": "20261127T200444.000Z",
  "opponent": {
-  "destruction": 30.066668,
+  "destruction": 34.8,
   "members": [
    {
     "name": "Cerveza2",
@@ -809,7 +842,7 @@
    }
   ],
   "name": "!OstatniBastion",
-  "stars": 39,
+  "stars": 44,
   "tag": "#2G2GLJ800"
  },
  "start": "20261126T200444.000Z",

@@ -87,6 +87,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GLVLPGPVY",
+   "ath": 10,
+   "d": "#QQPC9QGJY",
+   "dth": 7,
+   "dur": 38,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GLVLPGPVY",
+   "ath": 10,
+   "d": "#G2GUCGR0G",
+   "dth": 7,
+   "dur": 49,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -280,7 +302,7 @@
  },
  "end": "20261127T182620.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 6.6666665,
   "members": [
    {
     "name": "THE SCORPION",
@@ -464,7 +486,7 @@
    }
   ],
   "name": "POWER OF GUJJU",
-  "stars": 0,
+  "stars": 6,
   "tag": "#Y2CVPCVG"
  },
  "start": "20261126T182620.000Z",
