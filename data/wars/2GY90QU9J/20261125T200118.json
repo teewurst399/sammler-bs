@@ -98,6 +98,17 @@
    "p": 81,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#LQ2QJQGUY",
+   "ath": 19,
+   "d": "#LGCURJJ0",
+   "dth": 19,
+   "dur": 180,
+   "o": 10,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 1,
@@ -141,7 +152,7 @@
  },
  "end": "20261125T205118.000Z",
  "opponent": {
-  "destruction": 67.2,
+  "destruction": 84.0,
   "members": [
    {
     "name": "MAZE RUNNER",
@@ -175,11 +186,11 @@
    }
   ],
   "name": "Horizon Stars",
-  "stars": 9,
+  "stars": 11,
   "tag": "#2J8R9Q0VR"
  },
  "start": "20261125T200618.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 5,
  "type": "krieg"
 }
