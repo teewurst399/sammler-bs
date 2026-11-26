@@ -802,11 +802,66 @@
    "p": 90,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#Q9GUQ0J2Q",
+   "ath": 19,
+   "d": "#G9QQJUYV9",
+   "dth": 19,
+   "dur": 129,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2G0Q90000",
+   "ath": 19,
+   "d": "#PPLYUJLR",
+   "dth": 19,
+   "dur": 180,
+   "o": 75,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2G0Q90000",
+   "ath": 19,
+   "d": "#8JU8YGJJY",
+   "dth": 19,
+   "dur": 172,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQVY2QCJC",
+   "ath": 19,
+   "d": "#90PUQL00J",
+   "dth": 19,
+   "dur": 156,
+   "o": 77,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQVY2QCJC",
+   "ath": 19,
+   "d": "#RCUJR0PJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 78,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 71.9,
+  "destruction": 73.9,
   "members": [
    {
     "name": "Hunga Munga",
@@ -1110,12 +1165,12 @@
    }
   ],
   "name": "Get Buttered!",
-  "stars": 107,
+  "stars": 110,
   "tag": "#2R98Y8YUJ"
  },
  "end": "20261127T185943.000Z",
  "opponent": {
-  "destruction": 39.56,
+  "destruction": 44.24,
   "members": [
    {
     "name": "Meysam",
@@ -1419,7 +1474,7 @@
    }
   ],
   "name": "برمودا",
-  "stars": 55,
+  "stars": 60,
   "tag": "#YRG02QQP"
  },
  "start": "20261126T185943.000Z",
