@@ -1,0 +1,185 @@
+{
+ "attacks": [
+  {
+   "a": "#PUQPQGY2Q",
+   "ath": 19,
+   "d": "#28JPJCYUV",
+   "dth": 19,
+   "dur": 126,
+   "o": 1,
+   "p": 51,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#28JPJCYUV",
+   "ath": 19,
+   "d": "#PP28GULR0",
+   "dth": 19,
+   "dur": 171,
+   "o": 2,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2JL9PRC2G",
+   "ath": 19,
+   "d": "#LL0UCLJ0C",
+   "dth": 19,
+   "dur": 172,
+   "o": 3,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LL0UCLJ0C",
+   "ath": 19,
+   "d": "#2JL9PRC2G",
+   "dth": 19,
+   "dur": 180,
+   "o": 4,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#20YPU0CP0",
+   "ath": 19,
+   "d": "#2GYJVLCU",
+   "dth": 19,
+   "dur": 162,
+   "o": 5,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#CQQJUUQY",
+   "ath": 19,
+   "d": "#PUQPQGY2Q",
+   "dth": 19,
+   "dur": 132,
+   "o": 6,
+   "p": 74,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9Y8P8RRPJ",
+   "ath": 19,
+   "d": "#CQQJUUQY",
+   "dth": 19,
+   "dur": 156,
+   "o": 7,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GYJVLCU",
+   "ath": 19,
+   "d": "#9Y8P8RRPJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 8,
+   "p": 86,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PP28GULR0",
+   "ath": 19,
+   "d": "#L8RUP2ULR",
+   "dth": 19,
+   "dur": 160,
+   "o": 9,
+   "p": 62,
+   "s": 2,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 1,
+ "clan": {
+  "destruction": 71.0,
+  "members": [
+   {
+    "name": "Warlord",
+    "pos": 4,
+    "tag": "#28JPJCYUV",
+    "th": 19
+   },
+   {
+    "name": "2L4S T,",
+    "pos": 5,
+    "tag": "#2GYJVLCU",
+    "th": 19
+   },
+   {
+    "name": "HZN N0AH",
+    "pos": 3,
+    "tag": "#LL0UCLJ0C",
+    "th": 19
+   },
+   {
+    "name": "幸Relaxo走",
+    "pos": 1,
+    "tag": "#CQQJUUQY",
+    "th": 19
+   },
+   {
+    "name": "LOST★stefan",
+    "pos": 2,
+    "tag": "#L8RUP2ULR",
+    "th": 19
+   }
+  ],
+  "name": "Horizon Esports",
+  "stars": 7,
+  "tag": "#2GY90QU9J"
+ },
+ "end": "20261126T165114.000Z",
+ "opponent": {
+  "destruction": 71.2,
+  "members": [
+   {
+    "name": "Badhon亗⚔️❤️",
+    "pos": 2,
+    "tag": "#20YPU0CP0",
+    "th": 19
+   },
+   {
+    "name": "BW❤️SALMAN™77",
+    "pos": 5,
+    "tag": "#PP28GULR0",
+    "th": 19
+   },
+   {
+    "name": "BDK✨★★Najmul★★~",
+    "pos": 1,
+    "tag": "#9Y8P8RRPJ",
+    "th": 19
+   },
+   {
+    "name": "HyPerīMaFia",
+    "pos": 3,
+    "tag": "#PUQPQGY2Q",
+    "th": 19
+   },
+   {
+    "name": "☆☆☆SOUMIK☆☆☆",
+    "pos": 4,
+    "tag": "#2JL9PRC2G",
+    "th": 19
+   }
+  ],
+  "name": "Hornets Falcon",
+  "stars": 10,
+  "tag": "#2J9V2GPL8"
+ },
+ "start": "20261126T160614.000Z",
+ "state": "inWar",
+ "teamSize": 5,
+ "type": "krieg"
+}

@@ -98,11 +98,187 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QRYL2CQV0",
+   "ath": 17,
+   "d": "#80G2RCQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 10,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRYL2CQV0",
+   "ath": 17,
+   "d": "#928RJG8JQ",
+   "dth": 12,
+   "dur": 92,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PQPC2GGQ",
+   "ath": 19,
+   "d": "#80G2RCQ",
+   "dth": 19,
+   "dur": 149,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GU0CG98P8",
+   "ath": 12,
+   "d": "#L0YPP8YG",
+   "dth": 16,
+   "dur": 26,
+   "o": 13,
+   "p": 2,
+   "s": 0,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0YPP8YG",
+   "ath": 16,
+   "d": "#QRYL2CQV0",
+   "dth": 17,
+   "dur": 74,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P2L20G80C",
+   "ath": 13,
+   "d": "#GRJPYCGPC",
+   "dth": 13,
+   "dur": 76,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GR88LQG02",
+   "ath": 13,
+   "d": "#R2Q9LJGRG",
+   "dth": 13,
+   "dur": 62,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LYL8VUP00",
+   "ath": 13,
+   "d": "#GVY20JVJJ",
+   "dth": 12,
+   "dur": 56,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8VPUQL0P",
+   "ath": 13,
+   "d": "#GU0CG98P8",
+   "dth": 12,
+   "dur": 59,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#80G2RCQ",
+   "ath": 19,
+   "d": "#LLP2LPJYV",
+   "dth": 16,
+   "dur": 62,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P2L20G80C",
+   "ath": 13,
+   "d": "#GCVLCP808",
+   "dth": 12,
+   "dur": 82,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GR88LQG02",
+   "ath": 13,
+   "d": "#QV82V9YCG",
+   "dth": 11,
+   "dur": 66,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LYL8VUP00",
+   "ath": 13,
+   "d": "#GRLC8VP9L",
+   "dth": 11,
+   "dur": 54,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L0YPP8YG",
+   "ath": 16,
+   "d": "#8PQPC2GGQ",
+   "dth": 19,
+   "dur": 11,
+   "o": 23,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9VCUJQL0",
+   "ath": 18,
+   "d": "#8PQPC2GGQ",
+   "dth": 19,
+   "dur": 11,
+   "o": 24,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9VCUJQL0",
+   "ath": 18,
+   "d": "#QRYL2CQV0",
+   "dth": 17,
+   "dur": 10,
+   "o": 25,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 10.0,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Alter\"RUSHER\" 1",
@@ -166,12 +342,12 @@
    }
   ],
   "name": "Alter Verwalter",
-  "stars": 3,
+  "stars": 30,
   "tag": "#2RGVRLQ8V"
  },
  "end": "20261126T171706.000Z",
  "opponent": {
-  "destruction": 80.0,
+  "destruction": 100.0,
   "members": [
    {
     "name": "خفاش شب",
@@ -235,7 +411,7 @@
    }
   ],
   "name": "ARYVEX",
-  "stars": 24,
+  "stars": 30,
   "tag": "#2J0J29U8C"
  },
  "start": "20261125T171706.000Z",
