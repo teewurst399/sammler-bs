@@ -1,0 +1,310 @@
+{
+ "attacks": [
+  {
+   "a": "#Q8V009CP",
+   "ath": 19,
+   "d": "#GQVRJRYVG",
+   "dth": 19,
+   "dur": 135,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8V009CP",
+   "ath": 19,
+   "d": "#UCPPUR0R",
+   "dth": 19,
+   "dur": 106,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCVLRJPRC",
+   "ath": 16,
+   "d": "#LPJ2VC9C9",
+   "dth": 14,
+   "dur": 84,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCVLRJPRC",
+   "ath": 16,
+   "d": "#QP8CU9RP2",
+   "dth": 12,
+   "dur": 63,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "Mega |V",
+    "pos": 18,
+    "tag": "#LPJ2VC9C9",
+    "th": 14
+   },
+   {
+    "name": "Gorillapo",
+    "pos": 4,
+    "tag": "#8J982QVR8",
+    "th": 19
+   },
+   {
+    "name": "Pati",
+    "pos": 2,
+    "tag": "#UCPPUR0R",
+    "th": 19
+   },
+   {
+    "name": "Jakob",
+    "pos": 6,
+    "tag": "#2P0YJPRY9",
+    "th": 19
+   },
+   {
+    "name": "MarGra",
+    "pos": 10,
+    "tag": "#GG8JRRYV",
+    "th": 17
+   },
+   {
+    "name": "Marcone",
+    "pos": 13,
+    "tag": "#200GGYCRV",
+    "th": 16
+   },
+   {
+    "name": "#BS# Fc Bayern",
+    "pos": 7,
+    "tag": "#LUCG0QPP2",
+    "th": 19
+   },
+   {
+    "name": "supersiedel",
+    "pos": 5,
+    "tag": "#YJLV9UU9",
+    "th": 19
+   },
+   {
+    "name": "Sinan |V",
+    "pos": 15,
+    "tag": "#GPQJC209Y",
+    "th": 16
+   },
+   {
+    "name": "ExCore",
+    "pos": 3,
+    "tag": "#2PLPQJQ80",
+    "th": 19
+   },
+   {
+    "name": "Zakko",
+    "pos": 12,
+    "tag": "#2PG9C2P0Q",
+    "th": 16
+   },
+   {
+    "name": "Taubes Nüsschen",
+    "pos": 11,
+    "tag": "#8CPJ8GUU",
+    "th": 16
+   },
+   {
+    "name": "Taha",
+    "pos": 8,
+    "tag": "#CJC9UPCJ",
+    "th": 18
+   },
+   {
+    "name": "Mega V|",
+    "pos": 20,
+    "tag": "#QP8CU9RP2",
+    "th": 12
+   },
+   {
+    "name": "Lukas",
+    "pos": 17,
+    "tag": "#VQR2Q9L",
+    "th": 15
+   },
+   {
+    "name": "MRX",
+    "pos": 9,
+    "tag": "#808LGVRV8",
+    "th": 17
+   },
+   {
+    "name": "Mega V",
+    "pos": 19,
+    "tag": "#Q0L2GJ8CQ",
+    "th": 13
+   },
+   {
+    "name": "Pokspieler",
+    "pos": 1,
+    "tag": "#GQVRJRYVG",
+    "th": 19
+   },
+   {
+    "name": "Mega |||",
+    "pos": 16,
+    "tag": "#YPL2YPGUP",
+    "th": 15
+   },
+   {
+    "name": "CalvronVX",
+    "pos": 14,
+    "tag": "#YPL298Q02",
+    "th": 16
+   }
+  ],
+  "name": "#Black Stone# 6",
+  "stars": 0,
+  "tag": "#2G8ULRP8R"
+ },
+ "end": "20261127T180350.000Z",
+ "opponent": {
+  "destruction": 20.0,
+  "members": [
+   {
+    "name": "SaRaaF",
+    "pos": 11,
+    "tag": "#LR8C8U0U0",
+    "th": 17
+   },
+   {
+    "name": "ULU ÇINAR",
+    "pos": 12,
+    "tag": "#YJ0LJ2RJ8",
+    "th": 16
+   },
+   {
+    "name": "CrewCore",
+    "pos": 8,
+    "tag": "#8JQGRQCYP",
+    "th": 19
+   },
+   {
+    "name": "(⭐ENGIN⭐)",
+    "pos": 9,
+    "tag": "#R2JG0QVG",
+    "th": 18
+   },
+   {
+    "name": "colorado kid",
+    "pos": 6,
+    "tag": "#2R0G0YLQJ",
+    "th": 19
+   },
+   {
+    "name": "hâkim",
+    "pos": 4,
+    "tag": "#G0RY09YJ0",
+    "th": 19
+   },
+   {
+    "name": "barbar kral",
+    "pos": 7,
+    "tag": "#2P8PRGCQV",
+    "th": 19
+   },
+   {
+    "name": "DR.TERMİNATÖR",
+    "pos": 15,
+    "tag": "#9J2YYVJPJ",
+    "th": 16
+   },
+   {
+    "name": "Utku Çalık",
+    "pos": 20,
+    "tag": "#R2RCJ22V8",
+    "th": 13
+   },
+   {
+    "name": "FARUH",
+    "pos": 14,
+    "tag": "#GQYQCUYP0",
+    "th": 16
+   },
+   {
+    "name": "(⭐️ERDAL⭐️)",
+    "pos": 3,
+    "tag": "#VCPJU8V0",
+    "th": 19
+   },
+   {
+    "name": "#Kurt",
+    "pos": 5,
+    "tag": "#9LJYVPVVJ",
+    "th": 19
+   },
+   {
+    "name": "lord of shadows",
+    "pos": 2,
+    "tag": "#222YCRQCJ",
+    "th": 19
+   },
+   {
+    "name": "☆ AzE KiLLeR ☆",
+    "pos": 13,
+    "tag": "#9CC2VQPPR",
+    "th": 16
+   },
+   {
+    "name": "CENGAVER",
+    "pos": 1,
+    "tag": "#Q8V009CP",
+    "th": 19
+   },
+   {
+    "name": "SaRaaF2",
+    "pos": 16,
+    "tag": "#PGQ8LYGV0",
+    "th": 15
+   },
+   {
+    "name": "Emin",
+    "pos": 17,
+    "tag": "#GUJL98JY8",
+    "th": 15
+   },
+   {
+    "name": "Luminex",
+    "pos": 10,
+    "tag": "#QP2Y8U29Y",
+    "th": 18
+   },
+   {
+    "name": "ŞAHİN BAKIŞLI",
+    "pos": 18,
+    "tag": "#GCVLRJPRC",
+    "th": 16
+   },
+   {
+    "name": "12rhmnvv",
+    "pos": 19,
+    "tag": "#YUVY2U9VC",
+    "th": 13
+   }
+  ],
+  "name": "Sadece Savaş",
+  "stars": 12,
+  "tag": "#2RG2CU2J2"
+ },
+ "start": "20261126T180350.000Z",
+ "state": "inWar",
+ "teamSize": 20,
+ "type": "krieg"
+}

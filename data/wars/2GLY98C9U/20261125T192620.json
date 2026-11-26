@@ -1,0 +1,397 @@
+{
+ "attacks": [
+  {
+   "a": "#Y22QYU90P",
+   "ath": 19,
+   "d": "#PR0YP8VCR",
+   "dth": 19,
+   "dur": 113,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 3.3333333,
+  "members": [
+   {
+    "name": "JonyNation",
+    "pos": 9,
+    "tag": "#88GJJQL0",
+    "th": 19
+   },
+   {
+    "name": "Lordina Emma",
+    "pos": 19,
+    "tag": "#LRRCJQ8G0",
+    "th": 18
+   },
+   {
+    "name": "Eliwood",
+    "pos": 3,
+    "tag": "#RR8U80YC",
+    "th": 19
+   },
+   {
+    "name": "Marv V",
+    "pos": 29,
+    "tag": "#QQPC9QGJY",
+    "th": 7
+   },
+   {
+    "name": "till",
+    "pos": 28,
+    "tag": "#QCUVVJVP2",
+    "th": 15
+   },
+   {
+    "name": "[HaFa] ✨matt✨",
+    "pos": 7,
+    "tag": "#Q2Q98YVP",
+    "th": 19
+   },
+   {
+    "name": "[HaFa] matti",
+    "pos": 8,
+    "tag": "#92YRGJ8",
+    "th": 19
+   },
+   {
+    "name": "Tobelchen",
+    "pos": 5,
+    "tag": "#G0GGJ9P",
+    "th": 19
+   },
+   {
+    "name": "[HaFa] ☀️matt☀️",
+    "pos": 11,
+    "tag": "#LCG8UUQC",
+    "th": 19
+   },
+   {
+    "name": "cano",
+    "pos": 13,
+    "tag": "#GYRLV0JCV",
+    "th": 18
+   },
+   {
+    "name": "Kansiz1461",
+    "pos": 10,
+    "tag": "#PPQU0PLQL",
+    "th": 19
+   },
+   {
+    "name": "(FF) Paul",
+    "pos": 14,
+    "tag": "#Y22QYU90P",
+    "th": 19
+   },
+   {
+    "name": "*TOBX*",
+    "pos": 22,
+    "tag": "#QGLPCL08Q",
+    "th": 18
+   },
+   {
+    "name": "7YR4N7",
+    "pos": 15,
+    "tag": "#908C0R9PV",
+    "th": 18
+   },
+   {
+    "name": "Eliwood.V2",
+    "pos": 26,
+    "tag": "#GCGUVCGL2",
+    "th": 17
+   },
+   {
+    "name": "TheSpecialOne",
+    "pos": 6,
+    "tag": "#VGJY082R",
+    "th": 19
+   },
+   {
+    "name": "[HaFa] ⭐️matt⭐️",
+    "pos": 12,
+    "tag": "#L2J29LLP2",
+    "th": 19
+   },
+   {
+    "name": "Moonlanding11",
+    "pos": 16,
+    "tag": "#LRJU9YJY9",
+    "th": 19
+   },
+   {
+    "name": "Blazerod",
+    "pos": 23,
+    "tag": "#20YYCG08",
+    "th": 16
+   },
+   {
+    "name": "Claas",
+    "pos": 4,
+    "tag": "#JVCRQ200",
+    "th": 19
+   },
+   {
+    "name": "O.F.",
+    "pos": 2,
+    "tag": "#8VV8JYVJP",
+    "th": 19
+   },
+   {
+    "name": "Lias lll",
+    "pos": 18,
+    "tag": "#29LCQPJCV",
+    "th": 18
+   },
+   {
+    "name": "Lias lV",
+    "pos": 24,
+    "tag": "#GL20RC0RR",
+    "th": 16
+   },
+   {
+    "name": "Keano",
+    "pos": 17,
+    "tag": "#9JUGQQ8PV",
+    "th": 18
+   },
+   {
+    "name": "T,,",
+    "pos": 20,
+    "tag": "#JVJJGQJJ",
+    "th": 18
+   },
+   {
+    "name": "King Th11 2.0",
+    "pos": 27,
+    "tag": "#9GYQJJRPL",
+    "th": 14
+   },
+   {
+    "name": "Mega ||",
+    "pos": 25,
+    "tag": "#9RQG298YU",
+    "th": 15
+   },
+   {
+    "name": "DerBarbar",
+    "pos": 1,
+    "tag": "#89JLCV8RR",
+    "th": 19
+   },
+   {
+    "name": "HängeLampe",
+    "pos": 21,
+    "tag": "#LCQUQQYYR",
+    "th": 17
+   },
+   {
+    "name": "Haftbefehl",
+    "pos": 30,
+    "tag": "#G2GUCGR0G",
+    "th": 7
+   }
+  ],
+  "name": "#Black Stone# 5",
+  "stars": 3,
+  "tag": "#2GLY98C9U"
+ },
+ "end": "20261127T182620.000Z",
+ "opponent": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "THE SCORPION",
+    "pos": 24,
+    "tag": "#2Y0C0C29J",
+    "th": 18
+   },
+   {
+    "name": "Kuldip007Rutvik",
+    "pos": 23,
+    "tag": "#2UQRRYVY8",
+    "th": 18
+   },
+   {
+    "name": "Birju",
+    "pos": 18,
+    "tag": "#2G8G0PCP2",
+    "th": 18
+   },
+   {
+    "name": "Gabbar",
+    "pos": 19,
+    "tag": "#8JYQ09YUL",
+    "th": 18
+   },
+   {
+    "name": "COC FIGHTER",
+    "pos": 6,
+    "tag": "#8JGPP20JG",
+    "th": 19
+   },
+   {
+    "name": "iamNIRAVPATIDAR",
+    "pos": 2,
+    "tag": "#80J0PU9LV",
+    "th": 19
+   },
+   {
+    "name": "DARK WARRIOR",
+    "pos": 28,
+    "tag": "#PY2P9G9JY",
+    "th": 14
+   },
+   {
+    "name": "raz superman",
+    "pos": 25,
+    "tag": "#9VPRQ8GUU",
+    "th": 16
+   },
+   {
+    "name": "'HaRsH'",
+    "pos": 21,
+    "tag": "#9UPPP2VU8",
+    "th": 18
+   },
+   {
+    "name": "raghav",
+    "pos": 9,
+    "tag": "#9CJ9JLGQY",
+    "th": 19
+   },
+   {
+    "name": "Devil's castle",
+    "pos": 4,
+    "tag": "#YG0YLR9JJ",
+    "th": 19
+   },
+   {
+    "name": "Shinchan",
+    "pos": 11,
+    "tag": "#PL8PGP0VL",
+    "th": 19
+   },
+   {
+    "name": "Darshan patidar",
+    "pos": 20,
+    "tag": "#G2QLCQ8L",
+    "th": 18
+   },
+   {
+    "name": "Trupal patel",
+    "pos": 3,
+    "tag": "#PR0YP8VCR",
+    "th": 19
+   },
+   {
+    "name": "Govsa",
+    "pos": 14,
+    "tag": "#9C0LQVVUL",
+    "th": 19
+   },
+   {
+    "name": "Meeeet",
+    "pos": 5,
+    "tag": "#Q2JLYQ80V",
+    "th": 19
+   },
+   {
+    "name": "'HaRsH''",
+    "pos": 7,
+    "tag": "#9CGQ0YCJ2",
+    "th": 19
+   },
+   {
+    "name": "HULK",
+    "pos": 27,
+    "tag": "#P8PQ0VJ29",
+    "th": 14
+   },
+   {
+    "name": "RNK",
+    "pos": 15,
+    "tag": "#8QG2PLJCP",
+    "th": 19
+   },
+   {
+    "name": "⭐Goku⭐",
+    "pos": 13,
+    "tag": "#9829RPY2G",
+    "th": 19
+   },
+   {
+    "name": "sattubha",
+    "pos": 17,
+    "tag": "#9JV0Y2R2R",
+    "th": 18
+   },
+   {
+    "name": "Harchand Devasi",
+    "pos": 10,
+    "tag": "#PCRVJ9928",
+    "th": 19
+   },
+   {
+    "name": "kuldip",
+    "pos": 12,
+    "tag": "#L0YY082P",
+    "th": 19
+   },
+   {
+    "name": "Lukhi2000",
+    "pos": 30,
+    "tag": "#GLVLPGPVY",
+    "th": 10
+   },
+   {
+    "name": "DIVYARAJSINH09",
+    "pos": 16,
+    "tag": "#9JVR2R9LY",
+    "th": 18
+   },
+   {
+    "name": "MAYANK__07",
+    "pos": 22,
+    "tag": "#9QVGJQUV0",
+    "th": 18
+   },
+   {
+    "name": "jecky",
+    "pos": 1,
+    "tag": "#9UV2YULUG",
+    "th": 19
+   },
+   {
+    "name": "Watson",
+    "pos": 26,
+    "tag": "#2UGGP8J08",
+    "th": 16
+   },
+   {
+    "name": "harisarkar",
+    "pos": 8,
+    "tag": "#QLCJVY98U",
+    "th": 19
+   },
+   {
+    "name": "KINGSLAYER",
+    "pos": 29,
+    "tag": "#LGL8JR9V9",
+    "th": 13
+   }
+  ],
+  "name": "POWER OF GUJJU",
+  "stars": 0,
+  "tag": "#Y2CVPCVG"
+ },
+ "start": "20261126T182620.000Z",
+ "state": "inWar",
+ "teamSize": 30,
+ "type": "krieg"
+}
