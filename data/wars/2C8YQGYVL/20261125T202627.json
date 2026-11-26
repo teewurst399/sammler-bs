@@ -87,11 +87,132 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#90PL2JQY0",
+   "ath": 19,
+   "d": "#PPCQ8J22L",
+   "dth": 19,
+   "dur": 137,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9YU0JLGG2",
+   "ath": 19,
+   "d": "#8929JJLQ",
+   "dth": 19,
+   "dur": 145,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8GJLCPQJJ",
+   "ath": 19,
+   "d": "#2PJRY9VP0",
+   "dth": 19,
+   "dur": 148,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9YU0JLGG2",
+   "ath": 19,
+   "d": "#QCGC9UVU",
+   "dth": 19,
+   "dur": 135,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q8Y8RY9U0",
+   "ath": 19,
+   "d": "#LJY8LGG2Y",
+   "dth": 19,
+   "dur": 148,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9CVL8J8GJ",
+   "ath": 19,
+   "d": "#PQYL2GUY",
+   "dth": 19,
+   "dur": 132,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9CVL8J8GJ",
+   "ath": 19,
+   "d": "#209CYG9QL",
+   "dth": 19,
+   "dur": 180,
+   "o": 15,
+   "p": 96,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#98VLRJC",
+   "ath": 19,
+   "d": "#9YU0JLGG2",
+   "dth": 19,
+   "dur": 159,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#98VLRJC",
+   "ath": 19,
+   "d": "#Q0CRYR8YP",
+   "dth": 19,
+   "dur": 129,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#882JPYYL",
+   "ath": 19,
+   "d": "#GQY9RLVP",
+   "dth": 19,
+   "dur": 156,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#882JPYYL",
+   "ath": 19,
+   "d": "#QVLC8LLJC",
+   "dth": 19,
+   "dur": 180,
+   "o": 19,
+   "p": 72,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 11.428572,
+  "destruction": 36.228573,
   "members": [
    {
     "name": "Legomaster63",
@@ -305,12 +426,12 @@
    }
   ],
   "name": "The Conquerors",
-  "stars": 12,
+  "stars": 36,
   "tag": "#2C8YQGYVL"
  },
  "end": "20261127T192627.000Z",
  "opponent": {
-  "destruction": 10.714286,
+  "destruction": 16.428572,
   "members": [
    {
     "name": "Dajuz",
@@ -524,7 +645,7 @@
    }
   ],
   "name": "Oin Sauce",
-  "stars": 10,
+  "stars": 16,
   "tag": "#2RL0LGP0G"
  },
  "start": "20261126T192627.000Z",

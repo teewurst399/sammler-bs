@@ -527,11 +527,220 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YYRQ8L22",
+   "ath": 19,
+   "d": "#8JU8YGJJY",
+   "dth": 19,
+   "dur": 153,
+   "o": 49,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YG9LLQ8L",
+   "ath": 19,
+   "d": "#JJP980GL",
+   "dth": 19,
+   "dur": 92,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#92PR0RYG8",
+   "ath": 19,
+   "d": "#2V2RUPJLR",
+   "dth": 19,
+   "dur": 81,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q0RUJC9J2",
+   "ath": 19,
+   "d": "#9L9PU8Q9V",
+   "dth": 19,
+   "dur": 88,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LCYLR980G",
+   "ath": 19,
+   "d": "#LPQPP0GJ8",
+   "dth": 19,
+   "dur": 120,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#92PR0RYG8",
+   "ath": 19,
+   "d": "#8QGCG2Y89",
+   "dth": 19,
+   "dur": 82,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YG9LLQ8L",
+   "ath": 19,
+   "d": "#89RVPU2G8",
+   "dth": 19,
+   "dur": 104,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q0RUJC9J2",
+   "ath": 19,
+   "d": "#PLPV89V9",
+   "dth": 19,
+   "dur": 132,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LCYLR980G",
+   "ath": 19,
+   "d": "#2G0Q90000",
+   "dth": 19,
+   "dur": 136,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8GC9VJJP0",
+   "ath": 19,
+   "d": "#Y99CPCLRP",
+   "dth": 19,
+   "dur": 116,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YYRQ8L22",
+   "ath": 19,
+   "d": "#8GC9VJJP0",
+   "dth": 19,
+   "dur": 133,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8JJY0UJQ",
+   "ath": 19,
+   "d": "#90PUQL00J",
+   "dth": 19,
+   "dur": 126,
+   "o": 60,
+   "p": 60,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0V9PL2P",
+   "ath": 19,
+   "d": "#9Y2GYVJ9U",
+   "dth": 19,
+   "dur": 168,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G0V9PL2P",
+   "ath": 19,
+   "d": "#208UC2CGC",
+   "dth": 19,
+   "dur": 114,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9GUQ0J2Q",
+   "ath": 19,
+   "d": "#9JRLJVLPP",
+   "dth": 19,
+   "dur": 122,
+   "o": 63,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9JRLJVLPP",
+   "ath": 19,
+   "d": "#PQ0LJ9UL9",
+   "dth": 19,
+   "dur": 180,
+   "o": 64,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#RCUJR0PJ",
+   "ath": 19,
+   "d": "#P0VQQ8YPC",
+   "dth": 19,
+   "dur": 82,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RCUJR0PJ",
+   "ath": 19,
+   "d": "#YGYYRQLY",
+   "dth": 19,
+   "dur": 111,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9JRLJVLPP",
+   "ath": 19,
+   "d": "#9C8GU8R0",
+   "dth": 19,
+   "dur": 180,
+   "o": 67,
+   "p": 93,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 43.84,
+  "destruction": 67.9,
   "members": [
    {
     "name": "Hunga Munga",
@@ -835,12 +1044,12 @@
    }
   ],
   "name": "Get Buttered!",
-  "stars": 64,
+  "stars": 101,
   "tag": "#2R98Y8YUJ"
  },
  "end": "20261127T185943.000Z",
  "opponent": {
-  "destruction": 28.56,
+  "destruction": 31.76,
   "members": [
    {
     "name": "Meysam",
@@ -1144,7 +1353,7 @@
    }
   ],
   "name": "برمودا",
-  "stars": 40,
+  "stars": 45,
   "tag": "#YRG02QQP"
  },
  "start": "20261126T185943.000Z",
