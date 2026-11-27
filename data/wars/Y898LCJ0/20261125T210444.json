@@ -351,11 +351,44 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GQQ02YVY",
+   "ath": 19,
+   "d": "#2RU2R8RVJ",
+   "dth": 19,
+   "dur": 163,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GQQ02YVY",
+   "ath": 19,
+   "d": "#8LY0QR9CR",
+   "dth": 19,
+   "dur": 136,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YVV8Y8UP",
+   "ath": 19,
+   "d": "#Y029PY2C8",
+   "dth": 19,
+   "dur": 154,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 14.933333,
+  "destruction": 19.48889,
   "members": [
    {
     "name": "DATPotter",
@@ -629,7 +662,7 @@
    }
   ],
   "name": "#Black Stone#",
-  "stars": 15,
+  "stars": 22,
   "tag": "#Y898LCJ0"
  },
  "end": "20261127T200444.000Z",

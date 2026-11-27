@@ -252,6 +252,94 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2UQRRYVY8",
+   "ath": 18,
+   "d": "#9RQG298YU",
+   "dth": 15,
+   "dur": 123,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UQRRYVY8",
+   "ath": 18,
+   "d": "#QGLPCL08Q",
+   "dth": 18,
+   "dur": 118,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VPRQ8GUU",
+   "ath": 16,
+   "d": "#20YYCG08",
+   "dth": 16,
+   "dur": 111,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VPRQ8GUU",
+   "ath": 16,
+   "d": "#GL20RC0RR",
+   "dth": 16,
+   "dur": 102,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0YY082P",
+   "ath": 19,
+   "d": "#PPQU0PLQL",
+   "dth": 19,
+   "dur": 176,
+   "o": 28,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCRVJ9928",
+   "ath": 19,
+   "d": "#92YRGJ8",
+   "dth": 19,
+   "dur": 180,
+   "o": 29,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCRVJ9928",
+   "ath": 19,
+   "d": "#L2J29LLP2",
+   "dth": 19,
+   "dur": 95,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PR0YP8VCR",
+   "ath": 19,
+   "d": "#89JLCV8RR",
+   "dth": 19,
+   "dur": 119,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -445,7 +533,7 @@
  },
  "end": "20261127T182620.000Z",
  "opponent": {
-  "destruction": 27.766666,
+  "destruction": 52.366665,
   "members": [
    {
     "name": "THE SCORPION",
@@ -629,7 +717,7 @@
    }
   ],
   "name": "POWER OF GUJJU",
-  "stars": 22,
+  "stars": 44,
   "tag": "#Y2CVPCVG"
  },
  "start": "20261126T182620.000Z",
