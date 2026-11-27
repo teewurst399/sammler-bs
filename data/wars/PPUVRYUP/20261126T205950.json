@@ -1,0 +1,205 @@
+{
+ "attacks": [],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "GuebosFritos™",
+    "pos": 9,
+    "tag": "#QVLGLG29",
+    "th": 19
+   },
+   {
+    "name": "Professor Panda",
+    "pos": 3,
+    "tag": "#GCGQ8Q0Y",
+    "th": 19
+   },
+   {
+    "name": "Mark⚡️",
+    "pos": 2,
+    "tag": "#UUP90YGV",
+    "th": 19
+   },
+   {
+    "name": "FireWolf2000",
+    "pos": 8,
+    "tag": "#PC2YJV9C9",
+    "th": 19
+   },
+   {
+    "name": "Bendo",
+    "pos": 1,
+    "tag": "#Q9URYG08",
+    "th": 19
+   },
+   {
+    "name": "SWAN",
+    "pos": 4,
+    "tag": "#L88GGUQ2Y",
+    "th": 19
+   },
+   {
+    "name": "krats tolamahom",
+    "pos": 12,
+    "tag": "#28PQ8QJ98",
+    "th": 19
+   },
+   {
+    "name": "titanicswimteam",
+    "pos": 11,
+    "tag": "#G2GVGJU9",
+    "th": 19
+   },
+   {
+    "name": "Von",
+    "pos": 7,
+    "tag": "#8Y9CQJUGQ",
+    "th": 19
+   },
+   {
+    "name": "Bigthighbertha",
+    "pos": 6,
+    "tag": "#PCJR2Y9L0",
+    "th": 19
+   },
+   {
+    "name": "Hazardous",
+    "pos": 5,
+    "tag": "#92C0PY2C",
+    "th": 19
+   },
+   {
+    "name": "Chief Emster",
+    "pos": 14,
+    "tag": "#9YV0GCYPY",
+    "th": 19
+   },
+   {
+    "name": "Wiza",
+    "pos": 10,
+    "tag": "#GQJR2P2V0",
+    "th": 19
+   },
+   {
+    "name": "PapiSloppy",
+    "pos": 13,
+    "tag": "#LU22QCCQG",
+    "th": 19
+   },
+   {
+    "name": "Blurrioo",
+    "pos": 15,
+    "tag": "#RR9RL8J8",
+    "th": 18
+   }
+  ],
+  "name": "ClashFusion",
+  "stars": 0,
+  "tag": "#PPUVRYUP"
+ },
+ "end": "20261128T195950.000Z",
+ "opponent": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "OTTOMAN EMPİRE⭐",
+    "pos": 3,
+    "tag": "#98PLRYRV2",
+    "th": 19
+   },
+   {
+    "name": "c☆<MeHMeT> c☆",
+    "pos": 5,
+    "tag": "#2P0CUJ98U",
+    "th": 19
+   },
+   {
+    "name": "Lord Voldemort",
+    "pos": 6,
+    "tag": "#8L2PPLJ0U",
+    "th": 19
+   },
+   {
+    "name": "ibrahim",
+    "pos": 13,
+    "tag": "#PGQ2Q9JU",
+    "th": 19
+   },
+   {
+    "name": "ispirli",
+    "pos": 12,
+    "tag": "#2PRYGYGYL",
+    "th": 19
+   },
+   {
+    "name": "Asi",
+    "pos": 11,
+    "tag": "#980QPQ89U",
+    "th": 19
+   },
+   {
+    "name": "OMER",
+    "pos": 8,
+    "tag": "#GG2CG22Y",
+    "th": 19
+   },
+   {
+    "name": "KAPLAN",
+    "pos": 14,
+    "tag": "#JR0JUCPP",
+    "th": 19
+   },
+   {
+    "name": "OTTOMAN EMPİRE⭐",
+    "pos": 7,
+    "tag": "#9RJG0VGVR",
+    "th": 19
+   },
+   {
+    "name": "berelpp",
+    "pos": 1,
+    "tag": "#CPCC0C02",
+    "th": 19
+   },
+   {
+    "name": "mustafa",
+    "pos": 15,
+    "tag": "#8YUUCRP0Y",
+    "th": 18
+   },
+   {
+    "name": "KARTAL YUVASI",
+    "pos": 9,
+    "tag": "#8RYVULV9L",
+    "th": 19
+   },
+   {
+    "name": "Alparslan",
+    "pos": 4,
+    "tag": "#8G8RYRP89",
+    "th": 19
+   },
+   {
+    "name": "OsmanLıTorunu",
+    "pos": 10,
+    "tag": "#8VLQQQGCG",
+    "th": 19
+   },
+   {
+    "name": "Yavuz",
+    "pos": 2,
+    "tag": "#YYQPLLL0",
+    "th": 19
+   }
+  ],
+  "name": "OTTOMAN EMPİRE",
+  "stars": 0,
+  "tag": "#2QQG8GQCU"
+ },
+ "start": "20261127T195950.000Z",
+ "state": "inWar",
+ "teamSize": 15,
+ "type": "krieg"
+}

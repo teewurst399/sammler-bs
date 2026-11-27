@@ -21,6 +21,39 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QP028P09Y",
+   "ath": 9,
+   "d": "#GR88LQG02",
+   "dth": 13,
+   "dur": 89,
+   "o": 3,
+   "p": 78,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCGLVG9RR",
+   "ath": 12,
+   "d": "#P2L20G80C",
+   "dth": 13,
+   "dur": 70,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCGLVG9RR",
+   "ath": 12,
+   "d": "#L8VPUQL0P",
+   "dth": 13,
+   "dur": 27,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -94,7 +127,7 @@
  },
  "end": "20261128T175616.000Z",
  "opponent": {
-  "destruction": 20.0,
+  "destruction": 47.8,
   "members": [
    {
     "name": "Quandale Dingle",
@@ -158,7 +191,7 @@
    }
   ],
   "name": "SplashOfClass",
-  "stars": 6,
+  "stars": 13,
   "tag": "#PJL82Q9G"
  },
  "start": "20261127T175616.000Z",
