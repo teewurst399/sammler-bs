@@ -626,11 +626,154 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#J9LCJ8J",
+   "ath": 19,
+   "d": "#28Y2CJRPV",
+   "dth": 19,
+   "dur": 147,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LUUG0CU88",
+   "ath": 19,
+   "d": "#CV9LC02",
+   "dth": 19,
+   "dur": 168,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J9LCJ8J",
+   "ath": 19,
+   "d": "#LQYJ2GY29",
+   "dth": 19,
+   "dur": 149,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LUUG0CU88",
+   "ath": 19,
+   "d": "#222L9V0C",
+   "dth": 19,
+   "dur": 162,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQYJ2GY29",
+   "ath": 19,
+   "d": "#GR2U89VG",
+   "dth": 19,
+   "dur": 173,
+   "o": 62,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y28CLJ8Q",
+   "ath": 19,
+   "d": "#GR2U89VG",
+   "dth": 19,
+   "dur": 146,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQYJ2GY29",
+   "ath": 19,
+   "d": "#RL8VCQP8",
+   "dth": 19,
+   "dur": 168,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y28CLJ8Q",
+   "ath": 19,
+   "d": "#PY89UPY92",
+   "dth": 19,
+   "dur": 123,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q92V9GRYJ",
+   "ath": 19,
+   "d": "#2QG2G020",
+   "dth": 19,
+   "dur": 170,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2CCYGC8GR",
+   "ath": 19,
+   "d": "#QVC2PLL8",
+   "dth": 19,
+   "dur": 137,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CCYGC8GR",
+   "ath": 19,
+   "d": "#QGCGRPYPY",
+   "dth": 19,
+   "dur": 125,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q92V9GRYJ",
+   "ath": 19,
+   "d": "#9JJLPJ008",
+   "dth": 19,
+   "dur": 180,
+   "o": 69,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#RGU82RQG",
+   "ath": 19,
+   "d": "#QQP9PLRJ2",
+   "dth": 19,
+   "dur": 117,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 41.125,
+  "destruction": 53.425,
   "members": [
    {
     "name": "Sinan |",
@@ -874,12 +1017,12 @@
    }
   ],
   "name": "#Black Stone# 2",
-  "stars": 47,
+  "stars": 61,
   "tag": "#282PGVRRJ"
  },
  "end": "20261128T004111.000Z",
  "opponent": {
-  "destruction": 78.375,
+  "destruction": 91.85,
   "members": [
    {
     "name": "Rey Lagarto",
@@ -1123,7 +1266,7 @@
    }
   ],
   "name": "ONLY ONE LEGEND",
-  "stars": 93,
+  "stars": 110,
   "tag": "#8GPRV92"
  },
  "start": "20261127T004111.000Z",

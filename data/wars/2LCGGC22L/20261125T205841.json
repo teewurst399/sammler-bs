@@ -813,11 +813,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#G80RGGG0R",
+   "ath": 19,
+   "d": "#LUL9YGJGP",
+   "dth": 19,
+   "dur": 107,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G80RGGG0R",
+   "ath": 19,
+   "d": "#LC98P20YY",
+   "dth": 18,
+   "dur": 165,
+   "o": 76,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YC2CCLR0R",
+   "ath": 19,
+   "d": "#V9GQYUCJ",
+   "dth": 19,
+   "dur": 70,
+   "o": 77,
+   "p": 46,
+   "s": 0,
+   "side": "gegner"
+  },
+  {
+   "a": "#20YVJUG0J",
+   "ath": 19,
+   "d": "#P980GJ9U",
+   "dth": 19,
+   "dur": 135,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 96.9,
+  "destruction": 99.4,
   "members": [
    {
     "name": "WB Teewurst",
@@ -1061,12 +1105,12 @@
    }
   ],
   "name": "Wurstbude",
-  "stars": 114,
+  "stars": 117,
   "tag": "#2LCGGC22L"
  },
  "end": "20261127T195841.000Z",
  "opponent": {
-  "destruction": 58.925,
+  "destruction": 63.475,
   "members": [
    {
     "name": "suxl",
@@ -1310,7 +1354,7 @@
    }
   ],
   "name": "ANTICO ESERCITO",
-  "stars": 63,
+  "stars": 68,
   "tag": "#2QQC2098Y"
  },
  "start": "20261126T195841.000Z",
