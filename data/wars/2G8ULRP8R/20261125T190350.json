@@ -384,11 +384,66 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#VQR2Q9L",
+   "ath": 15,
+   "d": "#GUJL98JY8",
+   "dth": 15,
+   "dur": 144,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PLPQJQ80",
+   "ath": 19,
+   "d": "#VCPJU8V0",
+   "dth": 19,
+   "dur": 113,
+   "o": 37,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#VQR2Q9L",
+   "ath": 15,
+   "d": "#PGQ8LYGV0",
+   "dth": 15,
+   "dur": 128,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YPL298Q02",
+   "ath": 16,
+   "d": "#9J2YYVJPJ",
+   "dth": 16,
+   "dur": 144,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PLPQJQ80",
+   "ath": 19,
+   "d": "#G0RY09YJ0",
+   "dth": 19,
+   "dur": 121,
+   "o": 40,
+   "p": 78,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 51.4,
+  "destruction": 75.05,
   "members": [
    {
     "name": "Mega |V",
@@ -512,7 +567,7 @@
    }
   ],
   "name": "#Black Stone# 6",
-  "stars": 29,
+  "stars": 42,
   "tag": "#2G8ULRP8R"
  },
  "end": "20261127T180350.000Z",

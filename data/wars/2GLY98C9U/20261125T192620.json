@@ -461,11 +461,22 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GCGUVCGL2",
+   "ath": 17,
+   "d": "#9VPRQ8GUU",
+   "dth": 16,
+   "dur": 98,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 52.233334,
+  "destruction": 55.566666,
   "members": [
    {
     "name": "JonyNation",
@@ -649,7 +660,7 @@
    }
   ],
   "name": "#Black Stone# 5",
-  "stars": 45,
+  "stars": 48,
   "tag": "#2GLY98C9U"
  },
  "end": "20261127T182620.000Z",

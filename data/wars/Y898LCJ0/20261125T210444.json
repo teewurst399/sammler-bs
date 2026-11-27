@@ -692,6 +692,39 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#UQGCP9RV",
+   "ath": 19,
+   "d": "#9899820C",
+   "dth": 19,
+   "dur": 142,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LGRYR9P8",
+   "ath": 19,
+   "d": "#PLJV8CLRQ",
+   "dth": 19,
+   "dur": 141,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UQGCP9RV",
+   "ath": 19,
+   "d": "#2U2QC928U",
+   "dth": 19,
+   "dur": 99,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -975,7 +1008,7 @@
  },
  "end": "20261127T200444.000Z",
  "opponent": {
-  "destruction": 46.177776,
+  "destruction": 52.844444,
   "members": [
    {
     "name": "Cerveza2",
@@ -1249,7 +1282,7 @@
    }
   ],
   "name": "!OstatniBastion",
-  "stars": 61,
+  "stars": 70,
   "tag": "#2G2GLJ800"
  },
  "start": "20261126T200444.000Z",
