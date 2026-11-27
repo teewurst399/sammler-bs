@@ -439,6 +439,28 @@
    "p": 90,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#9JV0Y2R2R",
+   "ath": 18,
+   "d": "#29LCQPJCV",
+   "dth": 18,
+   "dur": 137,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JV0Y2R2R",
+   "ath": 18,
+   "d": "#9JUGQQ8PV",
+   "dth": 18,
+   "dur": 102,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -632,7 +654,7 @@
  },
  "end": "20261127T182620.000Z",
  "opponent": {
-  "destruction": 67.7,
+  "destruction": 74.36667,
   "members": [
    {
     "name": "THE SCORPION",
@@ -816,7 +838,7 @@
    }
   ],
   "name": "POWER OF GUJJU",
-  "stars": 56,
+  "stars": 62,
   "tag": "#Y2CVPCVG"
  },
  "start": "20261126T182620.000Z",

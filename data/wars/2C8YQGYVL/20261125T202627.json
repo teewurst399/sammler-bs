@@ -780,6 +780,72 @@
    "p": 47,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#9V90JG9LQ",
+   "ath": 19,
+   "d": "#2P2ULPU88",
+   "dth": 16,
+   "dur": 94,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2Q2YPR0L9",
+   "ath": 19,
+   "d": "#Q8Y8RY9U0",
+   "dth": 19,
+   "dur": 141,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJC2JRQ9C",
+   "ath": 19,
+   "d": "#QJQ82PY2C",
+   "dth": 19,
+   "dur": 133,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2ULPLL2C",
+   "ath": 19,
+   "d": "#9P9G9U2V9",
+   "dth": 18,
+   "dur": 106,
+   "o": 75,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LP29JQQP",
+   "ath": 19,
+   "d": "#LYVGQL9L0",
+   "dth": 19,
+   "dur": 128,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LP29JQQP",
+   "ath": 19,
+   "d": "#9P9G9U2V9",
+   "dth": 18,
+   "dur": 112,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1003,7 +1069,7 @@
  },
  "end": "20261127T192627.000Z",
  "opponent": {
-  "destruction": 61.6,
+  "destruction": 73.02857,
   "members": [
    {
     "name": "Dajuz",
@@ -1217,7 +1283,7 @@
    }
   ],
   "name": "Oin Sauce",
-  "stars": 61,
+  "stars": 73,
   "tag": "#2RL0LGP0G"
  },
  "start": "20261126T192627.000Z",
