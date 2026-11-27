@@ -252,6 +252,50 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LR8C8U0U0",
+   "ath": 17,
+   "d": "#GG8JRRYV",
+   "dth": 17,
+   "dur": 116,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LR8C8U0U0",
+   "ath": 17,
+   "d": "#YPL298Q02",
+   "dth": 16,
+   "dur": 129,
+   "o": 25,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PGQ8LYGV0",
+   "ath": 15,
+   "d": "#VQR2Q9L",
+   "dth": 15,
+   "dur": 121,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PGQ8LYGV0",
+   "ath": 15,
+   "d": "#YPL2YPGUP",
+   "dth": 15,
+   "dur": 109,
+   "o": 27,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -385,7 +429,7 @@
  },
  "end": "20261127T180350.000Z",
  "opponent": {
-  "destruction": 66.55,
+  "destruction": 77.4,
   "members": [
    {
     "name": "SaRaaF",
@@ -509,7 +553,7 @@
    }
   ],
   "name": "Sadece Savaş",
-  "stars": 39,
+  "stars": 45,
   "tag": "#2RG2CU2J2"
  },
  "start": "20261126T180350.000Z",

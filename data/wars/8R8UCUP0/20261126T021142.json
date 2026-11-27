@@ -142,11 +142,66 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2802J8U0R",
+   "ath": 19,
+   "d": "#Y02V99RQ",
+   "dth": 19,
+   "dur": 159,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQRG82PCJ",
+   "ath": 19,
+   "d": "#QJ8LRYUR",
+   "dth": 19,
+   "dur": 149,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LQRG82PCJ",
+   "ath": 19,
+   "d": "#LPPCP8QV",
+   "dth": 19,
+   "dur": 127,
+   "o": 16,
+   "p": 84,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8LGP892VP",
+   "ath": 19,
+   "d": "#V0QCGLG",
+   "dth": 19,
+   "dur": 180,
+   "o": 17,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#80JR0Y0C",
+   "ath": 19,
+   "d": "#YPRUGGYLP",
+   "dth": 18,
+   "dur": 111,
+   "o": 18,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 15.933333,
+  "destruction": 22.066668,
   "members": [
    {
     "name": "Revelations",
@@ -330,12 +385,12 @@
    }
   ],
   "name": "The Art of War",
-  "stars": 11,
+  "stars": 16,
   "tag": "#8R8UCUP0"
  },
  "end": "20261128T011142.000Z",
  "opponent": {
-  "destruction": 21.7,
+  "destruction": 27.7,
   "members": [
    {
     "name": "DANNY**ACE",
@@ -519,7 +574,7 @@
    }
   ],
   "name": "COC ELITE 1.0",
-  "stars": 18,
+  "stars": 23,
   "tag": "#8GRQ2P82"
  },
  "start": "20261127T011142.000Z",
