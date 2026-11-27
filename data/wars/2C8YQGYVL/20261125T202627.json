@@ -417,11 +417,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9UCJPUUR2",
+   "ath": 18,
+   "d": "#8Q0RPRLLG",
+   "dth": 18,
+   "dur": 124,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9UCJPUUR2",
+   "ath": 18,
+   "d": "#RV9VY0RL",
+   "dth": 19,
+   "dur": 174,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q8Y8RY9U0",
+   "ath": 19,
+   "d": "#8289PLR2J",
+   "dth": 19,
+   "dur": 132,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y2VJ8RRYY",
+   "ath": 19,
+   "d": "#QV29U9PV",
+   "dth": 19,
+   "dur": 140,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 61.885715,
+  "destruction": 70.62857,
   "members": [
    {
     "name": "Legomaster63",
@@ -635,7 +679,7 @@
    }
   ],
   "name": "The Conquerors",
-  "stars": 64,
+  "stars": 74,
   "tag": "#2C8YQGYVL"
  },
  "end": "20261127T192627.000Z",
