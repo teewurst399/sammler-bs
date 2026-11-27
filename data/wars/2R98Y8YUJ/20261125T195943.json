@@ -1143,11 +1143,99 @@
    "p": 79,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#LQPLVRQVR",
+   "ath": 19,
+   "d": "#YU29YJ8L8",
+   "dth": 19,
+   "dur": 3,
+   "o": 105,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LQPLVRQVR",
+   "ath": 19,
+   "d": "#20J8RGGQJ",
+   "dth": 19,
+   "dur": 4,
+   "o": 106,
+   "p": 16,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#JJP980GL",
+   "ath": 19,
+   "d": "#90PUQL00J",
+   "dth": 19,
+   "dur": 154,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#U00VQ98Y",
+   "ath": 19,
+   "d": "#G8JJY0UJQ",
+   "dth": 19,
+   "dur": 99,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#U00VQ98Y",
+   "ath": 19,
+   "d": "#G2VU2GJJ0",
+   "dth": 19,
+   "dur": 97,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YGYYRQLY",
+   "ath": 19,
+   "d": "#LU9C2LYCR",
+   "dth": 19,
+   "dur": 167,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JJP980GL",
+   "ath": 19,
+   "d": "#PQ0LJ9UL9",
+   "dth": 19,
+   "dur": 158,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2V2RUPJLR",
+   "ath": 19,
+   "d": "#PPLYUJLR",
+   "dth": 19,
+   "dur": 176,
+   "o": 112,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 79.94,
+  "destruction": 83.94,
   "members": [
    {
     "name": "Hunga Munga",
@@ -1451,12 +1539,12 @@
    }
   ],
   "name": "Get Buttered!",
-  "stars": 119,
+  "stars": 125,
   "tag": "#2R98Y8YUJ"
  },
  "end": "20261127T185943.000Z",
  "opponent": {
-  "destruction": 78.28,
+  "destruction": 80.84,
   "members": [
    {
     "name": "Meysam",
@@ -1760,7 +1848,7 @@
    }
   ],
   "name": "برمودا",
-  "stars": 109,
+  "stars": 115,
   "tag": "#YRG02QQP"
  },
  "start": "20261126T185943.000Z",
