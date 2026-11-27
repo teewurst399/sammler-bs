@@ -1055,6 +1055,94 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PRQPLPG0Q",
+   "ath": 19,
+   "d": "#CPUP0L9P",
+   "dth": 19,
+   "dur": 175,
+   "o": 97,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QL890GGYV",
+   "ath": 19,
+   "d": "#RQ2CGRVY",
+   "dth": 19,
+   "dur": 111,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QL890GGYV",
+   "ath": 19,
+   "d": "#CPUP0L9P",
+   "dth": 19,
+   "dur": 147,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRQPLPG0Q",
+   "ath": 19,
+   "d": "#9C8GU8R0",
+   "dth": 19,
+   "dur": 145,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPQPP0GJ8",
+   "ath": 19,
+   "d": "#2QP8PV2CG",
+   "dth": 19,
+   "dur": 176,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPQPP0GJ8",
+   "ath": 19,
+   "d": "#U80R2VLL",
+   "dth": 19,
+   "dur": 175,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28CUJCLU0",
+   "ath": 19,
+   "d": "#Q0RUJC9J2",
+   "dth": 19,
+   "dur": 133,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28CUJCLU0",
+   "ath": 19,
+   "d": "#90PUQL00J",
+   "dth": 19,
+   "dur": 135,
+   "o": 104,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1368,7 +1456,7 @@
  },
  "end": "20261127T185943.000Z",
  "opponent": {
-  "destruction": 69.12,
+  "destruction": 78.28,
   "members": [
    {
     "name": "Meysam",
@@ -1672,7 +1760,7 @@
    }
   ],
   "name": "برمودا",
-  "stars": 95,
+  "stars": 109,
   "tag": "#YRG02QQP"
  },
  "start": "20261126T185943.000Z",

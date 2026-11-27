@@ -571,11 +571,66 @@
    "p": 83,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#8929JJLQ",
+   "ath": 19,
+   "d": "#9CVL8J8GJ",
+   "dth": 19,
+   "dur": 160,
+   "o": 53,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GLLYC8V8U",
+   "ath": 19,
+   "d": "#QVLC8LLJC",
+   "dth": 19,
+   "dur": 138,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LL8PCUUUV",
+   "ath": 19,
+   "d": "#9G8RQQYC9",
+   "dth": 19,
+   "dur": 168,
+   "o": 55,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LL8PCUUUV",
+   "ath": 19,
+   "d": "#PVYU299J8",
+   "dth": 19,
+   "dur": 117,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PJRY9VP0",
+   "ath": 19,
+   "d": "#9CVL8J8GJ",
+   "dth": 19,
+   "dur": 174,
+   "o": 57,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 92.34286,
+  "destruction": 93.14286,
   "members": [
    {
     "name": "Legomaster63",
@@ -789,12 +844,12 @@
    }
   ],
   "name": "The Conquerors",
-  "stars": 93,
+  "stars": 94,
   "tag": "#2C8YQGYVL"
  },
  "end": "20261127T192627.000Z",
  "opponent": {
-  "destruction": 42.57143,
+  "destruction": 50.82857,
   "members": [
    {
     "name": "Dajuz",
@@ -1008,7 +1063,7 @@
    }
   ],
   "name": "Oin Sauce",
-  "stars": 44,
+  "stars": 51,
   "tag": "#2RL0LGP0G"
  },
  "start": "20261126T192627.000Z",
