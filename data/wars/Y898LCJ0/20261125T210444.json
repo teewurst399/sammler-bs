@@ -1088,11 +1088,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2RL08CP08",
+   "ath": 19,
+   "d": "#2UVRLU00V",
+   "dth": 19,
+   "dur": 108,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2RL08CP08",
+   "ath": 19,
+   "d": "#G0QU02LJ8",
+   "dth": 19,
+   "dur": 113,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9899820C",
+   "ath": 19,
+   "d": "#89VPC9YP0",
+   "dth": 19,
+   "dur": 119,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9899820C",
+   "ath": 19,
+   "d": "#Q2L8R9GU8",
+   "dth": 19,
+   "dur": 127,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9CRYV0PY",
+   "ath": 19,
+   "d": "#2G2VYYCY8",
+   "dth": 19,
+   "dur": 14,
+   "o": 104,
+   "p": 7,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9CRYV0PY",
+   "ath": 19,
+   "d": "#LQPL2RJ2L",
+   "dth": 19,
+   "dur": 14,
+   "o": 105,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#89VPC9YP0",
+   "ath": 19,
+   "d": "#C9PQLUR0",
+   "dth": 19,
+   "dur": 12,
+   "o": 106,
+   "p": 51,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#89VPC9YP0",
+   "ath": 19,
+   "d": "#QLPP2LPQG",
+   "dth": 19,
+   "dur": 11,
+   "o": 107,
+   "p": 53,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCJGQRJVR",
+   "ath": 19,
+   "d": "#9P9UQ8LYC",
+   "dth": 18,
+   "dur": 119,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20VV2VR2V",
+   "ath": 19,
+   "d": "#2G2VYYCY8",
+   "dth": 19,
+   "dur": 37,
+   "o": 109,
+   "p": 13,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 91.111115,
+  "destruction": 100.0,
   "members": [
    {
     "name": "DATPotter",
@@ -1366,7 +1476,7 @@
    }
   ],
   "name": "#Black Stone#",
-  "stars": 123,
+  "stars": 135,
   "tag": "#Y898LCJ0"
  },
  "end": "20261127T200444.000Z",

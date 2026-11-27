@@ -978,6 +978,171 @@
    "p": 93,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#9UG92220U",
+   "ath": 19,
+   "d": "#Y2VJ8RRYY",
+   "dth": 19,
+   "dur": 180,
+   "o": 90,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UVLJCCCJ",
+   "ath": 19,
+   "d": "#98VLRJC",
+   "dth": 19,
+   "dur": 157,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LJY8LGG2Y",
+   "ath": 19,
+   "d": "#9CVL8J8GJ",
+   "dth": 19,
+   "dur": 161,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJPG0RGQQ",
+   "ath": 19,
+   "d": "#8PP0VJLQQ",
+   "dth": 19,
+   "dur": 155,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2R0VPPC8",
+   "ath": 18,
+   "d": "#CGG9CVGY",
+   "dth": 19,
+   "dur": 163,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2UVLJCCCJ",
+   "ath": 19,
+   "d": "#9GP2GP8R",
+   "dth": 19,
+   "dur": 127,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LJPG0RGQQ",
+   "ath": 19,
+   "d": "#Y2VJ8RRYY",
+   "dth": 19,
+   "dur": 143,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJY8LGG2Y",
+   "ath": 19,
+   "d": "#882JPYYL",
+   "dth": 19,
+   "dur": 176,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0CRYR8YP",
+   "ath": 19,
+   "d": "#98VLRJC",
+   "dth": 19,
+   "dur": 180,
+   "o": 98,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Q0CRYR8YP",
+   "ath": 19,
+   "d": "#8929JJLQ",
+   "dth": 19,
+   "dur": 169,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#209CYG9QL",
+   "ath": 19,
+   "d": "#G0CQCPPRP",
+   "dth": 19,
+   "dur": 110,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#209CYG9QL",
+   "ath": 19,
+   "d": "#9G8RQQYC9",
+   "dth": 19,
+   "dur": 96,
+   "o": 101,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYCYLLQJ",
+   "ath": 19,
+   "d": "#9GR0PL0GC",
+   "dth": 18,
+   "dur": 162,
+   "o": 102,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2R0VPPC8",
+   "ath": 18,
+   "d": "#8929JJLQ",
+   "dth": 19,
+   "dur": 150,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y2VJ8RRYY",
+   "ath": 19,
+   "d": "#R9LCC28U",
+   "dth": 19,
+   "dur": 140,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1201,7 +1366,7 @@
  },
  "end": "20261127T192627.000Z",
  "opponent": {
-  "destruction": 87.4,
+  "destruction": 94.02857,
   "members": [
    {
     "name": "Dajuz",
@@ -1415,7 +1580,7 @@
    }
   ],
   "name": "Oin Sauce",
-  "stars": 88,
+  "stars": 97,
   "tag": "#2RL0LGP0G"
  },
  "start": "20261126T192627.000Z",
