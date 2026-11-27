@@ -1671,6 +1671,61 @@
    "p": 97,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#U80R2VLL",
+   "ath": 19,
+   "d": "#YYRQ8L22",
+   "dth": 19,
+   "dur": 101,
+   "o": 153,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8GVPG8QP2",
+   "ath": 19,
+   "d": "#2G0UQRGJQ",
+   "dth": 19,
+   "dur": 177,
+   "o": 154,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GVPG8QP2",
+   "ath": 19,
+   "d": "#GGR0RL8C",
+   "dth": 19,
+   "dur": 139,
+   "o": 155,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8J8GPJLUG",
+   "ath": 19,
+   "d": "#22UUU0VCR",
+   "dth": 19,
+   "dur": 139,
+   "o": 156,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8J8GPJLUG",
+   "ath": 19,
+   "d": "#209JPGGV9",
+   "dth": 19,
+   "dur": 171,
+   "o": 157,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1984,7 +2039,7 @@
  },
  "end": "20261127T185943.000Z",
  "opponent": {
-  "destruction": 96.84,
+  "destruction": 99.5,
   "members": [
    {
     "name": "Meysam",
@@ -2288,7 +2343,7 @@
    }
   ],
   "name": "برمودا",
-  "stars": 139,
+  "stars": 146,
   "tag": "#YRG02QQP"
  },
  "start": "20261126T185943.000Z",

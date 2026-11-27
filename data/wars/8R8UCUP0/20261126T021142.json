@@ -571,11 +571,253 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9QUR28GPY",
+   "ath": 19,
+   "d": "#8UPJQV89",
+   "dth": 18,
+   "dur": 102,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9QUR28GPY",
+   "ath": 19,
+   "d": "#RPJ2YY0",
+   "dth": 17,
+   "dur": 117,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YJVVUVRVP",
+   "ath": 19,
+   "d": "#GRUCCYQR8",
+   "dth": 17,
+   "dur": 104,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YJVVUVRVP",
+   "ath": 19,
+   "d": "#80RYULJV2",
+   "dth": 17,
+   "dur": 108,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GUQJ0YG0U",
+   "ath": 18,
+   "d": "#90V80V298",
+   "dth": 17,
+   "dur": 93,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GUQJ0YG0U",
+   "ath": 18,
+   "d": "#89UJCG0QY",
+   "dth": 19,
+   "dur": 176,
+   "o": 58,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8RY8PVGL",
+   "ath": 19,
+   "d": "#9J9GPYVGG",
+   "dth": 18,
+   "dur": 125,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LGRC2YY",
+   "ath": 19,
+   "d": "#YJVVUVRVP",
+   "dth": 19,
+   "dur": 167,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RY8PVGL",
+   "ath": 19,
+   "d": "#2U2JP2G8P",
+   "dth": 18,
+   "dur": 122,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LGRC2YY",
+   "ath": 19,
+   "d": "#LVQCQRJUY",
+   "dth": 19,
+   "dur": 139,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPPCP8QV",
+   "ath": 19,
+   "d": "#9QUR28GPY",
+   "dth": 19,
+   "dur": 180,
+   "o": 63,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPPCP8QV",
+   "ath": 19,
+   "d": "#LLU8YU9PL",
+   "dth": 19,
+   "dur": 112,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GYVUVVJ",
+   "ath": 19,
+   "d": "#GRG2800CU",
+   "dth": 17,
+   "dur": 138,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9GYVUVVJ",
+   "ath": 19,
+   "d": "#89UJCG0QY",
+   "dth": 19,
+   "dur": 163,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8C9RPJL0Q",
+   "ath": 18,
+   "d": "#GUQJ0YG0U",
+   "dth": 18,
+   "dur": 99,
+   "o": 67,
+   "p": 60,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8R2JY0YJL",
+   "ath": 16,
+   "d": "#YPRUGGYLP",
+   "dth": 18,
+   "dur": 180,
+   "o": 68,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#80R09PV20",
+   "ath": 18,
+   "d": "#GVYUVUVCG",
+   "dth": 19,
+   "dur": 119,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#80R09PV20",
+   "ath": 18,
+   "d": "#LCVJRCU8U",
+   "dth": 19,
+   "dur": 88,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8R2JY0YJL",
+   "ath": 16,
+   "d": "#GUQJ0YG0U",
+   "dth": 18,
+   "dur": 152,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9JPR8L8V",
+   "ath": 19,
+   "d": "#8R2JY0YJL",
+   "dth": 16,
+   "dur": 96,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QC2YQQL9",
+   "ath": 19,
+   "d": "#2P9YCPRCR",
+   "dth": 19,
+   "dur": 148,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9JPR8L8V",
+   "ath": 19,
+   "d": "#GQVLYCUCV",
+   "dth": 16,
+   "dur": 76,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 70.0,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Revelations",
@@ -759,12 +1001,12 @@
    }
   ],
   "name": "The Art of War",
-  "stars": 63,
+  "stars": 90,
   "tag": "#8R8UCUP0"
  },
  "end": "20261128T011142.000Z",
  "opponent": {
-  "destruction": 56.133335,
+  "destruction": 87.933334,
   "members": [
    {
     "name": "DANNY**ACE",
@@ -948,7 +1190,7 @@
    }
   ],
   "name": "COC ELITE 1.0",
-  "stars": 48,
+  "stars": 75,
   "tag": "#8GRQ2P82"
  },
  "start": "20261127T011142.000Z",

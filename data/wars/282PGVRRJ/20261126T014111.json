@@ -769,11 +769,99 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#RL8VCQP8",
+   "ath": 19,
+   "d": "#2GVY0GUCJ",
+   "dth": 19,
+   "dur": 143,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LLGULJ02",
+   "ath": 19,
+   "d": "#GC0L2VP20",
+   "dth": 19,
+   "dur": 112,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RL8VCQP8",
+   "ath": 19,
+   "d": "#2QPRYC2VV",
+   "dth": 19,
+   "dur": 163,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LLGULJ02",
+   "ath": 19,
+   "d": "#VL020LG0",
+   "dth": 19,
+   "dur": 133,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RGU82RQG",
+   "ath": 19,
+   "d": "#2CCYGC8GR",
+   "dth": 19,
+   "dur": 180,
+   "o": 75,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LVYGQGJQQ",
+   "ath": 19,
+   "d": "#9Q89JJ0UV",
+   "dth": 18,
+   "dur": 131,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20U8CVRGV",
+   "ath": 19,
+   "d": "#9R8Q9VUYY",
+   "dth": 18,
+   "dur": 156,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20U8CVRGV",
+   "ath": 19,
+   "d": "#2V2U22R2",
+   "dth": 19,
+   "dur": 180,
+   "o": 78,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 53.425,
+  "destruction": 58.425,
   "members": [
    {
     "name": "Sinan |",
@@ -1017,12 +1105,12 @@
    }
   ],
   "name": "#Black Stone# 2",
-  "stars": 61,
+  "stars": 67,
   "tag": "#282PGVRRJ"
  },
  "end": "20261128T004111.000Z",
  "opponent": {
-  "destruction": 91.85,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Rey Lagarto",
@@ -1266,7 +1354,7 @@
    }
   ],
   "name": "ONLY ONE LEGEND",
-  "stars": 110,
+  "stars": 120,
   "tag": "#8GPRV92"
  },
  "start": "20261127T004111.000Z",

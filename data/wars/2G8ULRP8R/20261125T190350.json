@@ -439,11 +439,66 @@
    "p": 78,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#QP8CU9RP2",
+   "ath": 12,
+   "d": "#R2RCJ22V8",
+   "dth": 13,
+   "dur": 104,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#222YCRQCJ",
+   "ath": 19,
+   "d": "#YPL298Q02",
+   "dth": 16,
+   "dur": 94,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QP8CU9RP2",
+   "ath": 12,
+   "d": "#YUVY2U9VC",
+   "dth": 13,
+   "dur": 122,
+   "o": 43,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#222YCRQCJ",
+   "ath": 19,
+   "d": "#YPL2YPGUP",
+   "dth": 15,
+   "dur": 105,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0L2GJ8CQ",
+   "ath": 13,
+   "d": "#YUVY2U9VC",
+   "dth": 13,
+   "dur": 178,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 75.05,
+  "destruction": 85.05,
   "members": [
    {
     "name": "Mega |V",
@@ -567,12 +622,12 @@
    }
   ],
   "name": "#Black Stone# 6",
-  "stars": 42,
+  "stars": 48,
   "tag": "#2G8ULRP8R"
  },
  "end": "20261127T180350.000Z",
  "opponent": {
-  "destruction": 98.35,
+  "destruction": 100.0,
   "members": [
    {
     "name": "SaRaaF",
@@ -696,7 +751,7 @@
    }
   ],
   "name": "Sadece Savaş",
-  "stars": 58,
+  "stars": 60,
   "tag": "#2RG2CU2J2"
  },
  "start": "20261126T180350.000Z",

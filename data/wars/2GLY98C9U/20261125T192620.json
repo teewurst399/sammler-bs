@@ -593,11 +593,77 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#80J0PU9LV",
+   "ath": 19,
+   "d": "#JVCRQ200",
+   "dth": 19,
+   "dur": 180,
+   "o": 55,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CJ9JLGQY",
+   "ath": 19,
+   "d": "#Q2Q98YVP",
+   "dth": 19,
+   "dur": 180,
+   "o": 56,
+   "p": 75,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#20YYCG08",
+   "ath": 16,
+   "d": "#2UQRRYVY8",
+   "dth": 18,
+   "dur": 100,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9CJ9JLGQY",
+   "ath": 19,
+   "d": "#VGJY082R",
+   "dth": 19,
+   "dur": 118,
+   "o": 58,
+   "p": 60,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UV2YULUG",
+   "ath": 19,
+   "d": "#G0GGJ9P",
+   "dth": 19,
+   "dur": 135,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20YYCG08",
+   "ath": 16,
+   "d": "#9QVGJQUV0",
+   "dth": 18,
+   "dur": 104,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 70.666664,
+  "destruction": 77.333336,
   "members": [
    {
     "name": "JonyNation",
@@ -781,12 +847,12 @@
    }
   ],
   "name": "#Black Stone# 5",
-  "stars": 59,
+  "stars": 65,
   "tag": "#2GLY98C9U"
  },
  "end": "20261127T182620.000Z",
  "opponent": {
-  "destruction": 83.13333,
+  "destruction": 89.8,
   "members": [
    {
     "name": "THE SCORPION",
@@ -970,7 +1036,7 @@
    }
   ],
   "name": "POWER OF GUJJU",
-  "stars": 69,
+  "stars": 75,
   "tag": "#Y2CVPCVG"
  },
  "start": "20261126T182620.000Z",
