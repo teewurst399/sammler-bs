@@ -857,11 +857,154 @@
    "p": 89,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#9YGLRUJRG",
+   "ath": 19,
+   "d": "#29QR02VPR",
+   "dth": 19,
+   "dur": 131,
+   "o": 79,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#29QR02VPR",
+   "ath": 19,
+   "d": "#UGY28JY",
+   "dth": 19,
+   "dur": 91,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#29QR02VPR",
+   "ath": 19,
+   "d": "#20CU9J9L2",
+   "dth": 19,
+   "dur": 122,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJU2UQ0P",
+   "ath": 19,
+   "d": "#LLYG89L00",
+   "dth": 19,
+   "dur": 133,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QVC2PLL8",
+   "ath": 19,
+   "d": "#Q28P20J0",
+   "dth": 19,
+   "dur": 164,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJU2UQ0P",
+   "ath": 19,
+   "d": "#PCCGU2U2U",
+   "dth": 19,
+   "dur": 150,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P0QRCQQ2",
+   "ath": 19,
+   "d": "#9JJLPJ008",
+   "dth": 19,
+   "dur": 153,
+   "o": 85,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QVC2PLL8",
+   "ath": 19,
+   "d": "#28YYUG9UG",
+   "dth": 19,
+   "dur": 165,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GVQPV8R98",
+   "ath": 15,
+   "d": "#9YGLRUJRG",
+   "dth": 19,
+   "dur": 15,
+   "o": 87,
+   "p": 2,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#UGY28JY",
+   "ath": 19,
+   "d": "#GYQYLY98J",
+   "dth": 8,
+   "dur": 11,
+   "o": 88,
+   "p": 40,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#UGY28JY",
+   "ath": 19,
+   "d": "#GVQPV8R98",
+   "dth": 15,
+   "dur": 25,
+   "o": 89,
+   "p": 42,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#P0QRCQQ2",
+   "ath": 19,
+   "d": "#9RLGU8UCC",
+   "dth": 19,
+   "dur": 136,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GVQPV8R98",
+   "ath": 15,
+   "d": "#82GYRJL2Q",
+   "dth": 19,
+   "dur": 11,
+   "o": 91,
+   "p": 2,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 58.425,
+  "destruction": 72.05,
   "members": [
    {
     "name": "Sinan |",
@@ -1105,7 +1248,7 @@
    }
   ],
   "name": "#Black Stone# 2",
-  "stars": 67,
+  "stars": 84,
   "tag": "#282PGVRRJ"
  },
  "end": "20261128T004111.000Z",

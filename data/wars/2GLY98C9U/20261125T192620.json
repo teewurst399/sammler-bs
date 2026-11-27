@@ -659,11 +659,209 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#RR8U80YC",
+   "ath": 19,
+   "d": "#Q2JLYQ80V",
+   "dth": 19,
+   "dur": 133,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RR8U80YC",
+   "ath": 19,
+   "d": "#9829RPY2G",
+   "dth": 19,
+   "dur": 127,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#88GJJQL0",
+   "ath": 19,
+   "d": "#8JYQ09YUL",
+   "dth": 18,
+   "dur": 107,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P8PQ0VJ29",
+   "ath": 14,
+   "d": "#9GYQJJRPL",
+   "dth": 14,
+   "dur": 149,
+   "o": 64,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P8PQ0VJ29",
+   "ath": 14,
+   "d": "#QCUVVJVP2",
+   "dth": 15,
+   "dur": 180,
+   "o": 65,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#29LCQPJCV",
+   "ath": 18,
+   "d": "#PL8PGP0VL",
+   "dth": 19,
+   "dur": 142,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#29LCQPJCV",
+   "ath": 18,
+   "d": "#9C0LQVVUL",
+   "dth": 19,
+   "dur": 124,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9UV2YULUG",
+   "ath": 19,
+   "d": "#Q2Q98YVP",
+   "dth": 19,
+   "dur": 100,
+   "o": 68,
+   "p": 59,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0GGJ9P",
+   "ath": 19,
+   "d": "#L0YY082P",
+   "dth": 19,
+   "dur": 180,
+   "o": 69,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2UGGP8J08",
+   "ath": 16,
+   "d": "#QCUVVJVP2",
+   "dth": 15,
+   "dur": 123,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GL20RC0RR",
+   "ath": 16,
+   "d": "#9JV0Y2R2R",
+   "dth": 18,
+   "dur": 160,
+   "o": 71,
+   "p": 90,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G0GGJ9P",
+   "ath": 19,
+   "d": "#8QG2PLJCP",
+   "dth": 19,
+   "dur": 127,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LRJU9YJY9",
+   "ath": 19,
+   "d": "#L0YY082P",
+   "dth": 19,
+   "dur": 156,
+   "o": 73,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2UGGP8J08",
+   "ath": 16,
+   "d": "#9GYQJJRPL",
+   "dth": 14,
+   "dur": 142,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GL20RC0RR",
+   "ath": 16,
+   "d": "#9JVR2R9LY",
+   "dth": 18,
+   "dur": 180,
+   "o": 75,
+   "p": 93,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L2J29LLP2",
+   "ath": 19,
+   "d": "#L0YY082P",
+   "dth": 19,
+   "dur": 103,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#92YRGJ8",
+   "ath": 19,
+   "d": "#9JVR2R9LY",
+   "dth": 18,
+   "dur": 135,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9829RPY2G",
+   "ath": 19,
+   "d": "#GYRLV0JCV",
+   "dth": 18,
+   "dur": 153,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 77.333336,
+  "destruction": 95.8,
   "members": [
    {
     "name": "JonyNation",
@@ -847,12 +1045,12 @@
    }
   ],
   "name": "#Black Stone# 5",
-  "stars": 65,
+  "stars": 85,
   "tag": "#2GLY98C9U"
  },
  "end": "20261127T182620.000Z",
  "opponent": {
-  "destruction": 89.8,
+  "destruction": 96.666664,
   "members": [
    {
     "name": "THE SCORPION",
@@ -1036,7 +1234,7 @@
    }
   ],
   "name": "POWER OF GUJJU",
-  "stars": 75,
+  "stars": 83,
   "tag": "#Y2CVPCVG"
  },
  "start": "20261126T182620.000Z",
