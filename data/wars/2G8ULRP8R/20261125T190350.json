@@ -560,11 +560,33 @@
    "p": 7,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#Q0L2GJ8CQ",
+   "ath": 13,
+   "d": "#Q8V009CP",
+   "dth": 19,
+   "dur": 42,
+   "o": 52,
+   "p": 17,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GQVRJRYVG",
+   "ath": 19,
+   "d": "#9LJYVPVVJ",
+   "dth": 19,
+   "dur": 132,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 93.35,
+  "destruction": 95.45,
   "members": [
    {
     "name": "Mega |V",
@@ -688,7 +710,7 @@
    }
   ],
   "name": "#Black Stone# 6",
-  "stars": 53,
+  "stars": 55,
   "tag": "#2G8ULRP8R"
  },
  "end": "20261127T180350.000Z",
@@ -821,7 +843,7 @@
   "tag": "#2RG2CU2J2"
  },
  "start": "20261126T180350.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 20,
  "type": "krieg"
 }

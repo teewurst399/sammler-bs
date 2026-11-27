@@ -1,0 +1,145 @@
+{
+ "attacks": [],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "Alter\"RUSHER\" 1",
+    "pos": 3,
+    "tag": "#Q9VCUJQL0",
+    "th": 18
+   },
+   {
+    "name": "Verwalter Rh12",
+    "pos": 4,
+    "tag": "#QLUGCV8U",
+    "th": 12
+   },
+   {
+    "name": "v.engineered5",
+    "pos": 7,
+    "tag": "#L8VPUQL0P",
+    "th": 13
+   },
+   {
+    "name": "verw120",
+    "pos": 6,
+    "tag": "#P2L20G80C",
+    "th": 13
+   },
+   {
+    "name": "CwnoobVerwalter",
+    "pos": 1,
+    "tag": "#80G2RCQ",
+    "th": 19
+   },
+   {
+    "name": "v.engineered4",
+    "pos": 8,
+    "tag": "#LYL8VUP00",
+    "th": 13
+   },
+   {
+    "name": "v.engineered3",
+    "pos": 9,
+    "tag": "#GR88LQG02",
+    "th": 13
+   },
+   {
+    "name": "who needs walls",
+    "pos": 10,
+    "tag": "#9P2RYPY9P",
+    "th": 11
+   },
+   {
+    "name": "Alter Verwalter",
+    "pos": 2,
+    "tag": "#L0YPP8YG",
+    "th": 16
+   },
+   {
+    "name": "Verw559",
+    "pos": 5,
+    "tag": "#928RJG8JQ",
+    "th": 12
+   }
+  ],
+  "name": "Alter Verwalter",
+  "stars": 0,
+  "tag": "#2RGVRLQ8V"
+ },
+ "end": "20261128T175616.000Z",
+ "opponent": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "Quandale Dingle",
+    "pos": 3,
+    "tag": "#G8J8YRCJV",
+    "th": 14
+   },
+   {
+    "name": "Dylan",
+    "pos": 4,
+    "tag": "#R29QRPV0",
+    "th": 13
+   },
+   {
+    "name": "royalz1",
+    "pos": 1,
+    "tag": "#VY92UR2U",
+    "th": 17
+   },
+   {
+    "name": "Willy_Quick2.0",
+    "pos": 10,
+    "tag": "#QP028P09Y",
+    "th": 9
+   },
+   {
+    "name": "Brigg",
+    "pos": 5,
+    "tag": "#L2CYGLCPC",
+    "th": 13
+   },
+   {
+    "name": "JeviJev",
+    "pos": 8,
+    "tag": "#LCGLVG9RR",
+    "th": 12
+   },
+   {
+    "name": "fuzzinator",
+    "pos": 2,
+    "tag": "#C0C9L9P2",
+    "th": 15
+   },
+   {
+    "name": "Q Sizzle",
+    "pos": 9,
+    "tag": "#R8JJJ8J9P",
+    "th": 10
+   },
+   {
+    "name": "Fuzzy",
+    "pos": 6,
+    "tag": "#LL0QUGPJ0",
+    "th": 13
+   },
+   {
+    "name": "Rick",
+    "pos": 7,
+    "tag": "#G28V2Y2RC",
+    "th": 12
+   }
+  ],
+  "name": "SplashOfClass",
+  "stars": 0,
+  "tag": "#PJL82Q9G"
+ },
+ "start": "20261127T175616.000Z",
+ "state": "inWar",
+ "teamSize": 10,
+ "type": "krieg"
+}
