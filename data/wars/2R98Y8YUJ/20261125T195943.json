@@ -1231,11 +1231,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2V2RUPJLR",
+   "ath": 19,
+   "d": "#22UUU0VCR",
+   "dth": 19,
+   "dur": 166,
+   "o": 113,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YGYYRQLY",
+   "ath": 19,
+   "d": "#YG9LLQ8L",
+   "dth": 19,
+   "dur": 160,
+   "o": 114,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#20GLC0LUG",
+   "ath": 18,
+   "d": "#G0V9PL2P",
+   "dth": 19,
+   "dur": 151,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20YYPPYCC",
+   "ath": 19,
+   "d": "#PQQY80RLC",
+   "dth": 19,
+   "dur": 129,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20YYPPYCC",
+   "ath": 19,
+   "d": "#L08CGQPQC",
+   "dth": 19,
+   "dur": 176,
+   "o": 117,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#JV2PV",
+   "ath": 19,
+   "d": "#9JRLJVLPP",
+   "dth": 19,
+   "dur": 92,
+   "o": 118,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20GLC0LUG",
+   "ath": 18,
+   "d": "#UQ298J9R",
+   "dth": 19,
+   "dur": 180,
+   "o": 119,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L08CGQPQC",
+   "ath": 19,
+   "d": "#8J8GPJLUG",
+   "dth": 19,
+   "dur": 93,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JV2PV",
+   "ath": 19,
+   "d": "#9992JLQC2",
+   "dth": 19,
+   "dur": 84,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L08CGQPQC",
+   "ath": 19,
+   "d": "#QUCU2L8G",
+   "dth": 19,
+   "dur": 139,
+   "o": 122,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 83.94,
+  "destruction": 90.0,
   "members": [
    {
     "name": "Hunga Munga",
@@ -1539,12 +1649,12 @@
    }
   ],
   "name": "Get Buttered!",
-  "stars": 125,
+  "stars": 135,
   "tag": "#2R98Y8YUJ"
  },
  "end": "20261127T185943.000Z",
  "opponent": {
-  "destruction": 80.84,
+  "destruction": 91.74,
   "members": [
    {
     "name": "Meysam",
@@ -1848,7 +1958,7 @@
    }
   ],
   "name": "برمودا",
-  "stars": 115,
+  "stars": 129,
   "tag": "#YRG02QQP"
  },
  "start": "20261126T185943.000Z",

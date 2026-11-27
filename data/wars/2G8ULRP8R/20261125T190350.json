@@ -340,6 +340,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2R0G0YLQJ",
+   "ath": 19,
+   "d": "#GPQJC209Y",
+   "dth": 16,
+   "dur": 131,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -473,7 +484,7 @@
  },
  "end": "20261127T180350.000Z",
  "opponent": {
-  "destruction": 87.4,
+  "destruction": 92.4,
   "members": [
    {
     "name": "SaRaaF",
@@ -597,7 +608,7 @@
    }
   ],
   "name": "Sadece Savaş",
-  "stars": 51,
+  "stars": 54,
   "tag": "#2RG2CU2J2"
  },
  "start": "20261126T180350.000Z",
