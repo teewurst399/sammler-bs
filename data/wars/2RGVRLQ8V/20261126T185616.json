@@ -1,5 +1,28 @@
 {
- "attacks": [],
+ "attacks": [
+  {
+   "a": "#R29QRPV0",
+   "ath": 13,
+   "d": "#Q9VCUJQL0",
+   "dth": 18,
+   "dur": 47,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QP028P09Y",
+   "ath": 9,
+   "d": "#9P2RYPY9P",
+   "dth": 11,
+   "dur": 69,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
  "attacksPerMember": 2,
  "clan": {
   "destruction": 0.0,
@@ -71,7 +94,7 @@
  },
  "end": "20261128T175616.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 20.0,
   "members": [
    {
     "name": "Quandale Dingle",
@@ -135,7 +158,7 @@
    }
   ],
   "name": "SplashOfClass",
-  "stars": 0,
+  "stars": 6,
   "tag": "#PJL82Q9G"
  },
  "start": "20261127T175616.000Z",
