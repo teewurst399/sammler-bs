@@ -340,6 +340,17 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8UL8LG9JJ",
+   "ath": 19,
+   "d": "#YVUUVCVG8",
+   "dth": 19,
+   "dur": 180,
+   "o": 32,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -593,7 +604,7 @@
  },
  "end": "20261127T195841.000Z",
  "opponent": {
-  "destruction": 20.825,
+  "destruction": 23.0,
   "members": [
    {
     "name": "suxl",
@@ -837,7 +848,7 @@
    }
   ],
   "name": "ANTICO ESERCITO",
-  "stars": 21,
+  "stars": 23,
   "tag": "#2QQC2098Y"
  },
  "start": "20261126T195841.000Z",
