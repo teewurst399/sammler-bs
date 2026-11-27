@@ -527,6 +527,17 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QQP9PLRJ2",
+   "ath": 19,
+   "d": "#YUCY2QGU",
+   "dth": 19,
+   "dur": 138,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -780,7 +791,7 @@
  },
  "end": "20261128T004111.000Z",
  "opponent": {
-  "destruction": 63.45,
+  "destruction": 65.95,
   "members": [
    {
     "name": "Rey Lagarto",
@@ -1024,7 +1035,7 @@
    }
   ],
   "name": "ONLY ONE LEGEND",
-  "stars": 76,
+  "stars": 79,
   "tag": "#8GPRV92"
  },
  "start": "20261127T004111.000Z",

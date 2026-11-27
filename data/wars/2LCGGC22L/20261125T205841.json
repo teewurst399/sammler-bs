@@ -637,6 +637,61 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YLJYLLRJR",
+   "ath": 19,
+   "d": "#G9R980C2U",
+   "dth": 19,
+   "dur": 107,
+   "o": 59,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#22YJ0VRR0",
+   "ath": 19,
+   "d": "#UUV2R80",
+   "dth": 19,
+   "dur": 90,
+   "o": 60,
+   "p": 49,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CCUCYCUC",
+   "ath": 19,
+   "d": "#8GR0P9UQL",
+   "dth": 19,
+   "dur": 156,
+   "o": 61,
+   "p": 71,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CCUCYCUC",
+   "ath": 19,
+   "d": "#UUV2R80",
+   "dth": 19,
+   "dur": 78,
+   "o": 62,
+   "p": 73,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#22YJ0VRR0",
+   "ath": 19,
+   "d": "#GYPJPGR00",
+   "dth": 19,
+   "dur": 107,
+   "o": 63,
+   "p": 61,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -890,7 +945,7 @@
  },
  "end": "20261127T195841.000Z",
  "opponent": {
-  "destruction": 45.25,
+  "destruction": 50.95,
   "members": [
    {
     "name": "suxl",
@@ -1134,7 +1189,7 @@
    }
   ],
   "name": "ANTICO ESERCITO",
-  "stars": 48,
+  "stars": 54,
   "tag": "#2QQC2098Y"
  },
  "start": "20261126T195841.000Z",
