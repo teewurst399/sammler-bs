@@ -274,11 +274,22 @@
    "p": 89,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#PC2YJV9C9",
+   "ath": 19,
+   "d": "#2P0CUJ98U",
+   "dth": 19,
+   "dur": 140,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 94.933334,
+  "destruction": 96.066666,
   "members": [
    {
     "name": "GuebosFritos™",
@@ -372,7 +383,7 @@
    }
   ],
   "name": "ClashFusion",
-  "stars": 38,
+  "stars": 40,
   "tag": "#PPUVRYUP"
  },
  "end": "20261128T195950.000Z",
