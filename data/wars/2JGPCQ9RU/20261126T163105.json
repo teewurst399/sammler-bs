@@ -703,6 +703,61 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YYU2VGYGJ",
+   "ath": 18,
+   "d": "#Q220RQJ08",
+   "dth": 18,
+   "dur": 142,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYU2VGYGJ",
+   "ath": 18,
+   "d": "#PLGUQVJ28",
+   "dth": 19,
+   "dur": 119,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GUU8JLC9",
+   "ath": 18,
+   "d": "#PCJG8YQP8",
+   "dth": 19,
+   "dur": 53,
+   "o": 67,
+   "p": 63,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Y8YGCC92Y",
+   "ath": 18,
+   "d": "#PCJG8YQP8",
+   "dth": 19,
+   "dur": 52,
+   "o": 68,
+   "p": 62,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Y8YGCC92Y",
+   "ath": 18,
+   "d": "#G9QLQ2GJP",
+   "dth": 19,
+   "dur": 64,
+   "o": 69,
+   "p": 71,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -836,7 +891,7 @@
  },
  "end": "20261128T153105.000Z",
  "opponent": {
-  "destruction": 97.2,
+  "destruction": 99.15,
   "members": [
    {
     "name": "Black",
@@ -960,7 +1015,7 @@
    }
   ],
   "name": "TJK ДУШАНБЕ",
-  "stars": 56,
+  "stars": 58,
   "tag": "#28LGQLY0U"
  },
  "start": "20261127T153105.000Z",
