@@ -1,0 +1,196 @@
+{
+ "attacks": [
+  {
+   "a": "#LPJVPJQCL",
+   "ath": 19,
+   "d": "#LGYUYVG0",
+   "dth": 19,
+   "dur": 170,
+   "o": 1,
+   "p": 83,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#C8PQ888U",
+   "ath": 19,
+   "d": "#2UG2JQCY9",
+   "dth": 19,
+   "dur": 180,
+   "o": 2,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJ88QJG8V",
+   "ath": 19,
+   "d": "#YQ2RYVCLJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 3,
+   "p": 69,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#UGLLL2GU",
+   "ath": 19,
+   "d": "#C8PQ888U",
+   "dth": 19,
+   "dur": 157,
+   "o": 4,
+   "p": 70,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LGYUYVG0",
+   "ath": 19,
+   "d": "#UGLLL2GU",
+   "dth": 19,
+   "dur": 175,
+   "o": 5,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UG2JQCY9",
+   "ath": 19,
+   "d": "#29P0YJV8C",
+   "dth": 19,
+   "dur": 139,
+   "o": 6,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9LRQUY0C8",
+   "ath": 19,
+   "d": "#98PY9JJJ",
+   "dth": 19,
+   "dur": 162,
+   "o": 7,
+   "p": 60,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#98PY9JJJ",
+   "ath": 19,
+   "d": "#GJ88QJG8V",
+   "dth": 19,
+   "dur": 166,
+   "o": 8,
+   "p": 62,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#29P0YJV8C",
+   "ath": 19,
+   "d": "#LPJVPJQCL",
+   "dth": 19,
+   "dur": 180,
+   "o": 9,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQ2RYVCLJ",
+   "ath": 19,
+   "d": "#9LRQUY0C8",
+   "dth": 19,
+   "dur": 168,
+   "o": 10,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 1,
+ "clan": {
+  "destruction": 80.6,
+  "members": [
+   {
+    "name": "卡戎Charon",
+    "pos": 3,
+    "tag": "#YQ2RYVCLJ",
+    "th": 19
+   },
+   {
+    "name": "HZN RS",
+    "pos": 1,
+    "tag": "#UGLLL2GU",
+    "th": 19
+   },
+   {
+    "name": "NF❄️Luka$",
+    "pos": 2,
+    "tag": "#98PY9JJJ",
+    "th": 19
+   },
+   {
+    "name": "x-lMatatabi",
+    "pos": 5,
+    "tag": "#2UG2JQCY9",
+    "th": 19
+   },
+   {
+    "name": "Höllenzwerg",
+    "pos": 4,
+    "tag": "#LPJVPJQCL",
+    "th": 19
+   }
+  ],
+  "name": "Horizon Gaming",
+  "stars": 10,
+  "tag": "#2C9V9V8R2"
+ },
+ "end": "20261127T215445.000Z",
+ "opponent": {
+  "destruction": 75.4,
+  "members": [
+   {
+    "name": "SOL",
+    "pos": 5,
+    "tag": "#C8PQ888U",
+    "th": 19
+   },
+   {
+    "name": "Nubix",
+    "pos": 1,
+    "tag": "#29P0YJV8C",
+    "th": 19
+   },
+   {
+    "name": "Wifigo",
+    "pos": 4,
+    "tag": "#LGYUYVG0",
+    "th": 19
+   },
+   {
+    "name": "BitcoinKing",
+    "pos": 3,
+    "tag": "#GJ88QJG8V",
+    "th": 19
+   },
+   {
+    "name": "Try/It",
+    "pos": 2,
+    "tag": "#9LRQUY0C8",
+    "th": 19
+   }
+  ],
+  "name": "KriegsClan",
+  "stars": 10,
+  "tag": "#2L9QRJP"
+ },
+ "start": "20261127T210945.000Z",
+ "state": "warEnded",
+ "teamSize": 5,
+ "type": "krieg"
+}
