@@ -153,11 +153,154 @@
    "p": 59,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#R8JJJ8J9P",
+   "ath": 10,
+   "d": "#9P2RYPY9P",
+   "dth": 11,
+   "dur": 87,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R8JJJ8J9P",
+   "ath": 10,
+   "d": "#GR88LQG02",
+   "dth": 13,
+   "dur": 82,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#80G2RCQ",
+   "ath": 19,
+   "d": "#VY92UR2U",
+   "dth": 17,
+   "dur": 99,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#80G2RCQ",
+   "ath": 19,
+   "d": "#G8J8YRCJV",
+   "dth": 14,
+   "dur": 72,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8VPUQL0P",
+   "ath": 13,
+   "d": "#LL0QUGPJ0",
+   "dth": 13,
+   "dur": 53,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L0YPP8YG",
+   "ath": 16,
+   "d": "#C0C9L9P2",
+   "dth": 15,
+   "dur": 68,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P2L20G80C",
+   "ath": 13,
+   "d": "#R29QRPV0",
+   "dth": 13,
+   "dur": 92,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GR88LQG02",
+   "ath": 13,
+   "d": "#G28V2Y2RC",
+   "dth": 12,
+   "dur": 76,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LYL8VUP00",
+   "ath": 13,
+   "d": "#LCGLVG9RR",
+   "dth": 12,
+   "dur": 61,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8VPUQL0P",
+   "ath": 13,
+   "d": "#R8JJJ8J9P",
+   "dth": 10,
+   "dur": 46,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LYL8VUP00",
+   "ath": 13,
+   "d": "#QP028P09Y",
+   "dth": 9,
+   "dur": 48,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9VCUJQL0",
+   "ath": 18,
+   "d": "#L2CYGLCPC",
+   "dth": 13,
+   "dur": 46,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L0YPP8YG",
+   "ath": 16,
+   "d": "#VY92UR2U",
+   "dth": 17,
+   "dur": 99,
+   "o": 27,
+   "p": 84,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Alter\"RUSHER\" 1",
@@ -221,7 +364,7 @@
    }
   ],
   "name": "Alter Verwalter",
-  "stars": 0,
+  "stars": 30,
   "tag": "#2RGVRLQ8V"
  },
  "end": "20261128T175616.000Z",
