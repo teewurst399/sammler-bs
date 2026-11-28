@@ -109,11 +109,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#LU22QCCQG",
+   "ath": 19,
+   "d": "#GG2CG22Y",
+   "dth": 19,
+   "dur": 120,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PCJR2Y9L0",
+   "ath": 19,
+   "d": "#8L2PPLJ0U",
+   "dth": 19,
+   "dur": 144,
+   "o": 12,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PCJR2Y9L0",
+   "ath": 19,
+   "d": "#9RJG0VGVR",
+   "dth": 19,
+   "dur": 163,
+   "o": 13,
+   "p": 73,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#RR9RL8J8",
+   "ath": 18,
+   "d": "#2P0CUJ98U",
+   "dth": 19,
+   "dur": 142,
+   "o": 14,
+   "p": 83,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 51.666668,
+  "destruction": 74.8,
   "members": [
    {
     "name": "GuebosFritos™",
@@ -207,7 +251,7 @@
    }
   ],
   "name": "ClashFusion",
-  "stars": 21,
+  "stars": 28,
   "tag": "#PPUVRYUP"
  },
  "end": "20261128T195950.000Z",
