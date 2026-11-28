@@ -208,11 +208,77 @@
    "p": 93,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#CPCC0C02",
+   "ath": 19,
+   "d": "#Q9URYG08",
+   "dth": 19,
+   "dur": 168,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CPCC0C02",
+   "ath": 19,
+   "d": "#92C0PY2C",
+   "dth": 19,
+   "dur": 180,
+   "o": 21,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GG2CG22Y",
+   "ath": 19,
+   "d": "#PC2YJV9C9",
+   "dth": 19,
+   "dur": 156,
+   "o": 22,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YV0GCYPY",
+   "ath": 19,
+   "d": "#PGQ2Q9JU",
+   "dth": 19,
+   "dur": 155,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9YV0GCYPY",
+   "ath": 19,
+   "d": "#CPCC0C02",
+   "dth": 19,
+   "dur": 125,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GG2CG22Y",
+   "ath": 19,
+   "d": "#PCJR2Y9L0",
+   "dth": 19,
+   "dur": 106,
+   "o": 25,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 94.2,
+  "destruction": 94.933334,
   "members": [
    {
     "name": "GuebosFritos™",
@@ -306,12 +372,12 @@
    }
   ],
   "name": "ClashFusion",
-  "stars": 36,
+  "stars": 38,
   "tag": "#PPUVRYUP"
  },
  "end": "20261128T195950.000Z",
  "opponent": {
-  "destruction": 10.2,
+  "destruction": 34.133335,
   "members": [
    {
     "name": "OTTOMAN EMPİRE⭐",
@@ -405,7 +471,7 @@
    }
   ],
   "name": "OTTOMAN EMPİRE",
-  "stars": 4,
+  "stars": 13,
   "tag": "#2QQG8GQCU"
  },
  "start": "20261127T195950.000Z",
